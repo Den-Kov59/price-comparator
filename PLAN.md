@@ -218,5 +218,12 @@ Private label never matches across shops — accept it. Loose produce has no bra
 4. **ATB brand backfill unproven** — see the note in section 0.
 5. **Fora** — not probed. Would add a second Vinnytsia option if it works.
 6. **Silpo weighted-goods unit** — one manual check on silpo.ua.
-7. `prices` gained a `tiers` column — **delete `prices.db`** before the next run, or the insert fails.
-8. Delete the misleading `tests/fixtures/atb_stores.json`.
+7. Schema changed (`prices.tiers`). No `prices.db` exists yet, so nothing to migrate — but if one appears before the next schema change, delete it rather than migrate.
+
+## What's in git
+
+`.gitignore` covers the generated stuff: `*.db`, `__pycache__/`, editor dirs, plus two dead fixtures (`silpo_branches.json`, `atb_stores.json`) that were already committed and are now untracked.
+
+**Fixtures are committed on purpose.** They're inputs, not artifacts — `test_adapters.py` parses five of them offline, and they're the only warning system for a silent upstream format change. `atb_categories.txt` is read at *runtime* by `categories`, so it isn't test-only despite living under `tests/`.
+
+`.gitattributes` marks `tests/fixtures/**` as `-text`. They're byte-exact captures of what the shops served; without it, writing them on Windows produced CRLF against git's stored LF and all 16 showed as fully modified on every checkout.

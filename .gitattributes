@@ -1,0 +1,8 @@
+# Fixtures are captured payloads — byte-exact copies of what the shops served.
+# Without this, writing them on Windows gives CRLF, git stored LF, and all 16
+# show as fully modified on every checkout. -text tells git to leave them alone.
+tests/fixtures/** -text
+
+# Source stays normalised.
+*.py text eol=lf
+*.md text eol=lf

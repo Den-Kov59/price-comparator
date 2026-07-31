@@ -1,0 +1,28 @@
+# Runtime output. Rebuilt by `python -m price_comparator scrape`.
+*.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Probe output nothing reads. silpo_branches.json is 1 MB of branch records that
+# served its purpose once (picking the Vinnytsia branch ID, now in config.py).
+# atb_stores.json is a dud — the ?chain=atb filter was ignored, so it is a
+# byte-identical copy of zakaz_stores.json. Safe to delete outright.
+tests/fixtures/silpo_branches.json
+tests/fixtures/atb_stores.json
+
+# Editors / envs
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Everything else under tests/fixtures/ is COMMITTED ON PURPOSE. Those files are
+# inputs, not artifacts:
+#   - test_adapters.py parses 5 of them offline; without them the suite cannot
+#     run on a fresh clone, and they are the only defence against a silent
+#     upstream HTML/JSON change.
+#   - atb_categories.txt is read at RUNTIME by `price_comparator categories`,
+#     so it is not test-only despite living in tests/.
+#   - zakaz_stores.json is the lookup table for adding more chains later.
