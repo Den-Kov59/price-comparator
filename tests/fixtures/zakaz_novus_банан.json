@@ -1,0 +1,3637 @@
+{
+  "count": 183,
+  "count_available": 140,
+  "results": [
+    {
+      "ean": "04820153751057",
+      "sku": "414976",
+      "title": "Банан Almond сушений 100г",
+      "price": 4399,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4399,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dried-bananas",
+      "parent_category_id": "fruits-and-vegetables",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "346.00ккал",
+        "ingredient_protein": "3.90г",
+        "ingredient_fat": "1.80г",
+        "ingredient_carbohydrates": "88.30г"
+      },
+      "slug": "sukhofrukti-banan-almond-100g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/sukhofrukti-banan-almond-100g-ukrayina--04820153751057/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Банани сушені.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "18 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "В'єтнам",
+      "producer": {
+        "trademark": "Almond",
+        "trademark_slug": "almond",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.2b0c533fb4cde8c215b2bf911692c7c2.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.2b0c533fb4cde8c215b2bf911692c7c2.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.2b0c533fb4cde8c215b2bf911692c7c2.64x64.png"
+        },
+        "name": "тов \"снек драйв\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.150x150.jpeg",
+        "s200x200": "https://img2.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.200x200.jpeg",
+        "s350x350": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.350x350.jpeg",
+        "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.1350x1350.jpeg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.150x150.jpeg",
+          "s200x200": "https://img2.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.200x200.jpeg",
+          "s350x350": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.350x350.jpeg",
+          "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.b041565047df41eca6d778975aadcf42.1350x1350.jpeg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 100.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08445291497627",
+      "sku": "427482",
+      "title": "Снеки-гризунці Gerber Банан 28г",
+      "price": 10900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 10900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cookies-and-rusks",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "428.00ккал",
+        "ingredient_protein": "6.20г",
+        "ingredient_fat": "9.90г",
+        "ingredient_carbohydrates": "77.00г"
+      },
+      "slug": "snek-gerber-28g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/snek-gerber-28g--08445291497627/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Борошно пшеничне (містить глютен) 46,4%, крупа кукурудзяна 41,7%, олія соняшникова з високим вмістом олеїнової кислоти, банани в порошку 5%, кальцію карбонат, антиоксидант (альфа-токоферол), вітамін В1.<br><br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Португалія",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": "Nestle S.A."
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 28.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823063127998",
+      "sku": "424590",
+      "title": "Пюре Агуня яблуко-банан 90г",
+      "price": 3799,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3799,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "66.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "16.00г"
+      },
+      "slug": "piure-agunia-90g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-agunia-90g-ukrayina--04823063127998/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Яблучне пюре (85%), бананове пюре (15%).<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Агуня",
+        "trademark_slug": "agunia",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "фермерське господарство \"гадз\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/08b7531af84f4825a94cead563154dc4/1776934973-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/866c9f905bbe4dc7aac489b4326dab0d/1776934973-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/866c9f905bbe4dc7aac489b4326dab0d/1776934973-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/866c9f905bbe4dc7aac489b4326dab0d/1776934973-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/866c9f905bbe4dc7aac489b4326dab0d/1776934973-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 90.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820132708454",
+      "sku": "355420",
+      "title": "Желе Еко Банан 81г",
+      "price": 2499,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2499,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "jelly",
+      "parent_category_id": "packets-cereals",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "369.00ккал",
+        "ingredient_protein": "10.50г",
+        "ingredient_fat": "0.10г",
+        "ingredient_carbohydrates": "85.30г"
+      },
+      "slug": "zhele-eko-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/zhele-eko-90g--04820132708454/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Цукор, желюючий агент желатин, кислота лимонна, ароматизатор \"Банан\", барвник натуральний куркумін.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "5...20",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Еко",
+        "trademark_slug": "eko",
+        "website": "eko.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.56e72215e788d2ab2b1ccaabca1012f7.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.56e72215e788d2ab2b1ccaabca1012f7.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.56e72215e788d2ab2b1ccaabca1012f7.64x64.png"
+        },
+        "name": "прат \"екотехніка\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/a30c7e8b00004210818dda23af259477/1716359385-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 81.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05900334013316",
+      "sku": "395410",
+      "title": "Нектар Tymbark Жовтий банан 1л",
+      "price": 11900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 11900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "nectar",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "48.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "11.00г"
+      },
+      "slug": "nektar-1000ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/nektar-1000ml--05900334013316/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна, бананове пюре 30%, цукор, та/або глюкозно-фруктозний сироп, регулятор кислотності лимонна кислота, калій.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Tymbark",
+        "trademark_slug": "tymbark",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.64x64.png"
+        },
+        "name": "Tymbark-MWS Sp. z o.o."
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/1423f3dce79240e79141330cc0c13417/1678169305-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1052.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003687376",
+      "sku": "85422",
+      "title": "Нектар Jaffa Банан-полуниця 200мл",
+      "price": 2699,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2699,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 200.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "nectar",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "Полуниця - низькокалорійний продукт, який зміцнює імунну та серцево-судинну системи, нормалізує обмін речовин. А банани роблять нас розумнішими і підвищують настрій. Разом вони прекрасно доповнюють один одного і дають солодкий і в той же час свіжий смак. Фрукти містять великий набір вітамінів (В1, В2, В3, В9, А, РР, С і Е), макро- і мікроелементи, органічні кислоти і натуральний цукор. Jaffa Minions- це не просто задоволення, а мегатопліво для мозку! Улюблені герої допоможуть зробити шкільні будні і канікули веселими і цікавими.",
+      "nutrition_facts": {
+        "ingredient_energy": "45.00ккал",
+        "ingredient_protein": "0.20г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "11.70г"
+      },
+      "slug": "nektar-dzhaffa-200ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/nektar-dzhaffa-200ml--04820003687376/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна артезіанська, пюре бананове (25%), пюре полуничне (5%), глюкозно-фруктозний сироп, цукор, регулятор кислотності - лимонна кислота, екстракт моркви.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Jaffa",
+        "trademark_slug": "jaffa",
+        "website": "vitmark.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.32x32.jpg",
+          "s16x16": "https://img3.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.16x16.jpg",
+          "s64x64": "https://img2.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.64x64.jpg"
+        },
+        "name": "тов сп \"вітмарк-україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/b040d04946ee40a1ac783220834be041/1756915446-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/83e5427e8c864b03b9a63f50360c0bf6/1756915446-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/83e5427e8c864b03b9a63f50360c0bf6/1756915446-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/83e5427e8c864b03b9a63f50360c0bf6/1756915446-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/83e5427e8c864b03b9a63f50360c0bf6/1756915446-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/9e3ff58b70534224a4273306bd99d81d/1756915446-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/9e3ff58b70534224a4273306bd99d81d/1756915446-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/9e3ff58b70534224a4273306bd99d81d/1756915446-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/9e3ff58b70534224a4273306bd99d81d/1756915446-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 226.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823113303495",
+      "sku": "435982",
+      "title": "Сироп Loft Зелений банан 250мл",
+      "price": 7399,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7399,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 250.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "topping",
+      "parent_category_id": "tins-jars-cooking",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "225.00ккал",
+        "ingredient_carbohydrates": "64.00г"
+      },
+      "slug": "sirop-loft-250ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/sirop-loft-250ml-ukrayina--04823113303495/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Цукор білий кристалічний, вода питна підготовлена, патока, регулятори кислотності: цитрат натрію та лимонна кислота, ароматизатор \"Банан\", харчовий барвник \"Зелене яблуко\".<br>"
+      ],
+      "fat": null,
+      "shelf_life": "18 місяців",
+      "temperature_range": "0...22",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Loft",
+        "trademark_slug": "loft",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "тов \"майстерня смаків\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9fb3463d569a4277bf08a56aafd40152/1761644644-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 350.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05449000152367",
+      "sku": "425167",
+      "title": "Нектар Cappy Банан-полуниця 1л",
+      "price": 9999,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 9999,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "nectar",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "12.80г"
+      },
+      "slug": "nektar-kappi-1000ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/nektar-kappi-1000ml-ukrayina--05449000152367/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна, фруктові соки та пюре з концентрату (бананове пюре 19.7%, полуничне пюре 4.5%, яблучний сік 4.4%, сік чорноплідної горобини 1.4%), цукор, кислота (лимонна кислота), натуральний ароматизатор.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "6 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Cappy ",
+        "trademark_slug": "cappy",
+        "website": "coca-colaukraine.com",
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "іп \"кока-кола беверіджиз україна лімітед\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1080.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05900334005526",
+      "sku": "395414",
+      "title": "Напій Tymbark Зелений банан соковий 1л",
+      "price": 8999,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 8999,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "juice-drinks",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "22.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "5.30г"
+      },
+      "slug": "napii-timbark-1000ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/napii-timbark-1000ml--05900334005526/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна, бананове пюре 20%, концентровані соки: яблучний 6%, апельсиновий 2%, лимонний 0,5%, грейпфрутовий 0,5%, регулятор кислотності: лимонна кислота, яблучна кислота та цитрат натрію, антиоксидант - аскорбінова кислота, барвники - Е 141 і куркумін, амортизатори, підсолоджувач - сукралоза.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Tymbark",
+        "trademark_slug": "tymbark",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.4ac2b02465e59354cf718654f5e48762.64x64.png"
+        },
+        "name": "Tymbark-MWS Sp. z o.o."
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/d3f01919bb524538a3f350cb5c6ceeb6/1677525610-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1056.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823061324481",
+      "sku": "389716",
+      "title": "Сирок Агуня Банан-яблуко 3,9% 90г",
+      "price": 2179,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2179,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "108.00ккал",
+        "ingredient_protein": "7.20г",
+        "ingredient_fat": "3.90г",
+        "ingredient_carbohydrates": "11.00г"
+      },
+      "slug": "sir-kislomolochnii-agunia-90g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/sir-kislomolochnii-agunia-90g-ukrayina--04823061324481/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Сир кисломолочний - 88%, наповнювач фруктовий пастеризовний \"Банан\" - 12% (цукор, пюре бананове - 22%, вода питна, пюре яблучне - 5%, сік яблучний концентрований - 2%, загущувач - пектини, крохмаль кукурудзяний, сік морквяний концентрований, натуральні ароматизатори банану та яблока, сік лимонний концентрований).<br>"
+      ],
+      "fat": "3.9%",
+      "shelf_life": "21 доба",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Агуня",
+        "trademark_slug": "agunia",
+        "website": "wbd.ru",
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "вімм-білль-данн"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/d52b98607c7d40ce81d30910f934ade6/1776934973-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/7cb3697c9a7240bc8a8ee39ab7cd732c/1776934973-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/7cb3697c9a7240bc8a8ee39ab7cd732c/1776934973-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/7cb3697c9a7240bc8a8ee39ab7cd732c/1776934973-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7cb3697c9a7240bc8a8ee39ab7cd732c/1776934973-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/37e83d3cc2cd48fd8682994e7aa4f596/1776934973-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/37e83d3cc2cd48fd8682994e7aa4f596/1776934973-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/37e83d3cc2cd48fd8682994e7aa4f596/1776934973-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/37e83d3cc2cd48fd8682994e7aa4f596/1776934973-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 90.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823065728599",
+      "sku": "398486",
+      "title": "Йогурт Фанні Полуниця-банан питний 1% 750г",
+      "price": 6399,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6399,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "yogurt-with-toppings-novus",
+      "parent_category_id": "dairy-and-eggs",
+      "category_filters": [],
+      "description": "Смачний і корисний молочний продукт для всієї родини.",
+      "nutrition_facts": {
+        "ingredient_energy": "68.60ккал",
+        "ingredient_protein": "2.50г",
+        "ingredient_fat": "1.00г",
+        "ingredient_carbohydrates": "12.40г"
+      },
+      "slug": "iogurt-fanni-750g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/iogurt-fanni-750g-ukrayina--04823065728599/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко нормалізоване, цукор, наповнювач фруктовий пастеризований «Полуниця-банан» (3%) (цукор, сік полуничний відновлений (11.16%), полуниця (7.84%), банан (6%), вода, пюре яблучне, модифікований крохмаль кукурудзяний, ароматизатор полуниці, стабілізатор камедь ріжкового дерева/гуарова камедь, ароматизатор «Ваніль-вершки», натуральні барвники карміни, ароматизатор банана, регулятори кислотності: лимонна кислота, цитрат натрію, натуральні барвники: β-каротин/екстракт паприки), модифікований крохмаль кукурудзяний, закваска бактеріальна.<br>"
+      ],
+      "fat": "1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Фанні",
+        "trademark_slug": "fanni",
+        "website": "lactalis.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.64x64.png"
+        },
+        "name": "тов \"молочний дім\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/8cb5cc262ac1449f85adb9af9e58faa9/1751956579-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 750.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226168676",
+      "sku": "416018",
+      "title": "Йогурт Milupa Полуниця-Банан 2,1% 207г",
+      "price": 2599,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2599,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "69.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.10г",
+        "ingredient_fats_saturated": "1.30г",
+        "ingredient_carbohydrates": "9.40г",
+        "ingredient_sugars": "9.40г",
+        "ingredient_salt": "0.12г"
+      },
+      "slug": "iogurt-milupa-207g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/iogurt-milupa-207g--04820226168676/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче, наповнювач \"Полуниця-Банан\" 6% (цукор, вода питна, пюре полуничне 15%, пюре бананове 15%, крохмаль, ароматизатори натуральні: \"Полуниця\", \"Банан\", сік червоного буряка концентрований, сік лимонний концентрований), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "2.1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Milupa",
+        "trademark_slug": "milupa",
+        "website": "https://www.nutricia.com/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.64x64.png"
+        },
+        "name": "Nutricia"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.150x150.jpeg",
+          "s200x200": "https://img3.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.200x200.jpeg",
+          "s350x350": "https://img3.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.350x350.jpeg",
+          "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.1350x1350.jpeg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226168737",
+      "sku": "416017",
+      "title": "Йогурт Milupa Банан-Абрикос 2,1% 207г",
+      "price": 2599,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2599,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "74.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.10г",
+        "ingredient_carbohydrates": "10.90г"
+      },
+      "slug": "milupa-207g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/milupa-207g--04820226168737/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче, наповнювач \"Банан-Абрикос\" 6% (цукор, пюре бананове 17%, сироп цукровий (цукор, вода питна), крохмаль, пюре абрикосове концентроване 5%, вода питна, сік морквяний концентрований, ароматизатори натуральні: \"Банан\", \"Абрикос\", сік лимонний концентрований), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "2.1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Milupa",
+        "trademark_slug": "milupa",
+        "website": "https://www.nutricia.com/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.64x64.png"
+        },
+        "name": "Nutricia"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.150x150.jpeg",
+          "s200x200": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.200x200.jpeg",
+          "s350x350": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.350x350.jpeg",
+          "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.1350x1350.jpeg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219345176",
+      "sku": "389635",
+      "title": "Пюре Bob Snail Яблуко-банан 250г",
+      "price": 8099,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 8099,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пастеризоване фруктове шеф-пюре Bob Snail Яблуко-Банан\n підкорює насиченим смаком та густою текстурою. На виробництво 1 кг пюре йде аж\n 3 кг свіжих фруктів! Воно сподобається і професійним кондитерам, і домашнім\n кулінарам, які люблять готувати солодощі без цукру.\nОсобливості:\n- не містить доданого цукру, консервантів та барвників;\n- зручна пауч-упаковка із закруткою;\n- незамінний інгредієнт, щоб готувати дієтичні десерти,\n желе, корисні коктейлі та випічку.",
+      "nutrition_facts": {
+        "ingredient_energy": "76.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "16.50г"
+      },
+      "slug": "piure-bob-sneil-250g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-bob-sneil-250g--04820219345176/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 70%, пюре з бананів 30%, вітамін С.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 250.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226169772",
+      "sku": "428672",
+      "title": "Йогурт Ростишка Малина-банан 1,5% 207г",
+      "price": 2779,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2779,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "yogurt-with-toppings-novus",
+      "parent_category_id": "dairy-and-eggs",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "64.00ккал",
+        "ingredient_protein": "2.60г",
+        "ingredient_fat": "1.50г",
+        "ingredient_carbohydrates": "10.10г"
+      },
+      "slug": "iogurt-rostishka-207g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/iogurt-rostishka-207g-ukrayina--04820226169772/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко нормалізоване, наповнювач \"Малина- банан\" 6% (вода питна, цукор, пюре: малинове 10%, бананове 5%, загущувач крохмаль, цитрат кальцію, соки концентровані: чорної моркви, морквяний, лимонний, ароматизатори натуральні: \"Банан\", \"Малина\", \"Ваніль\", вітамін D3), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "1.5%",
+      "shelf_life": "35 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Danone",
+        "trademark_slug": "rostishka",
+        "website": null,
+        "logo": {
+          "s32x32": null,
+          "s16x16": null,
+          "s64x64": null
+        },
+        "name": "прат \"данон кремез\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "00000042428435",
+      "sku": "420721",
+      "title": "Батончик фруктовий Bebivita яблуко-банан 25г",
+      "price": 3999,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 47,
+        "old_price": 7499,
+        "due_date": "2026-12-31",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cookies-and-rusks",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "341.00ккал",
+        "ingredient_protein": "3.90г",
+        "ingredient_fat": "4.80г",
+        "ingredient_carbohydrates": "68.00г"
+      },
+      "slug": "batonchik-bebivita-25g-nimechchina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/batonchik-bebivita-25g-nimechchina--00000042428435/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Бананові пластівці 38%, концентрат яблучного соку з солодких сортів яблук 25%, цільнозернове пшеничне борошно, концентрат виноградного соку, кукурудзяні хрусткі пластівці, соняшникова олія, вафлі (пшеничне борошно, картопляний крохмаль), сульфат заліза. Може містити сліди молока, сої, арахісу та горіхів. Містить глютен, без додавання цукру, без барвників та консервантів, без ароматизаторів.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "14 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Німеччина",
+      "producer": {
+        "trademark": "Bebivita",
+        "trademark_slug": "bebivita",
+        "website": "bebivita.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.64x64.png"
+        },
+        "name": "Hipp Produktion Gmunden GmbH & Co KG"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/6174835dfdbc491a9d32fc4a4f1b439b/1762187498-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 25.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003488652",
+      "sku": "377728",
+      "title": "Коктейль молочний Бурьонка Банан ультрапастеризований 2% 750г",
+      "price": 6899,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6899,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "milkshake-and-cocoa",
+      "parent_category_id": "dairy-and-eggs",
+      "category_filters": [],
+      "description": "Молочні коктейлі ТМ «Бурьонка»-це ніжні, корисні та дуже смачні напої, які дарують частинку літа і гарний настрій.",
+      "nutrition_facts": {
+        "ingredient_energy": "71.20ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.00г",
+        "ingredient_fats_saturated": "1.30г",
+        "ingredient_carbohydrates": "10.50г",
+        "ingredient_sugars": "10.80г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "kokteil-buronka-750g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/kokteil-buronka-750g-ukrayina--04820003488652/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко\n коров'яче нормалізоване (89,9%), наповнювач фруктовий стерилізований «Банан»\n (цукор білий кристалічний, вода, сік банановий концентрований, крохмаль\n кукурудзяний, натуральний ароматизатор тип «Банан», регулятор кислотності:\n цитрат натрію, барвники: куркуміни)» (10%), стабілізаційна система (карагенан\n стандартизований цукром) (0,08%). <br>"
+      ],
+      "fat": "2%",
+      "shelf_life": "6 місяців",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Бурьонка",
+        "trademark_slug": "buronka",
+        "website": "loostdorf.com",
+        "logo": {
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.16x16.jpeg",
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.32x32.jpeg",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.64x64.jpeg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/30d150adff0345f8a13d6628c9f544a9/1751513051-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/5f83ca0635b34b208ec1a4ebb28691ea/1751513051-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/5f83ca0635b34b208ec1a4ebb28691ea/1751513051-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/5f83ca0635b34b208ec1a4ebb28691ea/1751513051-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/5f83ca0635b34b208ec1a4ebb28691ea/1751513051-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/cdf842e6f678490d9548eb233be6c1bd/1751513051-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/cdf842e6f678490d9548eb233be6c1bd/1751513051-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/cdf842e6f678490d9548eb233be6c1bd/1751513051-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/cdf842e6f678490d9548eb233be6c1bd/1751513051-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 750.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219343028",
+      "sku": "373727",
+      "title": "Пюре Snail Bob Яблуко-банан 90г",
+      "price": 3599,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3599,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пюре дитяче Bob Snail Яблуко-Банан створене для першого\n знайомства малюка з дивовижним фруктовим світом. \nОсобливості:\n- натуральне, пастеризоване, густе пюре;\n- це якісне дитяче харчування пюре, адже у складі — тільки\n відбірні українські фрукти та вітамін C;\n- не містить доданого цукру, консервантів, барвників та\n ароматизаторів;\n- зручна та безпечна пауч-упаковка із закруткою;\n- можна використовувати в кулінарії як соус до млинців та\n сирників, інгредієнт для випічки та смузі.",
+      "nutrition_facts": {
+        "ingredient_energy": "75.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "16.50г"
+      },
+      "slug": "piure-bob-sneil-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-bob-sneil-90g--04820219343028/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 70%, пюре з бананів 30%, вітамін С.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 105.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219343974",
+      "sku": "414237",
+      "title": "Пюре Bob Snail банан-полуниця 250г",
+      "price": 9599,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 9599,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пастеризоване фруктове шеф-пюре Bob Snail Банан-Полуниця\n підкорює насиченим смаком та густою текстурою. На виробництво 1 кг пюре йде аж\n 3 кг свіжих фруктів! Воно сподобається і професійним кондитерам, і домашнім\n кулінарам, які люблять готувати солодощі без цукру.\nОсобливості:\n- не містить доданого цукру, консервантів та барвників;\n- зручна пауч-упаковка із закруткою;\n- незамінний інгредієнт, щоб готувати дієтичні десерти,\n желе, корисні коктейлі та випічку.",
+      "nutrition_facts": {
+        "ingredient_energy": "73.00ккал",
+        "ingredient_protein": "1.00г",
+        "ingredient_fat": "0.30г",
+        "ingredient_carbohydrates": "16.00г"
+      },
+      "slug": "piure-bob-sneil-250g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-bob-sneil-250g--04820219343974/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Банан 70%, полуниця 30%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 250.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08445290223319",
+      "sku": "407088",
+      "title": "Пюре Gerber яблуко-банан-морква 150г",
+      "price": 7499,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7499,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "0.40г",
+        "ingredient_fat": "0.10г",
+        "ingredient_carbohydrates": "13.50г"
+      },
+      "slug": "piure-gerber-150g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-gerber-150g--08445290223319/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 80%, пюре з бананів 14%, пюре з моркви 6%, концентрат лимонного соку.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 150.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823065731247",
+      "sku": "403011",
+      "title": "Йогурт Дольче Полуниця-Банан 3,2% 280г",
+      "price": 3999,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 15,
+        "old_price": 4699,
+        "due_date": "2026-08-05",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "yogurt-with-toppings-novus",
+      "parent_category_id": "dairy-and-eggs",
+      "category_filters": [],
+      "description": "Йогурт Дольче подарує вам справжню фруктову насолоду у кожному стакані.",
+      "nutrition_facts": {
+        "ingredient_energy": "103.20ккал",
+        "ingredient_protein": "3.00г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "15.60г"
+      },
+      "slug": "iogurt-dolche-280g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/iogurt-dolche-280g-ukrayina--04823065731247/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко знежирене, наповнювач фруктовий пастеризований \"Полуниця-банан\" (12%) (цукор, полуниця (25%), вода, банан (15%), модифікований крохмаль кукурудзяний, ароматизатор полуниці, концентровані соки чорної моркви та чорної смородини, ароматизатор банана, регулятори кислотності: лимонна кислота, цитрат натрію, натуральний барвник куркумін), вершки, цукор, модифікований крохмаль кукурудзяний, молоко сухе знежирене, загущувач желатин, закваска бактеріальна.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "35 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Дольче",
+        "trademark_slug": "dolche",
+        "website": "lactalis.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.09a05809bf1a8645beba3a61976c03ca.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.09a05809bf1a8645beba3a61976c03ca.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.09a05809bf1a8645beba3a61976c03ca.64x64.png"
+        },
+        "name": "тов \"молочний дім\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b9f0aa8845af4a8e946e5ae549cf0913/1783693471-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/6dcd07e1fb6c4715909323ebde773264/1783693471-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6dcd07e1fb6c4715909323ebde773264/1783693471-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/6dcd07e1fb6c4715909323ebde773264/1783693471-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/6dcd07e1fb6c4715909323ebde773264/1783693471-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 295.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820134722533",
+      "sku": "382752",
+      "title": "Пюре Elfik Magic яблуко-банан 200г",
+      "price": 4599,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4599,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пюре Карапуз Pouch Яблуко-банан - смачний та корисний фруктовий перекус у зручній упаковці, яка зберігає вітаміни та корисні властивості стиглих фруктів.Чому варто купити:\n• ідеально підійде для першого прикорму \n• містить необхідні поживні компоненти та харчові волокна \n• насичує зростаючий організм вітамінами та корисними речовинами \n• сприяє зміцненню імунітету \n• виготовлено тільки із натуральних фруктів \n• без консервантів, барвників, цукру та ГМО \n• зручна м'яка упаковка\nСпосіб споживання: починати з 2-3 столових ложок двічі на день, поступово збільшуючи до 100 г на день до 12 місяців. Рекомендовано для дітей від 6 місяців.",
+      "nutrition_facts": {
+        "ingredient_energy": "633.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.40г",
+        "ingredient_carbohydrates": "12.20г"
+      },
+      "slug": "piure-karapuz-200g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-karapuz-200g-ukrayina--04820134722533/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Яблука/пюре яблучне (68.6%), бананове пюре (31.4%).<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Карапуз",
+        "trademark_slug": "elfik-magic",
+        "website": "https://karapuz.dp.ua/",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.64x64.jpg"
+        },
+        "name": "тов \"тд \"фреш маркет\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/24f7af4d6c0c464694a7149b5c372a58/1780312076-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 210.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219343387",
+      "sku": "375757",
+      "title": "Смузі Bob Snail банан-полуниця 120г",
+      "price": 4999,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4999,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пюре фруктове Bob Snail Smoothie Fruits to Go Банан-Полуниця\n — корисний перекус у зручному форматі. У складі тільки свіжі фрукти та ягоди\n без доданого цукру, консервантів та барвників. Вітамінізуйтеся будь-де та\n будь-коли: на тренуванні, в дорозі, під час прогулянки та навіть за робочим\n столом. Натуральне пюре стане улюбленим смаколиком для тих, хто обирає дієтичні\n солодощі. \nОсобливості:\n- натуральне, пастеризоване, густе пюре;\n- не містить доданого цукру, консервантів, барвників та\n ароматизаторів;\n- зручна пауч-упаковка із закруткою.",
+      "nutrition_facts": {
+        "ingredient_energy": "73.00ккал",
+        "ingredient_protein": "1.10г",
+        "ingredient_fat": "0.30г",
+        "ingredient_carbohydrates": "15.80г"
+      },
+      "slug": "smuzi-bob-sneil-120g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/smuzi-bob-sneil-120g--04820219343387/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з банану 69.7%, пюре з полуниць 30%, сік чорної моркви концентрований 0.3%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/fecde7e4f6a54720a95387f90fa5ee01/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 130.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219346364",
+      "sku": "404276",
+      "title": "Смузі Bob Snail банан-малина 120г",
+      "price": 4799,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4799,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "smoothie",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "79.00ккал",
+        "ingredient_protein": "1.20г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "17.00г"
+      },
+      "slug": "smuzi-bob-sneil-120ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/smuzi-bob-sneil-120ml-ukrayina--04820219346364/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з банану 80%, пюре з малини 20%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 120.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "07613036345880",
+      "sku": "315986",
+      "title": "Пюре Gerber Яблуко чорниця банан 90г",
+      "price": 4249,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 15,
+        "old_price": 4999,
+        "due_date": "2026-08-05",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Ідеальною їжею для немовляти є молоко матері. Продовжуйте грудне вигодовування якомога довше після введення прикорму. Перед введенням  прикорму проконсультуйтеся з педіатром.\nФруктове пюре Gerber  «ЯБЛУКО, ЧОРНИЦЯ, БАНАН» у зручній м’якій упаковці – це 100% натуральних фруктів та овочів + вітамін С! М'яку упаковку \"пауч\" легко брати на прогулянку, в подорож чи в гості. До того ж, вона сприяє розвитку навичок самостійності у малюка.   Фруктове пюре «ЯБЛУКО, ЧОРНИЦЯ, БАНАН» - це корисний перекус для прогулянок та подорожей. Пюре приготовано з натуральних фруктів, багатих корисними речовинами. Без додавання крохмалю та цукру.",
+      "nutrition_facts": {
+        "ingredient_energy": "192.00ккал",
+        "ingredient_protein": "0.20г",
+        "ingredient_fat": "0.10г",
+        "ingredient_carbohydrates": "11.40г"
+      },
+      "slug": "piure-gerber-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-gerber-90g--07613036345880/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 86%, пюре з чорниці 9%, пюре з банан 5%, вітамін С.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 105.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820192263832",
+      "sku": "398042",
+      "title": "Сік Jaffa NFC яблуко-банан 0,95л",
+      "price": 10900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 10900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 950.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "juice",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "Сік Jaffa Яблучно-банановий прямого віджиму - це густий та поживний мікс, створений зі свіжих фруктів без використання концентрату. Технологія NFC дозволяє зберегти природну солодкість банана, легку кислинку яблука та весь комплекс вітамінів у їхньому первинному вигляді.",
+      "nutrition_facts": {
+        "ingredient_energy": "42.00ккал",
+        "ingredient_protein": "0.40г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "10.00г"
+      },
+      "slug": "ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/ukrayina--04820192263832/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Сік яблучний 90%, пюре бананове 10%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Jaffa",
+        "trademark_slug": "jaffa",
+        "website": "vitmark.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.32x32.jpg",
+          "s16x16": "https://img3.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.16x16.jpg",
+          "s64x64": "https://img2.zakaz.ua/upload.7570a9ec2b69c0786bd36f6bbd54b537.64x64.jpg"
+        },
+        "name": "тов сп \"вітмарк-україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/097918db9de74f89877b046e5fafb977/1778655797-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/src.1653587067.ad72436478c_2022-05-26_Victor/src.1653587067.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+          "s200x200": "https://img2.zakaz.ua/src.1653587067.ad72436478c_2022-05-26_Victor/src.1653587067.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+          "s350x350": "https://img3.zakaz.ua/src.1653587067.ad72436478c_2022-05-26_Victor/src.1653587067.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/src.1653587067.ad72436478c_2022-05-26_Victor/src.1653587067.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 980.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820268840219",
+      "sku": "435075",
+      "title": "Чипси hiSnack Банан сушені хрусткі 30г",
+      "price": 5699,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5699,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "373.00ккал",
+        "ingredient_protein": "4.30г",
+        "ingredient_fat": "0.60г",
+        "ingredient_carbohydrates": "87.50г"
+      },
+      "slug": "chipsi-khaisnek-30g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-khaisnek-30g--04820268840219/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Банан сушений 100%.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "hiSnack",
+        "trademark_slug": "hisnack",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "тов \"хайснек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/f991400642d0458d99f280a159bc9130/1732626776-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 30.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820134722151",
+      "sku": "376863",
+      "title": "Пюре Elfik Magic яблуко-банан 100г",
+      "price": 3299,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3299,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies",
+      "parent_category_id": "babies",
+      "category_filters": [],
+      "description": "Пюре Карапуз Pouch Яблуко-банан - смачний та корисний фруктовий перекус у зручній упаковці, яка зберігає вітаміни та корисні властивості стиглих фруктів.\nЧому варто купити:\n• ідеально підійде для першого прикорму \n• містить необхідні поживні компоненти та харчові волокна \n• насичує зростаючий організм вітамінами та корисними речовинами \n• сприяє зміцненню імунітету \n• виготовлено тільки із натуральних фруктів \n• без консервантів, барвників, цукру та ГМО \n• зручна м'яка упаковка\nСпосіб споживання: починати з 2-3 столових ложок двічі на день, поступово збільшуючи до 100 г на день до 12 місяців. Рекомендовано для дітей від 6 місяців.",
+      "nutrition_facts": {
+        "ingredient_energy": "63.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.40г",
+        "ingredient_carbohydrates": "12.20г"
+      },
+      "slug": "piure-karapuz-100g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/piure-karapuz-100g-ukrayina--04820134722151/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Яблучне пюре (74%), бананове пюре (26%).<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Карапуз",
+        "trademark_slug": "elfik-magic",
+        "website": "https://karapuz.dp.ua/",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.1474381a7cfaa01918e3889da394ebd9.64x64.jpg"
+        },
+        "name": "тов \"тд \"фреш маркет\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 108.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08693395019829",
+      "sku": "439526",
+      "title": "Контейнер харчовий Qlux Ideas Банан 600мл",
+      "price": 1899,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 61,
+        "old_price": 4900,
+        "due_date": "2026-09-30",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cruets-and-containers",
+      "parent_category_id": "kitchenware",
+      "category_filters": [],
+      "description": "25,8х4,7х10 см",
+      "nutrition_facts": {},
+      "slug": "sudok-kiu-liuks-turechchina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/sudok-kiu-liuks-turechchina--08693395019829/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [],
+      "fat": null,
+      "shelf_life": "необмежений",
+      "temperature_range": "не має особливих умов зберігання",
+      "pack_amount": null,
+      "country": "Туреччина",
+      "producer": {
+        "trademark": "Qlux ",
+        "trademark_slug": "qlux",
+        "website": "https://luxplastic.ru/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.8cfd1162c25cbadc75f25d22cf907260.32x32.jpeg",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.8cfd1162c25cbadc75f25d22cf907260.16x16.jpeg",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.8cfd1162c25cbadc75f25d22cf907260.64x64.jpeg"
+        },
+        "name": "Qlux Ideas Mutfak Esyalari San. Ve Tic. A.S."
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e42bdfa7aaaf4d6383fa07c63c1c7da7/1779180604-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 70.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820264290384",
+      "sku": "416568",
+      "title": "Напій соковий Джусік банан-полуниця 200мл",
+      "price": 1999,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 1999,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 200.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "juice-drinks",
+      "parent_category_id": "drinks",
+      "category_filters": [],
+      "description": "Соковитий ягідний мікс банана, полуниці та червоних ягід. \"Банан-Полуниця\" – це солодкий кайф для всіх, хто живе на повну! Збираєшся на тусу або просто в активному режимі? Цей мікс ягід і банана – твій топовий вибір! Пий \"Джусік\", бо цей смак реально краш для яскравих моментів твого дня.",
+      "nutrition_facts": {
+        "ingredient_energy": "31.00ккал",
+        "ingredient_protein": "0.03г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "7.70г",
+        "ingredient_sugars": "7.10г",
+        "ingredient_salt": "0.01г"
+      },
+      "slug": "napii-sokovmisnii-dzhusik-200ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/napii-sokovmisnii-dzhusik-200ml-ukrayina--04820264290384/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна артезіанська, пюре бананове (7%), глюкозно-фрутовий сироп, цукор, пюре полуничне (3%), регулятор кислотності - лимонна кислота, натуральний ароматизатор, екстракт червоних ягід.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Джусік",
+        "trademark_slug": "dzhusik",
+        "website": "vitmark.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.64x64.png"
+        },
+        "name": "тов сп \"вітмарк-україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 220.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    }
+  ],
+  "categories": [],
+  "filters": [
+    {
+      "key": "promotion",
+      "name": "Акційні товари",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Акційні товари",
+          "value": "1",
+          "count": 25
+        }
+      ]
+    },
+    {
+      "key": "available",
+      "name": "Тільки в наявності",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Тільки в наявності",
+          "value": "1",
+          "count": 140
+        }
+      ]
+    },
+    {
+      "key": "category_id",
+      "name": "Категорії",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Бакалія",
+          "value": "packets-cereals",
+          "count": 8
+        },
+        {
+          "name": "Гарячі напої",
+          "value": "hot-drinks-novus",
+          "count": 3
+        },
+        {
+          "name": "Гігієна та догляд",
+          "value": "personal-hygiene",
+          "count": 3
+        },
+        {
+          "name": "Заморозка",
+          "value": "frozen",
+          "count": 2
+        },
+        {
+          "name": "Здорове харчування та спосіб життя ",
+          "value": "health-and-lifestyle-novus",
+          "count": 92
+        },
+        {
+          "name": "Консерви",
+          "value": "tins-jars-cooking",
+          "count": 1
+        },
+        {
+          "name": "Кухня",
+          "value": "kitchenware",
+          "count": 1
+        },
+        {
+          "name": "Напої",
+          "value": "drinks",
+          "count": 23
+        },
+        {
+          "name": "Пекарня",
+          "value": "bakery",
+          "count": 3
+        },
+        {
+          "name": "Побутова хімія",
+          "value": "household-chemicals",
+          "count": 1
+        },
+        {
+          "name": "Солодощі",
+          "value": "snacks-and-sweets",
+          "count": 18
+        },
+        {
+          "name": "Соуси та спеції",
+          "value": "sauces-and-spices-novus",
+          "count": 1
+        },
+        {
+          "name": "Товари для дітей",
+          "value": "babies",
+          "count": 76
+        },
+        {
+          "name": "Фрукти та овочі",
+          "value": "fruits-and-vegetables",
+          "count": 13
+        },
+        {
+          "name": "Чипси та снеки",
+          "value": "crisps-and-snacks",
+          "count": 2
+        },
+        {
+          "name": "Яйця та молочні продукти",
+          "value": "dairy-and-eggs",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "key": "price",
+      "name": "Ціна",
+      "type": "range",
+      "is_standart": true,
+      "min": 1499.0,
+      "max": 46900.0
+    },
+    {
+      "key": "tm",
+      "name": "Торгова марка",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Actimel",
+          "value": "actimel",
+          "count": 1
+        },
+        {
+          "name": "Almond",
+          "value": "almond",
+          "count": 1
+        },
+        {
+          "name": "Alpro",
+          "value": "alpro",
+          "count": 1
+        },
+        {
+          "name": "AXA",
+          "value": "axa",
+          "count": 4
+        },
+        {
+          "name": "Bebi",
+          "value": "bebi",
+          "count": 2
+        },
+        {
+          "name": "Bebivita",
+          "value": "bebivita",
+          "count": 1
+        },
+        {
+          "name": "Bob Snail",
+          "value": "bob-snail",
+          "count": 8
+        },
+        {
+          "name": "Cappy ",
+          "value": "cappy",
+          "count": 2
+        },
+        {
+          "name": "Castus",
+          "value": "castus",
+          "count": 1
+        },
+        {
+          "name": "Danone",
+          "value": "danone",
+          "count": 1
+        },
+        {
+          "name": "Detki",
+          "value": "detki",
+          "count": 1
+        },
+        {
+          "name": "Doctor Benner",
+          "value": "doctor-benner",
+          "count": 1
+        },
+        {
+          "name": "Dr.Oetker",
+          "value": "dr-oetker",
+          "count": 1
+        },
+        {
+          "name": "Elfik Magic",
+          "value": "elfik-magic",
+          "count": 5
+        },
+        {
+          "name": "Fresh Me",
+          "value": "fresh-me",
+          "count": 2
+        },
+        {
+          "name": "Galicia",
+          "value": "galicia",
+          "count": 3
+        },
+        {
+          "name": "Garnier",
+          "value": "garnier",
+          "count": 2
+        },
+        {
+          "name": "Gerber",
+          "value": "gerber",
+          "count": 11
+        },
+        {
+          "name": "Green Smile",
+          "value": "green-smile",
+          "count": 1
+        },
+        {
+          "name": "Hamanek",
+          "value": "hamanek",
+          "count": 3
+        },
+        {
+          "name": "HiPP",
+          "value": "hipp",
+          "count": 6
+        },
+        {
+          "name": "HiSnack",
+          "value": "hisnack",
+          "count": 2
+        },
+        {
+          "name": "Jaffa",
+          "value": "jaffa",
+          "count": 8
+        },
+        {
+          "name": "Kallos",
+          "value": "kallos",
+          "count": 1
+        },
+        {
+          "name": "La Gelateria",
+          "value": "la-gelateria",
+          "count": 1
+        },
+        {
+          "name": "Lactel",
+          "value": "lactel",
+          "count": 1
+        },
+        {
+          "name": "Lambertz",
+          "value": "lambertz",
+          "count": 1
+        },
+        {
+          "name": "Laska",
+          "value": "laska",
+          "count": 1
+        },
+        {
+          "name": "Loft",
+          "value": "loft",
+          "count": 1
+        },
+        {
+          "name": "Mama knows",
+          "value": "mama-knows",
+          "count": 2
+        },
+        {
+          "name": "Maxi Power",
+          "value": "maxi-power",
+          "count": 1
+        },
+        {
+          "name": "Milupa",
+          "value": "milupa",
+          "count": 15
+        },
+        {
+          "name": "Misso",
+          "value": "misso",
+          "count": 1
+        },
+        {
+          "name": "Muller",
+          "value": "muller",
+          "count": 2
+        },
+        {
+          "name": "Nestle",
+          "value": "nestle",
+          "count": 1
+        },
+        {
+          "name": "Pripravka",
+          "value": "pripravka",
+          "count": 1
+        },
+        {
+          "name": "Qlux ",
+          "value": "qlux",
+          "count": 1
+        },
+        {
+          "name": "Quick milk",
+          "value": "quick-milk",
+          "count": 1
+        },
+        {
+          "name": "Sandora",
+          "value": "sandora",
+          "count": 3
+        },
+        {
+          "name": "SantaVita",
+          "value": "santavita",
+          "count": 1
+        },
+        {
+          "name": "Shoud'e",
+          "value": "shoude",
+          "count": 1
+        },
+        {
+          "name": "SIS",
+          "value": "sis",
+          "count": 1
+        },
+        {
+          "name": "Start!",
+          "value": "start",
+          "count": 2
+        },
+        {
+          "name": "Super Smoozie",
+          "value": "super-smoozie",
+          "count": 1
+        },
+        {
+          "name": "Tasty Lasty",
+          "value": "tasty-lasty",
+          "count": 1
+        },
+        {
+          "name": "Terravita ",
+          "value": "terravita",
+          "count": 1
+        },
+        {
+          "name": "Tet",
+          "value": "tet",
+          "count": 2
+        },
+        {
+          "name": "The Beginnings",
+          "value": "the-beginnings",
+          "count": 1
+        },
+        {
+          "name": "Trolli",
+          "value": "trolli",
+          "count": 1
+        },
+        {
+          "name": "Tymbark",
+          "value": "tymbark",
+          "count": 2
+        },
+        {
+          "name": "Ustukiu",
+          "value": "ustukiu",
+          "count": 1
+        },
+        {
+          "name": "Vega Milk",
+          "value": "vega-milk",
+          "count": 2
+        },
+        {
+          "name": "Winway",
+          "value": "winway",
+          "count": 6
+        },
+        {
+          "name": "АВК",
+          "value": "avk",
+          "count": 4
+        },
+        {
+          "name": "Агуня",
+          "value": "agunia",
+          "count": 5
+        },
+        {
+          "name": "Активіа",
+          "value": "aktivia",
+          "count": 4
+        },
+        {
+          "name": "Барні",
+          "value": "barni",
+          "count": 2
+        },
+        {
+          "name": "Без тм",
+          "value": "without-brand",
+          "count": 4
+        },
+        {
+          "name": "Бурьонка",
+          "value": "buronka",
+          "count": 1
+        },
+        {
+          "name": "Волошкове Поле",
+          "value": "voloshkove-pole",
+          "count": 1
+        },
+        {
+          "name": "Джусік",
+          "value": "dzhusik",
+          "count": 1
+        },
+        {
+          "name": "Дитячі Смаколики",
+          "value": "ditiachi-smakoliki",
+          "count": 1
+        },
+        {
+          "name": "Дольче",
+          "value": "dolche",
+          "count": 3
+        },
+        {
+          "name": "Еко",
+          "value": "eko",
+          "count": 1
+        },
+        {
+          "name": "Золоте Зерно",
+          "value": "zolote-zerno",
+          "count": 2
+        },
+        {
+          "name": "Карапуз",
+          "value": "karapuz",
+          "count": 5
+        },
+        {
+          "name": "Лактонія",
+          "value": "laktoniia",
+          "count": 1
+        },
+        {
+          "name": "Майстри Смаку",
+          "value": "maistri-smaku",
+          "count": 3
+        },
+        {
+          "name": "Марійка ",
+          "value": "mariika",
+          "count": 1
+        },
+        {
+          "name": "Молокія",
+          "value": "molokiia",
+          "count": 1
+        },
+        {
+          "name": "Наше Молоко",
+          "value": "nashe-moloko",
+          "count": 1
+        },
+        {
+          "name": "Ростишка",
+          "value": "rostishka",
+          "count": 2
+        },
+        {
+          "name": "Садочок",
+          "value": "sadochok",
+          "count": 1
+        },
+        {
+          "name": "Фанні",
+          "value": "fanni",
+          "count": 1
+        },
+        {
+          "name": "Фрутім",
+          "value": "frutim",
+          "count": 1
+        },
+        {
+          "name": "Чудо",
+          "value": "chudo",
+          "count": 1
+        },
+        {
+          "name": "Чудо-Чадо",
+          "value": "chudo-chado",
+          "count": 8
+        },
+        {
+          "name": "Ягoтинське Go",
+          "value": "iagotinske-go",
+          "count": 1
+        },
+        {
+          "name": "Яготинське",
+          "value": "iagotinske",
+          "count": 4
+        },
+        {
+          "name": "Яготинське для дітей",
+          "value": "iagotinske-dlia-ditei",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "key": "country",
+      "name": "Країна-виробник",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Австрія",
+          "value": "austria",
+          "count": 2
+        },
+        {
+          "name": "Бельгія",
+          "value": "belgium",
+          "count": 2
+        },
+        {
+          "name": "В'єтнам",
+          "value": "vietnam",
+          "count": 2
+        },
+        {
+          "name": "Вірменія",
+          "value": "armenia",
+          "count": 1
+        },
+        {
+          "name": "Данія",
+          "value": "denmark",
+          "count": 1
+        },
+        {
+          "name": "Еквадор",
+          "value": "ecuador",
+          "count": 1
+        },
+        {
+          "name": "Латвія",
+          "value": "latvia",
+          "count": 1
+        },
+        {
+          "name": "Литва",
+          "value": "lithuania",
+          "count": 1
+        },
+        {
+          "name": "Німеччина",
+          "value": "germany",
+          "count": 8
+        },
+        {
+          "name": "Польща",
+          "value": "poland",
+          "count": 19
+        },
+        {
+          "name": "Португалія",
+          "value": "portugal",
+          "count": 5
+        },
+        {
+          "name": "Румунія",
+          "value": "romania",
+          "count": 1
+        },
+        {
+          "name": "Сербія",
+          "value": "serbia",
+          "count": 2
+        },
+        {
+          "name": "Туреччина",
+          "value": "turkey",
+          "count": 1
+        },
+        {
+          "name": "Угорщина",
+          "value": "hungary",
+          "count": 5
+        },
+        {
+          "name": "Україна",
+          "value": "ukraine",
+          "count": 125
+        },
+        {
+          "name": "Хорватія",
+          "value": "croatia",
+          "count": 1
+        },
+        {
+          "name": "Чехія",
+          "value": "czech-republic",
+          "count": 3
+        },
+        {
+          "name": "Іспанія",
+          "value": "spain",
+          "count": 1
+        },
+        {
+          "name": "Італія",
+          "value": "italy",
+          "count": 3
+        }
+      ]
+    }
+  ],
+  "category_results": [
+    "bananas-novus",
+    "dried-bananas"
+  ],
+  "is_fuzzy": false,
+  "stats": null
+}

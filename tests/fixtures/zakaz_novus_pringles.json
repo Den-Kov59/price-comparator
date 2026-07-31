@@ -1,0 +1,1952 @@
+{
+  "count": 17,
+  "count_available": 15,
+  "results": [
+    {
+      "ean": "05033990127726",
+      "sku": "18633",
+      "title": "Чипси Pringles Original 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "З нього все почалося. Той самий смак, який першим прийняв легендарну форму гіперболічного параболоїда (погуглит, це дуже крута штука), склався в бездоганну стопку чіпсів і потрапив в нашу неповторну циліндричну банку. Як його тільки не називали - новомодним, що кидає в жар, нескінченно забавним ... Не дивно, адже Pringles - це не просто чіпси!",
+      "nutrition_facts": {
+        "ingredient_energy": "526.00ккал",
+        "ingredient_protein": "3.90г",
+        "ingredient_fat": "34.00г",
+        "ingredient_fats_saturated": "2.80г",
+        "ingredient_carbohydrates": "52.00г",
+        "ingredient_sugars": "4.00г",
+        "ingredient_salt": "1.00г",
+        "ingredient_fiber": "5.00г"
+      },
+      "slug": "chipsi-pringls-165g-belgiia",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g-belgiia--05033990127726/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, олія рослинна (соняшникова, пальмова, кукурудзяна) у різних пропорціях, пшеничне борошно, кукурудзяне борошно, рисове борошно, мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин).<br>Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "456 діб",
+      "temperature_range": "5...18",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/c391324c87cc4f9fbd5f7e7d408c5eb0/1783424304-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/248731c107be4692bb360963e0f6aed9/1783424304-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/248731c107be4692bb360963e0f6aed9/1783424304-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/248731c107be4692bb360963e0f6aed9/1783424304-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/248731c107be4692bb360963e0f6aed9/1783424304-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/3fadfe34191a475a84429455ba6f0c43/1772110891-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/3fadfe34191a475a84429455ba6f0c43/1772110891-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/3fadfe34191a475a84429455ba6f0c43/1772110891-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/3fadfe34191a475a84429455ba6f0c43/1772110891-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/23838f4f16fa43eb8e6e64112697c364/1782453276-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/23838f4f16fa43eb8e6e64112697c364/1782453276-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/23838f4f16fa43eb8e6e64112697c364/1782453276-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/23838f4f16fa43eb8e6e64112697c364/1782453276-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 240.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990106776",
+      "sku": "18628",
+      "title": "Чипси Pringles Бекон 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "Уявіть, що ви їсте бекон, сидячи верхи на хмарі копченого бекону над містом під назвою Бекон, яке зроблене з бекону. Знаєте, як звуть мера міста? Іван Іванович. Але його прізвище - Бекон. Приблизно так і можна описати ті відчуття, які вам дарують ці чудові чіпси.",
+      "nutrition_facts": {
+        "ingredient_energy": "529.00ккал",
+        "ingredient_protein": "5.10г",
+        "ingredient_fat": "34.00г",
+        "ingredient_carbohydrates": "49.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990106776/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, олія рослинна (соняшникова, кукурудзяна), рисове борошно, пшеничний крохмаль, приправа зі смаком бекону (сухі дріжджі, підсилювачі смаку та аромату (глутамат натрію 1-заміщений, динатрію-5-гуанілат, 5'-інозінат натрію двозаміщений), борошно пшеничне, цибулевий порошок, ароматизатори, коптильний ароматизатор, барвник (екстракт паприки), часниковий порошок, кислота (лимонна кислота)), емульгатор (Е471), мальтодекстрин, сіль, (аннато).<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "5...18",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/5c45cc326e8a496380c7bab5a2dc18df/1730987935-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990107339",
+      "sku": "404182",
+      "title": "Чипси Pringles Original 40г",
+      "price": 6999,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 23,
+        "old_price": 9099,
+        "due_date": "2026-08-05",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "З нього все почалося. Той самий смак, який першим прийняв легендарну форму гіперболічного параболоїда (погуглит, це дуже крута штука), склався в бездоганну стопку чіпсів і потрапив в нашу неповторну циліндричну банку. Як його тільки не називали - новомодним, що кидає в жар, нескінченно забавним ... Не дивно, адже Pringles - це не просто чіпси!",
+      "nutrition_facts": {
+        "ingredient_energy": "514.00ккал",
+        "ingredient_protein": "4.00г",
+        "ingredient_fat": "33.00г",
+        "ingredient_carbohydrates": "51.00г"
+      },
+      "slug": "chipsi-pringls-40g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-40g--05053990107339/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, олія рослинна (соняшникова, пальмова, кукурудзяна) у різних пропорціях, пшеничне борошно, кукурудзяне борошно, рисове борошно, мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин).<br>Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/08db98ece5cc43c5867e2a9745d781c3/1728890572-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 106.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990101542",
+      "sku": "388476",
+      "title": "Чипси Pringles Hot&Spicy 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "505.00ккал",
+        "ingredient_protein": "4.40г",
+        "ingredient_fat": "32.00г",
+        "ingredient_carbohydrates": "51.00г"
+      },
+      "slug": "chipsi-pringls-165g-polshcha",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g-polshcha--05053990101542/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, олія рослинна (соняшникова, кукурудзяна), рисове борошно, пшеничний крохмаль, кукурудзяне борошно, приправа з гострим та пряним смаком (прянощі, цукор, підсилювачі смаку та аромату (глутамат натрію 1-заміщенний, 5'-інозінат натрію двозаміщений, динатрію-5-гуанілат), гранульований рослинний бульйон, томатний порошок, ароматизатори, дріжджовий екстракт, порошок молочної сироватки, декстроза, модифікований кукурудзяний крохмаль, глюкозний сироп, кислоти (лимонна кислота, молочна кислота), молочний білок, цибулевий порошок, екстракт паприки халапеньо, порошок паприки, порошок паприки чилі, часниковий порошок, барвник (екстракт паприки), регулятор кислотності (лактат кальцію), коптильний ароматизатор), емульгатор (Е471), мальтодекстрин, сіль, барвник (аннато). Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "456 діб",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/f12eab3b1781480c92f119df08dcc35d/1730987935-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/9d08d09127a148e1be90f20f9138df94/1771258237-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/9d08d09127a148e1be90f20f9138df94/1771258237-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/9d08d09127a148e1be90f20f9138df94/1771258237-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9d08d09127a148e1be90f20f9138df94/1771258237-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 210.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990101535",
+      "sku": "18629",
+      "title": "Чипси Pringles Сир та цибуля 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "Уявіть, що ви ріжете цибулину, а всередині у неї ... сир! Ви пробуєте це пікантне поєднання смаків сиру і цибулі і розумієте, що воно настільки прекрасно, що ви просто повинні написати про нього пісню під назвою «Сир з цибулею, любов моя».",
+      "nutrition_facts": {
+        "ingredient_energy": "505.00ккал",
+        "ingredient_protein": "3.80г",
+        "ingredient_fat": "31.00г",
+        "ingredient_carbohydrates": "53.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990101535/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, пшеничний крохмаль, кукурудзяне борошно, рисове борошно, приправа зі смаком сиру та цибулі (цибулевий порошок, декстроза, мальтодекстрин, глюкозний сироп, підсилювачі смаку та аромату (глутамат натрію 1-заміщений, динатрію-5'-інозинат натрію 2-заміщений), модифікований кукурудзяний крохмаль, сіль, дріжджовий екстракт, ароматизатори, лактоза (молоко), соняшникова олія, гранульований рослинний бульйон (сіль, гідролізат рослинних білків,  соняшникова олія, сирний порошок (молоко), кислоти (молочна кислота, лимонна кислота)), мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин). Може містити сою.<br><br>​<br>"
+      ],
+      "fat": null,
+      "shelf_life": "456 діб",
+      "temperature_range": "5...18",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/c47a9c3b94974671b9c9bac36222a5cd/1730987935-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/upload.version_1.0.b001e6c841fec518fbffcd65936f3e38.150x150.jpeg",
+          "s200x200": "https://img2.zakaz.ua/upload.version_1.0.b001e6c841fec518fbffcd65936f3e38.200x200.jpeg",
+          "s350x350": "https://img2.zakaz.ua/upload.version_1.0.b001e6c841fec518fbffcd65936f3e38.350x350.jpeg",
+          "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.b001e6c841fec518fbffcd65936f3e38.1350x1350.jpeg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 252.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990106981",
+      "sku": "18630",
+      "title": "Чипси Pringles зі смаком сиру 165г",
+      "price": 16900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 15210,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 14365,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 16900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "Сирний-пресирний СИИИИИИР ... Як ви сказали? Сир? Вам все ще мало? А якщо повторити? Сир. У чіпсах Pringles Cheesy Cheese сирного смаку більше, ніж у подвійній сирній порції сиру з добавкою із сиру.",
+      "nutrition_facts": {
+        "ingredient_energy": "520.00ккал",
+        "ingredient_protein": "6.50г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "54.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990106981/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Подрібнені картопляні пластівці, рослинні олії (соняшникова, пальмова, кукурудзяна) у змінних пропорціях, борошно пшеничне, борошно кукурудзяне, борошно рисове, приправа зі смаком сиру (мальтодекстрин, крохмаль кукурудзяний модифікований, сіль, сирий порошок (молоко), підсилювач смаку (глутамат натрію, гуанілат динатрію, інозинат динатрію), спеції, екстракт дріжджів, глюкоза, ароматизатори (молоко), кислоти (яблучна кислота, молочна кислота), соняшникова олія, барвник (екстракт паприки), мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин). Містить сою.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "12...20",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/6ca5d6f5249748c1bd266b34265e43fa/1762337363-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/c712cd4504af431b923b3e4e1899e149/1770444935-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/c712cd4504af431b923b3e4e1899e149/1770444935-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/c712cd4504af431b923b3e4e1899e149/1770444935-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/c712cd4504af431b923b3e4e1899e149/1770444935-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 240.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990161607",
+      "sku": "404183",
+      "title": "Чипси Pringles зі смаком паприки 40г",
+      "price": 6999,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 23,
+        "old_price": 9099,
+        "due_date": "2026-08-05",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "Екзотичний смак, який можна порівняти з поїздкою по східному базару на квадроциклі, що працює на картопляному паливі, який раптово врізається в ящик паприки. Наступної секунди все навколо вибухає смаком, і дивовижна червона хмара паприки плавно осідає на ваших органах чуттів, немов чарівний пилок. Легко стирається серветкою.",
+      "nutrition_facts": {
+        "ingredient_energy": "518.00ккал",
+        "ingredient_protein": "6.40г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "56.00г"
+      },
+      "slug": "chipsi-pringls-40g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-40g--05053990161607/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, борошно пшеничне, борошно кукурудзяне, борошно рисове, приправа зі смаком паприки (цукор, порошок паприки, підсилювачі смаку та аромату (глутамат натрію 1-заміщений, динатрію 5-гуанілат, 5'-інозинат натрію двозаміщений), декстроза, сухі дріжджі, цибулевий порошок, сіль, гранульований рослинний бульон (сіль, гідролізат рослинних білків, соняшникова олія), ароматизатор, часниковий порошок, барвник (екстракт паприки), кислота (лимонна кислота), солодка суха сироватка), мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато). Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "456 діб",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/91ec52f4d14c43dfadf8819aa1bf2e7f/1736534823-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 40.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990101528",
+      "sku": "284221",
+      "title": "Чіпси Pringles зі смаком соусу барбекю 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "520.00ккал",
+        "ingredient_protein": "6.10г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "57.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990101528/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Дегідратована картопля, олія соняшникова, борошно пшеничне, борошно кукурудзяне, борошно рисове, приправа для барбекю (цукор, лактоза (молоко), сіль, цибульний порошок, підсилювачі смаку (глутамат натрію, динадіум 5'-рибонуклеотиди), томатний порошок, порошок паприки, екстракт дріжджів, ароматизатори, ароматизатори диму, порошок ріжкового дерева, регулятор кислотності (діацетат натрію), кислоти (яблучна кислота, лимонна кислота), часниковий порошок, соняшникова олія, кукурудзяний крохмаль, барвник (екстракт паприки), мальтодекстрин), мальтодекстрин, емульгатор (E471), сіль, барвник (аннато норбіксин). Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "456 діб",
+      "temperature_range": "зберігати в сухому місці",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/311f3327d2314690aaffbed8640ff56e/1730987935-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990182947",
+      "sku": "426230",
+      "title": "Чипси Pringles смак стейка на грилі 165г",
+      "price": 23900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 21510,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 20315,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "523.00ккал",
+        "ingredient_protein": "6.20г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990182947/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Картопляний порошок, олія, приправа зі смаком стейку барбекю (мальтодекстрин, сіль, цукор, глутамат натрію, ароматизатор, порошок томату, порошок цибулі, порошок куміну, гідролізат рослинного білка, діоксид кремнію (Е551), яблучна кислота, молочна кислота, паприка), рисове борошно, кукурудзяний крохмаль, моно- та дигліцериди жирних кислот (Е471), декстроза. Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "15...21",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/716a666db0d440c495e2174f020d4f49/1739454367-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990176168",
+      "sku": "426234",
+      "title": "Чипси Pringles Hot чилі лайм 160г",
+      "price": 23900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 21510,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 20315,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "523.00ккал",
+        "ingredient_protein": "6.28г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-160g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-160g--05053990176168/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, пшеничний крохмаль, кукурудзяне борошно, рисове борошно, смакова приправа зі смаком лайму та чилі (сироватковий пермеат (молоко), прянощі (копчена паприка, часник, цибуля, кмин, паприки, перець чорний мелений, каєнський перець), цукор, сіль, мальтодекстрин, хлористий калій, ароматизатори, регулятори кислотності (лимона кислота, діацетат натрію, молочна кислота), маслянка суха (молоко), томатний порошок, ріпакова олія, барвник (екстракт паприки), копчений мальтодекстрин, копчена сіль), мальтодекстрин, емульгатор (Е471), барвник (аннато норбіксин). Може містити сою.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9aeb76a4aaa14282af4c36f8bbe3aca5/1722317683-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 160.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990175888",
+      "sku": "426233",
+      "title": "Чипси Pringles Hot чилі сир 160г",
+      "price": 23900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 21510,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 20315,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "524.00ккал",
+        "ingredient_protein": "6.50г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-160g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-160g--05053990175888/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, пшеничний крохмаль, кукурудзяне борошно, рисове борошно, смакова приправа зі смаком сиру та чилі (лактоза (молоко), маслянка суха (молоко), ароматизатори, сіль, підсилювачі смаку та аромату (глутамат натрію 1-заміщений, 5-рибоноуклеотиди натрію двозаміщені), хлористий калій, декстроза, сирний порошок (молоко), цукор, прянощі (чилі, білий перець, часниковий порошок, кислота (молочна кислота), дріжджовий екстракт, регулятор кислотності (лактат кальцію), мальтодекстрин, соняшникова олія, крохмаль кукурудзяний, барвник (екстракт паприки)), мальтодекстрин, емульгатор (Е471), барвник (аннато норбіксин). Може містити сою.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "зберігати в сухому місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/de6b60ad7f644cc3834e799e32cec39c/1722317683-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 160.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990175826",
+      "sku": "426232",
+      "title": "Чипси Pringles Hot пряна сметана 160г",
+      "price": 23900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 21510,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 20315,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "523.00ккал",
+        "ingredient_protein": "6.40г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-160g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-160g--05053990175826/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, пшеничний крохмаль, кукурудзяне борошно, рисове борошно, приправа зі смаком сметани (ароматизатори (молоко, екстракт червоного стручкового перцю), цибулевий порошок, підсилювачі смаку та аромату (глутамат натрію 1-заміщений, динатрію-5-гуанілат, 5-інозіат натрію двозаміщений), декстроза, модифікований кукурудзяний крохмаль, пшеничний крохмаль, сіль, цукор, порошок сметани (молоко), солодка суха сироватка (молоко), соняшникова олія, кислоти (лимонна кислота, молочно кислота), глюкозний сироп, молочний білок), мальтодекстрин, емульгатор (Е471), барвник (аннато норбіксин). Може містити сою.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "зберігати в сухому місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/87a62c7eed414775a2a107d723917b8c/1722317683-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 160.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990101597",
+      "sku": "18632",
+      "title": "Чипси Pringles зі смаком сметани та цибулі 165г",
+      "price": 17900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 16110,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 15215,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "511.00ккал",
+        "ingredient_protein": "6.10г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "54.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990101597/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, кукурудзяне борошно, пшеничний крохмаль, рисове борошно, приправа зі смаком сметани та цибулі (пшеничний крохмаль, підсилювачі смаку та аромату {глутамат натрію 1-заміщений, динатрію-5-гуанілат, 5'-інозіат натрію двозаміщений}, цибулевий порошок, декстроза, соняшникова олія, сіль, модифікований кукурудзяний крохмаль, ароматизатори {молоко}, мальтодекстрин, цукор, солодка суха сироватка {молоко}, порошок сметани {молоко}, порошок глюкозного сиропу, кислоти {лимонна кислота, яблучна кислота}, молочний білок), мальтодекстрин, емульгатор (Е471), ріпакова олія, сіль, барвник (аннато норбіксин).<br>Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/497a8e57136d4bc18a02f34b7fe768fc/1778825890-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/34f493bcf533481686a3cf591acbcb4d/1776088400-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/34f493bcf533481686a3cf591acbcb4d/1776088400-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/34f493bcf533481686a3cf591acbcb4d/1776088400-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/34f493bcf533481686a3cf591acbcb4d/1776088400-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/465ff03cc7084acda8a02340440d9fd2/1776088400-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/465ff03cc7084acda8a02340440d9fd2/1776088400-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/465ff03cc7084acda8a02340440d9fd2/1776088400-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/465ff03cc7084acda8a02340440d9fd2/1776088400-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 222.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990107384",
+      "sku": "404184",
+      "title": "Чипси Pringles Сметана та цибуля 40г",
+      "price": 6999,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 23,
+        "old_price": 9099,
+        "due_date": "2026-08-05",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "Сметана, цибуля, картопля - це поєднання смаків настільки приголомшливо, що навіть сучасна наука не знає, як виміряти всю його пишноту. Ми ж не задаємося питаннями: природа придумала, ми втілили в досконалість. І будемо робити ці чіпси ще і ще, скільки б ви не попросили!",
+      "nutrition_facts": {
+        "ingredient_energy": "517.00ккал",
+        "ingredient_protein": "6.50г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "56.00г"
+      },
+      "slug": "chipsi-pringls-40g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-40g--05053990107384/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Подрібнені картопляні пластівці, рослинні олії (соняшникова, пальмова, кукурудзяна) у змінних пропорціях, борошно пшеничне, борошно кукурудзяне, борошно рисове, приправа зі сметанно-цибулевим смаком (цибуля сушена мелена, крохмаль пшеничний, мальтодекстрин, підсилювач смаку (глутамат натрію, гуанілат динатрію, інозинат динатрію), глюкоза, соняшникова олія, сіль, ароматизатори (молоко), цукор, сметанний порошок (молоко), крохмаль кукурудзяний модифікований, суха солодка сироватка (молочна), глюкозний сироп, кислоти (лимонна кислота, молочна кислота, яблучна кислота), молочний білок, мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин).  Може містити сою.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/47426202d2ee4a0680e5c44bfbbeb1be/1777022503-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/a8d1a815e8784d9ebbf90d957c26d85a/1777022503-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/a8d1a815e8784d9ebbf90d957c26d85a/1777022503-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/a8d1a815e8784d9ebbf90d957c26d85a/1777022503-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/a8d1a815e8784d9ebbf90d957c26d85a/1777022503-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 108.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990182862",
+      "sku": "426229",
+      "title": "Чипси Pringles смак вершкового сиру та зелені 165г",
+      "price": 23900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 21510,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 20315,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "523.00ккал",
+        "ingredient_protein": "6.30г",
+        "ingredient_fat": "30.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990182862/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Картопляний порошок, соняшникова олія, зародки пшениці, кукурудзяний крохмаль, рисовий крохмаль, приправа з ароматичною основою (сухий сироватковий пермеат (молоко), мальтодекстрин, цукор, сіль, винний камінь (молоко), ароматизатори, спеції (часник, цибуля, чорна кислота) а, яблучна кислота), хлорид натрію, ароматичні трави, рапсова олія), мальтодекстрин, емульгатор (Е471), барвник (аннато норбіксин). Може утримувати сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "15...21",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/d912a73c53cd481a8816031be35c238f/1739454367-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990151035",
+      "sku": "382789",
+      "title": "Чипси Pringles Піца 165г",
+      "price": 19900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 17910,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 16915,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 19900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "516.00ккал",
+        "ingredient_protein": "6.00г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "3.30г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": false,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990151035/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Дегідрована картопля, рослинна олія (соняшникова, пальмова, кукурудзяна) у різних пропорціях, борошно пшеничне, борошно кукурудзяне, борошно рисове, приправа зі смаком піцци (порошок з сухарів (борошно), лактоза (молоко), декстроза, підсилювач смаку (глутамат натрію, Е631 інозінат натрію, гуанілат динатрію Е267), сіль, цукор, мальтодекстрин, приправи (часник, томат, цибуля), регулятор кислотності (діацетат натрію), молочні білки, мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато норбіксин). Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "5...15",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/ac9ab24b697440efb152188b05cebc9b/1730987935-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "not_in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": false,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": null,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05053990162413",
+      "sku": "18631",
+      "title": "Чипси Pringles зі смаком паприки 165г",
+      "price": 15900,
+      "price_wholesale": [
+        {
+          "min_qty": 2,
+          "price": 14310,
+          "due_date": null
+        },
+        {
+          "min_qty": 19,
+          "price": 13515,
+          "due_date": null
+        }
+      ],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 15900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "chips",
+      "parent_category_id": "crisps-and-snacks",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "515.00ккал",
+        "ingredient_protein": "6.70г",
+        "ingredient_fat": "29.00г",
+        "ingredient_carbohydrates": "55.00г"
+      },
+      "slug": "chipsi-pringls-165g",
+      "in_stock": false,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://novus.zakaz.ua/uk/products/chipsi-pringls-165g--05053990162413/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Зневоднена картопля, соняшникова олія, борошно пшеничне, кукурудзяне борошно, рисове борошно, приправа зі смаком паприки (цукор, порошок паприки, підсилювач смаку та аромату (глутамат натрію 1-заміщений, динатрію-5-гуанілат, 5-інозіат натрію двозаміщений), декстроза, сухі дріжджі, цибулевий порошок, сіль, гранульований рослинний бульйон (сіль, гідролізат рослинних білків, соняшникова олія), ароматизатори, часниковий порошок, барвник (екстракт паприки), кислота (лимонна кислота), солодка суха сироватка), мальтодекстрин, емульгатор (Е471), сіль, барвник (аннато). Може містити сою.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "15 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Бельгія",
+      "producer": {
+        "trademark": "Pringles",
+        "trademark_slug": "pringles",
+        "website": "pg.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.3d47c9ef267992ef788020b964d97974.64x64.png"
+        },
+        "name": "Kellogg Company"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.150x150.jpeg",
+        "s200x200": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.200x200.jpeg",
+        "s350x350": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.350x350.jpeg",
+        "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.1350x1350.jpeg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.150x150.jpeg",
+          "s200x200": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.200x200.jpeg",
+          "s350x350": "https://img3.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.350x350.jpeg",
+          "s1350x1350": "https://img2.zakaz.ua/upload.version_1.0.3cbfe52fc812cdbd12eaf3cfeace10c6.1350x1350.jpeg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "not_in_stock",
+      "take_more": true,
+      "is_own_brand": false,
+      "available_for_cart": false,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 165.0,
+      "has_similar_products": null,
+      "hits": null,
+      "shopping_list_count": null
+    }
+  ],
+  "categories": [],
+  "filters": [
+    {
+      "key": "promotion",
+      "name": "Акційні товари",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Акційні товари",
+          "value": "1",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "available",
+      "name": "Тільки в наявності",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Тільки в наявності",
+          "value": "1",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "key": "take_more",
+      "name": "Оптом дешевше",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Оптом дешевше",
+          "value": "1",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "key": "category_id",
+      "name": "Категорії",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Здорове харчування та спосіб життя ",
+          "value": "health-and-lifestyle-novus",
+          "count": 16
+        },
+        {
+          "name": "Чипси та снеки",
+          "value": "crisps-and-snacks",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "price",
+      "name": "Ціна",
+      "type": "range",
+      "is_standart": true,
+      "min": 6999.0,
+      "max": 23900.0
+    },
+    {
+      "key": "tm",
+      "name": "Торгова марка",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Pringles",
+          "value": "pringles",
+          "count": 17
+        }
+      ]
+    },
+    {
+      "key": "country",
+      "name": "Країна-виробник",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Бельгія",
+          "value": "belgium",
+          "count": 10
+        },
+        {
+          "name": "Польща",
+          "value": "poland",
+          "count": 9
+        }
+      ]
+    }
+  ],
+  "category_results": [],
+  "is_fuzzy": false,
+  "stats": null
+}

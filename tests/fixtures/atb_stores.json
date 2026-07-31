@@ -1,0 +1,4497 @@
+[
+  {
+    "id": "482010105",
+    "name": "NOVUS SkyMall DRIVE",
+    "retail_chain": "novus",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02223",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Романа Шухевича",
+      "building": "2т",
+      "coords": {
+        "lat": 50.4931815,
+        "lng": 30.5581461
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482010105_store_ru.png",
+          "en": "https://img4.zakaz.ua/482010105_store_en.png",
+          "uk": "https://img4.zakaz.ua/482010105_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48201022",
+    "name": "NOVUS Рівне DRIVE",
+    "retail_chain": "novus",
+    "region_id": "rivne",
+    "city": "rivne",
+    "delivery_service": "zakaz_rivne",
+    "currency": "uah",
+    "post_code": "33023",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Рівне",
+      "street": "Гагаріна",
+      "building": "26",
+      "coords": {
+        "lat": 50.6328208,
+        "lng": 26.2776941
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48201022_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48201022_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48201022_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48201029",
+    "name": "NOVUS Кільцева DRIVE",
+    "retail_chain": "novus",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03115",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Кільцева Дорога",
+      "building": "12",
+      "coords": {
+        "lat": 50.4061,
+        "lng": 30.397912
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48201029_store_ru.png",
+          "en": "https://img4.zakaz.ua/48201029_store_en.png",
+          "uk": "https://img4.zakaz.ua/48201029_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48201031",
+    "name": "NOVUS Retroville DRIVE",
+    "retail_chain": "novus",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04123",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "пр. Європейського Союзу",
+      "building": "47",
+      "coords": {
+        "lat": 50.5039512,
+        "lng": 30.4164598
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "nova_poshta",
+      "nova_poshta_address",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "pickup": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null,
+      "nova_poshta_address": null,
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48201031_store_ru.png",
+          "en": "https://img4.zakaz.ua/48201031_store_en.png",
+          "uk": "https://img4.zakaz.ua/48201031_store_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48201070",
+    "name": "NOVUS Осокор DRIVE",
+    "retail_chain": "novus",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03115",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Здолбунівська",
+      "building": "7г",
+      "coords": {
+        "lat": 50.4112,
+        "lng": 30.6056
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48201070_store_ru.png",
+          "en": "https://img4.zakaz.ua/48201070_store_en.png",
+          "uk": "https://img4.zakaz.ua/48201070_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215610",
+    "name": "METRO Позняки DRIVE",
+    "retail_chain": "metro",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03058",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Григоренка",
+      "building": "43",
+      "coords": {
+        "lat": 50.39051,
+        "lng": 30.64142
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215610_store_ru.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/48215610_store_en.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215610_store_uk.jpg"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215610_parking_ru.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/48215610_parking_en.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215610_parking_uk.jpg"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215611",
+    "name": "METRO Теремки DRIVE",
+    "retail_chain": "metro",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02000",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Кільцева",
+      "building": "1В",
+      "coords": {
+        "lat": 50.37886,
+        "lng": 30.44221
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215611_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215611_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215611_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215611_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215611_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215611_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215612",
+    "name": "METRO Одеса DRIVE",
+    "retail_chain": "metro",
+    "region_id": "odesa",
+    "city": "odesa",
+    "delivery_service": "zakaz_odesa",
+    "currency": "uah",
+    "post_code": "65085",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Одеса",
+      "street": "Аеропортівська",
+      "building": "29",
+      "coords": {
+        "lat": 46.448391,
+        "lng": 30.661012
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215612_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215612_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215612_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215612_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215612_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215612_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215613",
+    "name": "METRO Харків Гагаріна DRIVE",
+    "retail_chain": "metro",
+    "region_id": "kharkiv",
+    "city": "kharkiv",
+    "delivery_service": "zakaz_kharkiv",
+    "currency": "uah",
+    "post_code": "61085",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Харків",
+      "street": "проспект Юрія Гагаріна",
+      "building": "187/1",
+      "coords": {
+        "lat": 49.933179,
+        "lng": 36.264921
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215613_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215613_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215613_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215614",
+    "name": "METRO Дніпро DRIVE",
+    "retail_chain": "metro",
+    "region_id": "dnipro",
+    "city": "dnipro",
+    "delivery_service": "zakaz_dnipro",
+    "currency": "uah",
+    "post_code": "49041",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Дніпро",
+      "street": "Запорізьке шосе",
+      "building": "63",
+      "coords": {
+        "lat": 48.40059295592723,
+        "lng": 35.04005299709316
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215614_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215614_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215614_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215614_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215614_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215614_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215618",
+    "name": "METRO Запоріжжя DRIVE",
+    "retail_chain": "metro",
+    "region_id": "zaporizhzhia",
+    "city": "zaporizhzhia",
+    "delivery_service": "zakaz_zaporizhia",
+    "currency": "uah",
+    "post_code": "69050",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Запоріжжя",
+      "street": "Оріхівське шосе",
+      "building": "7А",
+      "coords": {
+        "lat": 47.793231,
+        "lng": 35.237875
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215618_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215618_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215618_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215618_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215618_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215618_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215620",
+    "name": "METRO Кривий Ріг DRIVE",
+    "retail_chain": "metro",
+    "region_id": "kryvyyrig",
+    "city": "kryvyyrig",
+    "delivery_service": "zakaz_kryvyyrig",
+    "currency": "uah",
+    "post_code": "50076",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Кривий Ріг",
+      "street": "Івана Бикова",
+      "building": "31",
+      "coords": {
+        "lat": 47.9306877,
+        "lng": 33.4229355
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215620_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215620_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215620_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215621",
+    "name": "METRO Вінниця DRIVE",
+    "retail_chain": "metro",
+    "region_id": "vinnytsia",
+    "city": "vinnytsia",
+    "delivery_service": "zakaz_vinnytsia",
+    "currency": "uah",
+    "post_code": "21036",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Вінниця",
+      "street": "Хмельницьке Шосе",
+      "building": "1 0,5км",
+      "coords": {
+        "lat": 49.236701,
+        "lng": 28.399184
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215621_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215621_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215621_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215621_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215621_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215621_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215625",
+    "name": "METRO Полтава DRIVE",
+    "retail_chain": "metro",
+    "region_id": "poltava",
+    "city": "poltava",
+    "delivery_service": "zakaz_poltava",
+    "currency": "uah",
+    "post_code": "36040",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Полтава",
+      "street": "Київське Шосе",
+      "building": "1-A",
+      "coords": {
+        "lat": 49.5643456,
+        "lng": 34.4825617
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215625_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215625_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215625_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215627",
+    "name": "METRO Івано-Франківськ DRIVE",
+    "retail_chain": "metro",
+    "region_id": "ivanofrankivsk",
+    "city": "ivanofrankivsk",
+    "delivery_service": "zakaz_ivanofrankivsk",
+    "currency": "uah",
+    "post_code": "76006",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Івано-Франківськ",
+      "street": "Вовчинецька",
+      "building": "225-М",
+      "coords": {
+        "lat": 48.9442875,
+        "lng": 24.7411757
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215627_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215627_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215627_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215628",
+    "name": "METRO Чернівці DRIVE",
+    "retail_chain": "metro",
+    "region_id": "chernivtsi",
+    "city": "chernivtsi",
+    "delivery_service": "zakaz_chernivtsi",
+    "currency": "uah",
+    "post_code": "58007",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Чернівці",
+      "street": "Остапа Вільшини",
+      "building": "1Д",
+      "coords": {
+        "lat": 48.3203485,
+        "lng": 25.9042393
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215628_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215628_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215628_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215633",
+    "name": "METRO Троєщина DRIVE",
+    "retail_chain": "metro",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02232",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Сержа Лифаря",
+      "building": "2А",
+      "coords": {
+        "lat": 50.51111,
+        "lng": 30.62352
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215633_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215633_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215633_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215633_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215633_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215633_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215634",
+    "name": "METRO Рівне DRIVE",
+    "retail_chain": "metro",
+    "region_id": "rivne",
+    "city": "rivne",
+    "delivery_service": "zakaz_rivne",
+    "currency": "uah",
+    "post_code": "33005",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Рівне",
+      "street": "Макарова",
+      "building": "21",
+      "coords": {
+        "lat": 50.6233412,
+        "lng": 26.202149
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://s3.amazonaws.com/zakaz.img/stores/maps/48215634_store_ru.png",
+          "en": "https://s3.amazonaws.com/zakaz.img/stores/maps/48215634_store_en.png",
+          "uk": "https://s3.amazonaws.com/zakaz.img/stores/maps/48215634_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215637",
+    "name": "METRO Львів DRIVE",
+    "retail_chain": "metro",
+    "region_id": "lviv",
+    "city": "lviv",
+    "delivery_service": "zakaz_lviv",
+    "currency": "uah",
+    "post_code": "79032",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Львів",
+      "street": "Дж Вашингтона",
+      "building": "8",
+      "coords": {
+        "lat": 49.81268348030165,
+        "lng": 24.07327803050263
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215637_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215637_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215637_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215637_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215637_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215637_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48215639",
+    "name": "METRO Житомир DRIVE",
+    "retail_chain": "metro",
+    "region_id": "zhytomyr",
+    "city": "zhytomyr",
+    "delivery_service": "zakaz_zhytomyr",
+    "currency": "uah",
+    "post_code": "10029",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Житомир",
+      "street": "проспект Незалежності",
+      "building": "55В",
+      "coords": {
+        "lat": 50.27423,
+        "lng": 28.67197
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215639_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215639_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215639_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48215639_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48215639_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48215639_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482211004",
+    "name": "Таврія В Івано-Франківськ DRIVE",
+    "retail_chain": "tavriav",
+    "region_id": "ivanofrankivsk",
+    "city": "ivanofrankivsk",
+    "delivery_service": "zakaz_ivanofrankivsk",
+    "currency": "uah",
+    "post_code": "76000",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Івано-Франківськ",
+      "street": "вулиця Княгинин",
+      "building": "44",
+      "coords": {
+        "lat": 48.932071,
+        "lng": 24.6939412
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online_auto",
+      "card_online"
+    ],
+    "opening_hours": null,
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482211004_store_ru.png",
+          "en": "https://img4.zakaz.ua/482211004_store_en.png",
+          "uk": "https://img4.zakaz.ua/482211004_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48221130",
+    "name": "Таврія В Харків DRIVE",
+    "retail_chain": "tavriav",
+    "region_id": "kharkiv",
+    "city": "kharkiv",
+    "delivery_service": "zakaz_kharkiv",
+    "currency": "uah",
+    "post_code": "61001",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Харків",
+      "street": "Гагаріна",
+      "building": "30",
+      "coords": {
+        "lat": 49.9767933,
+        "lng": 36.2478871
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online_auto",
+        "card_online"
+      ],
+      "plan": [
+        "card_online_auto",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online_auto",
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48221130_store_ru.png",
+          "en": "https://img4.zakaz.ua/48221130_store_en.png",
+          "uk": "https://img4.zakaz.ua/48221130_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482211449",
+    "name": "Таврія В Одеса DRIVE",
+    "retail_chain": "tavriav",
+    "region_id": "odesa",
+    "city": "odesa",
+    "delivery_service": "zakaz_odesa",
+    "currency": "uah",
+    "post_code": "61001",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Одеса",
+      "street": "1-й км Новомиколаївської дороги",
+      "building": "1",
+      "coords": {
+        "lat": 46.5994168,
+        "lng": 30.8059128
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online_auto",
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/482211449_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/482211449_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/482211449_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48225131",
+    "name": "Космос Одеса DRIVE",
+    "retail_chain": "cosmos",
+    "region_id": "odesa",
+    "city": "odesa",
+    "delivery_service": "zakaz_odesa",
+    "currency": "uah",
+    "post_code": "61001",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Одеса",
+      "street": "Академічна",
+      "building": "28",
+      "coords": {
+        "lat": 46.4396824,
+        "lng": 30.7580912
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online_auto",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online_auto",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online_auto",
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48225131_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48225131_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48225131_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48225531",
+    "name": "Космос Київ DRIVE",
+    "retail_chain": "cosmos",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "61001",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Оноре де Бальзака",
+      "building": "2А",
+      "coords": {
+        "lat": 50.4977001,
+        "lng": 30.5766195
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online_auto",
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online_auto",
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48225531_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48225531_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48225531_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48225531_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48225531_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48225531_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48231001",
+    "name": "Восторг Клочківська DRIVE",
+    "retail_chain": "vostorg",
+    "region_id": "kharkiv",
+    "city": "kharkiv",
+    "delivery_service": "zakaz_kharkiv",
+    "currency": "uah",
+    "post_code": "61145",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Харків",
+      "street": "Клочківська",
+      "building": "134Б",
+      "coords": {
+        "lat": 50.0095197,
+        "lng": 36.2190494
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48231001_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48231001_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48231001_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48231001_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48231001_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48231001_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482320001",
+    "name": "Харків Клочківська DRIVE",
+    "retail_chain": "kharkiv",
+    "region_id": "kharkiv",
+    "city": "kharkiv",
+    "delivery_service": "zakaz_kharkiv",
+    "currency": "uah",
+    "post_code": "61145",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Харків",
+      "street": "Клочківська",
+      "building": "134Б",
+      "coords": {
+        "lat": 50.0095197,
+        "lng": 36.2190494
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://s3.amazonaws.com/zakaz.img/482320001_store_ru.png",
+          "en": "https://s3.amazonaws.com/zakaz.img/482320001_store_en.png",
+          "uk": "https://s3.amazonaws.com/zakaz.img/482320001_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://s3.amazonaws.com/zakaz.img/482320001_parking_ru.png",
+          "en": "https://s3.amazonaws.com/zakaz.img/482320001_parking_en.png",
+          "uk": "https://s3.amazonaws.com/zakaz.img/482320001_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482330018",
+    "name": "Чудо Маркет",
+    "retail_chain": "chudomarket",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_kharkiv",
+    "currency": "uah",
+    "post_code": "61000",
+    "phones": [],
+    "address": {
+      "city": "Харків",
+      "street": "Академіка Павлова",
+      "building": "120",
+      "coords": {
+        "lat": 50.0073,
+        "lng": 36.3173
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "12:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 2500,
+        "initial_weight": 41000
+      },
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482374007",
+    "name": "Епіцентр FOOD Полярна DRIVE",
+    "retail_chain": "epicentr",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04021",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Полярна",
+      "building": "20Д",
+      "coords": {
+        "lat": 50.5193,
+        "lng": 30.47774
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/482374007_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/482374007_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/482374007_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246401",
+    "name": "Auchan Почайна DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04076",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Степана Бандери",
+      "building": "15А",
+      "coords": {
+        "lat": 50.491319,
+        "lng": 30.489957
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246401_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246401_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246401_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246407",
+    "name": "Auchan Біличі DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": null,
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Берковецька",
+      "building": "6",
+      "coords": {
+        "lat": 50.496931,
+        "lng": 30.361328
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "nova_poshta",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "nova_poshta": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48246407_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48246407_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48246407_store_uk.png"
+        },
+        "name": "store"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48246407_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48246407_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48246407_parking_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246409",
+    "name": "Auchan Львів DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "lviv",
+    "city": "lviv",
+    "delivery_service": "zakaz_lviv",
+    "currency": "uah",
+    "post_code": "79026",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Львів Сокільники",
+      "street": "Стрийська",
+      "building": "30",
+      "coords": {
+        "lat": 49.773817,
+        "lng": 24.008604
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246409_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246409_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246409_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246414",
+    "name": "Auchan Rive Gauche DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04076",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Здолбунівська",
+      "building": "17",
+      "coords": {
+        "lat": 50.419283,
+        "lng": 30.6313015
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246414_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246414_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246414_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246415",
+    "name": "Auchan Либідська DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03150",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Антоновича",
+      "building": "176",
+      "coords": {
+        "lat": 50.4119223,
+        "lng": 30.5219596
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246415_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246415_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246415_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246416",
+    "name": "Auchan Одеса DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "odesa",
+    "city": "odesa",
+    "delivery_service": "zakaz_odesa",
+    "currency": "uah",
+    "post_code": "67571",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Одеса",
+      "street": "Старомиколаївська дорога",
+      "building": "101А",
+      "coords": {
+        "lat": 46.564279,
+        "lng": 30.835252
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "09:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246416_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246416_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246416_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246418",
+    "name": "Auchan Чернігівська DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02094",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Гната Хоткевича",
+      "building": "1Б",
+      "coords": {
+        "lat": 50.4546712,
+        "lng": 30.6383533
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48246418_parking_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48246418_parking_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48246418_parking_uk.png"
+        },
+        "name": "parking"
+      },
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/48246418_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/48246418_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/48246418_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246423",
+    "name": "Auchan Глушкова DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03188",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Академіка Глушкова",
+      "building": "13Б",
+      "coords": {
+        "lat": 50.368031,
+        "lng": 30.458355
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246423_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246423_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246423_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246424",
+    "name": "Auchan Сім'ї Сосніних DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03134",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Сім'ї Сосніних",
+      "building": "17",
+      "coords": {
+        "lat": 50.4176731,
+        "lng": 30.3924961
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246424_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246424_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246424_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246425",
+    "name": "Auchan Лугова DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04074",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Лугова",
+      "building": "12",
+      "coords": {
+        "lat": 50.5057018,
+        "lng": 30.4738766
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246425_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246425_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246425_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246429",
+    "name": "Auchan Дніпро DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "dnipro",
+    "city": "dnipro",
+    "delivery_service": "zakaz_dnipro",
+    "currency": "uah",
+    "post_code": "49130",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Дніпро",
+      "street": "Нижньодніпровська",
+      "building": "17",
+      "coords": {
+        "lat": 48.52937,
+        "lng": 35.03093
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246429_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246429_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246429_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48246430",
+    "name": "Auchan Житомир DRIVE",
+    "retail_chain": "auchan",
+    "region_id": "zhytomyr",
+    "city": "zhytomyr",
+    "delivery_service": "zakaz_zhytomyr",
+    "currency": "uah",
+    "post_code": "58020",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Житомир",
+      "street": "Київська",
+      "building": "77",
+      "coords": {
+        "lat": 50.26747945443415,
+        "lng": 28.687988071112283
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/48246430_store_ru.png",
+          "en": "https://img4.zakaz.ua/48246430_store_en.png",
+          "uk": "https://img4.zakaz.ua/48246430_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482476001",
+    "name": "Grono DRIVE",
+    "retail_chain": "grono",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_vinnytsia",
+    "currency": "uah",
+    "post_code": "21005",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Вінниця",
+      "street": "Зодчих",
+      "building": "16",
+      "coords": {
+        "lat": 49.2194914,
+        "lng": 28.4446358
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/482476001_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/482476001_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/482476001_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": false
+  },
+  {
+    "id": "482550001",
+    "name": "WineTime Бажана DRIVE",
+    "retail_chain": "winetime",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03058",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Бажана",
+      "building": "1е",
+      "coords": {
+        "lat": 50.3963315,
+        "lng": 30.6149269
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null,
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482550001_pick_up_ru.png",
+          "en": "https://img4.zakaz.ua/482550001_pick_up_en.png",
+          "uk": "https://img4.zakaz.ua/482550001_pick_up_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482550002",
+    "name": "WineTime Львів DRIVE",
+    "retail_chain": "winetime",
+    "region_id": "lviv",
+    "city": "lviv",
+    "delivery_service": "zakaz_lviv",
+    "currency": "uah",
+    "post_code": "79019",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Львів",
+      "street": "проспект Чорновола",
+      "building": "45",
+      "coords": {
+        "lat": 49.85490779554023,
+        "lng": 24.021956708484996
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482550002_store_ru.png",
+          "en": "https://img4.zakaz.ua/482550002_store_en.png",
+          "uk": "https://img4.zakaz.ua/482550002_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482550003",
+    "name": "Winetime Івано-Франківськ DRIVE",
+    "retail_chain": "winetime",
+    "region_id": "ivanofrankivsk",
+    "city": "ivanofrankivsk",
+    "delivery_service": "zakaz_ivanofrankivsk",
+    "currency": "uah",
+    "post_code": "76010",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Івано-Франківськ",
+      "street": "вулиця Бельведерська",
+      "building": "27Б",
+      "coords": {
+        "lat": 48.9232131,
+        "lng": 24.7034813
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://s3.amazonaws.com/zakaz.img/stores/maps/482550003_store_ru.png",
+          "en": "https://s3.amazonaws.com/zakaz.img/stores/maps/482550003_store_en.png",
+          "uk": "https://s3.amazonaws.com/zakaz.img/stores/maps/482550003_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482550005",
+    "name": "WineTime Біличі Київ",
+    "retail_chain": "winetime",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "04128",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "проспект Академіка Палладіна",
+      "building": "59б",
+      "coords": {
+        "lat": 50.49840064086082,
+        "lng": 30.36328683981114
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482596001",
+    "name": "Ідеал Одеса",
+    "retail_chain": "ideal",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_odesa",
+    "currency": "uah",
+    "post_code": "65000",
+    "phones": [],
+    "address": {
+      "city": "Одеса",
+      "street": "Бугаївська",
+      "building": "21В",
+      "coords": {
+        "lat": 46.4706,
+        "lng": 30.6975
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null,
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482663071",
+    "name": "ОнDe DRIVE",
+    "retail_chain": "onde",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_chernivtsi",
+    "currency": "uah",
+    "post_code": "58032",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Чернівці",
+      "street": "Південно-Кільцева",
+      "building": "14Е",
+      "coords": {
+        "lat": 48.2518,
+        "lng": 25.9574
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/482663071_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/482663071_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/482663071_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482676003",
+    "name": "MEGAMARKET Подол Київ DRIVE",
+    "retail_chain": "megamarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02095",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Глибочицька",
+      "building": "44/4",
+      "coords": {
+        "lat": 50.46176,
+        "lng": 30.49952
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482676003_drive_ru.png",
+          "en": "https://img4.zakaz.ua/482676003_drive_en.png",
+          "uk": "https://img4.zakaz.ua/482676003_drive_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48267601",
+    "name": "MEGAMARKET Сурикова DRIVE",
+    "retail_chain": "megamarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03035",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Дениса Монастирського",
+      "building": "3",
+      "coords": {
+        "lat": 50.43416359312588,
+        "lng": 30.476823745365206
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/surikova_mega_drive.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/surikova_mega_drive.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/surikova_mega_drive.jpg"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48267602",
+    "name": "MEGAMARKET Kosmopolit DRIVE",
+    "retail_chain": "megamarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Вадима Гетьмана",
+      "building": "6",
+      "coords": {
+        "lat": 50.4497535,
+        "lng": 30.4414631
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/cosmopolit_mega_drive.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/cosmopolit_mega_drive.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/cosmopolit_mega_drive.jpg"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482776003",
+    "name": "Ultramarket Подол Київ DRIVE",
+    "retail_chain": "ultramarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02095",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Глибочицька",
+      "building": "44/4",
+      "coords": {
+        "lat": 50.46176,
+        "lng": 30.49952
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482776003_drive_ru.png",
+          "en": "https://img4.zakaz.ua/482776003_drive_en.png",
+          "uk": "https://img4.zakaz.ua/482776003_drive_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48277601",
+    "name": "Ultramarket Сурикова DRIVE",
+    "retail_chain": "ultramarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03035",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Дениса Монастирського",
+      "building": "3",
+      "coords": {
+        "lat": 50.43416359312588,
+        "lng": 30.476823745365206
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/surikova_ultra_drive_ru.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/surikova_ultra_drive_en.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/surikova_ultra_drive_uk.jpg"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "48277602",
+    "name": "Ultramarket Kosmopolit DRIVE",
+    "retail_chain": "ultramarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Вадима Гетьмана",
+      "building": "6",
+      "coords": {
+        "lat": 50.4497535,
+        "lng": 30.4414631
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "nova_poshta_address",
+      "plan",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "nova_poshta_address": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/cosmopolit_ultra_drive_ru.jpg",
+          "en": "https://img4.zakaz.ua/stores/maps/cosmopolit_ultra_drive_en.jpg",
+          "uk": "https://img4.zakaz.ua/stores/maps/cosmopolit_ultra_drive_uk.jpg"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482778001",
+    "name": "За Раз Сурікова DRIVE",
+    "retail_chain": "zaraz",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03035",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Дениса Монастирського",
+      "building": "3",
+      "coords": {
+        "lat": 50.43416359312588,
+        "lng": 30.476823745365206
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482778001_store_ru.png",
+          "en": "https://img4.zakaz.ua/482778001_store_en.png",
+          "uk": "https://img4.zakaz.ua/482778001_store_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482778002",
+    "name": "За Раз Космополіт DRIVE",
+    "retail_chain": "zaraz",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Вадима Гетьмана",
+      "building": "6",
+      "coords": {
+        "lat": 50.4497535,
+        "lng": 30.4414631
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta_address",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta_address": null,
+      "nova_poshta": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482778002_store_ru.png",
+          "en": "https://img4.zakaz.ua/482778002_store_en.png",
+          "uk": "https://img4.zakaz.ua/482778002_store_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482778003",
+    "name": "За Раз Подол Київ DRIVE",
+    "retail_chain": "zaraz",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Глибочицька",
+      "building": "44/4",
+      "coords": {
+        "lat": 50.46176,
+        "lng": 30.49952
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482778003_store_ru.png",
+          "en": "https://img4.zakaz.ua/482778003_store_en.png",
+          "uk": "https://img4.zakaz.ua/482778003_store_uk.png"
+        },
+        "name": "parking"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482779001",
+    "name": "AlcoHub Сурікова",
+    "retail_chain": "alcohub",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03035",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Сурикова",
+      "building": "3",
+      "coords": {
+        "lat": 50.43416359312588,
+        "lng": 30.476823745365206
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482779002",
+    "name": "AlcoHub Космополіт",
+    "retail_chain": "alcohub",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Вадима Гетьмана",
+      "building": "6",
+      "coords": {
+        "lat": 50.4497535,
+        "lng": 30.4414631
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta_address",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "bank",
+        "card_online"
+      ],
+      "nova_poshta": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta_address": null,
+      "nova_poshta": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482779003",
+    "name": "AlcoHub Поділ Київ",
+    "retail_chain": "alcohub",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03057",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Глибочицька",
+      "building": "44/4",
+      "coords": {
+        "lat": 50.46176,
+        "lng": 30.49952
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "bank",
+        "card_online"
+      ],
+      "plan": [
+        "bank",
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "19:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482800030",
+    "name": "ЕкоМаркет Огієнка DRIVE",
+    "retail_chain": "ekomarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "03049",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Огієнка",
+      "building": "15А",
+      "coords": {
+        "lat": 50.4393935,
+        "lng": 30.4837696
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/482800030_store_ru.png",
+          "en": "https://img4.zakaz.ua/482800030_store_en.png",
+          "uk": "https://img4.zakaz.ua/482800030_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482800245",
+    "name": "ЕкоМаркет Радунська",
+    "retail_chain": "ekomarket",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02000",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "Радунська",
+      "building": "40",
+      "coords": {
+        "lat": 50.5296024366428,
+        "lng": 30.60119948459225
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482867104",
+    "name": "Torba Чернівці",
+    "retail_chain": "torba",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_chernivtsi",
+    "currency": "uah",
+    "post_code": "58018",
+    "phones": [],
+    "address": {
+      "city": "Чернівці",
+      "street": "провулок Складський",
+      "building": "1",
+      "coords": {
+        "lat": 48.260465601441425,
+        "lng": 25.955584050580285
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      }
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": false
+  },
+  {
+    "id": "482867130",
+    "name": "Torba Татарів DRIVE",
+    "retail_chain": "torba",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_ivanofrankivsk",
+    "currency": "uah",
+    "post_code": "78596",
+    "phones": [],
+    "address": {
+      "city": "Татарів",
+      "street": "О.Довбуша",
+      "building": "36 А/1",
+      "coords": {
+        "lat": 48.34022,
+        "lng": 24.56735
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "20:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://img4.zakaz.ua/stores/maps/482867130_store_ru.png",
+          "en": "https://img4.zakaz.ua/stores/maps/482867130_store_en.png",
+          "uk": "https://img4.zakaz.ua/stores/maps/482867130_store_ua.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": false
+  },
+  {
+    "id": "482867220",
+    "name": "Torba Рівне",
+    "retail_chain": "torba",
+    "region_id": null,
+    "city": null,
+    "delivery_service": "zakaz_rivne",
+    "currency": "uah",
+    "post_code": "33000",
+    "phones": [],
+    "address": {
+      "city": "Рівне",
+      "street": "Василя Червонія",
+      "building": "16",
+      "coords": {
+        "lat": 50.6291,
+        "lng": 26.2721
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "pickup",
+      "plan",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "pickup": [
+        "card_online"
+      ],
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "17:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "pickup": null,
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482917587",
+    "name": "Master Zoo Київ DRIVE",
+    "retail_chain": "masterzoo",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02000",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "вул. Північно-Сирецька",
+      "building": "49",
+      "coords": {
+        "lat": 50.4855206,
+        "lng": 30.4340875
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "pickup",
+      "nova_poshta",
+      "nova_poshta_address"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "pickup": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": {
+      "from": "10:00",
+      "to": "18:00"
+    },
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "pickup": null,
+      "nova_poshta": null,
+      "nova_poshta_address": null
+    },
+    "pickup_zones": [
+      {
+        "zone": {
+          "ru": "https://s3.amazonaws.com/zakaz.img/stores/maps/482917587_store_ru.png",
+          "en": "https://s3.amazonaws.com/zakaz.img/stores/maps/482917587_store_en.png",
+          "uk": "https://s3.amazonaws.com/zakaz.img/stores/maps/482917587_store_uk.png"
+        },
+        "name": "store"
+      }
+    ],
+    "service_fee_percentage": 0,
+    "tips_available": true
+  },
+  {
+    "id": "482918001",
+    "name": "Біотус Київ",
+    "retail_chain": "biotus",
+    "region_id": "kiev",
+    "city": "kiev",
+    "delivery_service": "zakaz",
+    "currency": "uah",
+    "post_code": "02000",
+    "phones": [
+      "0800 20 20 20"
+    ],
+    "address": {
+      "city": "Київ",
+      "street": "просп. Степана Бандери",
+      "building": "15а",
+      "coords": {
+        "lat": 50.4930506,
+        "lng": 30.4888138
+      }
+    },
+    "email": "help@zakaz.ua",
+    "delivery_types": [
+      "plan",
+      "nova_poshta_address",
+      "nova_poshta"
+    ],
+    "payment_types": {
+      "plan": [
+        "card_online"
+      ],
+      "nova_poshta_address": [
+        "card_online"
+      ],
+      "nova_poshta": [
+        "card_online"
+      ]
+    },
+    "payment_types_for_excisable": [
+      "card_online"
+    ],
+    "opening_hours": null,
+    "is_active": true,
+    "overweight_params": {
+      "plan": {
+        "weight_step": 10000,
+        "max_step_price": 3000,
+        "initial_weight": 30000
+      },
+      "nova_poshta_address": null,
+      "nova_poshta": null
+    },
+    "pickup_zones": null,
+    "service_fee_percentage": 0,
+    "tips_available": true
+  }
+]

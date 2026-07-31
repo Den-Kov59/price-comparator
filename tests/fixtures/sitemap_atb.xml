@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <sitemap>
+  <loc>https://www.atbmarket.com/sitemap_catalog.xml</loc>
+  <lastmod>2026-07-27T17:03:17+03:00</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.atbmarket.com/sitemap_products.xml</loc>
+  <lastmod>2026-07-27T17:03:17+03:00</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.atbmarket.com/sitemap_info.xml</loc>
+  <lastmod>2026-07-27T17:03:17+03:00</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.atbmarket.com/sitemap_local-pages.xml</loc>
+  <lastmod>1970-01-01T03:00:01+03:00</lastmod>
+ </sitemap>
+ <sitemap>
+  <loc>https://www.atbmarket.com/sitemap-filters.xml</loc>
+  <lastmod>1970-01-01T03:00:01+03:00</lastmod>
+ </sitemap>
+</sitemapindex>

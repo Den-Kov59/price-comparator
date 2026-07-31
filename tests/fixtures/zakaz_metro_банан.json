@@ -1,0 +1,3441 @@
+{
+  "count": 120,
+  "count_available": 93,
+  "results": [
+    {
+      "ean": "04820086638197",
+      "sku": "236059",
+      "title": "Батончик протеїновий Fine Life зі смаком банану 40г",
+      "price": 2050,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2050,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "protein-bars-metro",
+      "parent_category_id": "snacks-and-sweets-metro",
+      "category_filters": [],
+      "description": "FL БАТ ПРОТЕЇН БАНАН 40Г — ваш ідеальний супутник для підтримки енергії у швидкому ритмі життя. Зручний формат батончику дозволяє швидко отримати всі необхідні поживні речовини, де б ви не були — на роботі, в дорозі або під час тренування. Насичений смак банана дарує справжнє задоволення, що приємно балує смакові рецептори. Ви можете легко придбати цей продукт в Metro або замовити онлайн на сайті, зробивши всього один клік.\nОтримайте товар FL БАТ ПРОТЕЇН БАНАН 40Г з доставкою прямо до вас додому за допомогою zakaz.ua. Зробіть ваші покупки легшими та приємнішими, обравши улюблений продукт, додайте його в кошик на сайті та очікуйте кур'єра у вашому порозі. Уникайте черг та перенесення важких пакетів, адже zakaz.ua зберігає ваш час і нерви, дозволяючи насолодитися спокоєм і комфортом домашньої доставки.",
+      "nutrition_facts": {
+        "ingredient_energy": "478.00ккал",
+        "ingredient_protein": "28.00г",
+        "ingredient_fat": "18.00г",
+        "ingredient_carbohydrates": "51.00г"
+      },
+      "slug": "batonchik-fain-laif-40g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/batonchik-fain-laif-40g-ukrayina--04820086638197/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        " Глазур кондитерська 25% (цукор, жир рослинний [повністю гідрогенізована пальмоядрова олія], какао - порошок, емульгатор лецитин СОЄВИЙ, ароматизатори: «Шоколад», «Ванілін»), патока крохмальна 19,6%, ізолят СОЄВОГО білку 18,3%, глюкозно-фруктозний сироп 17,24%, жир рослинний 10,7% (олія кокосова), концентрат СИРОВАТКОВОГО білку 8,9%, ароматизатор «Банан» 0,12%, консервант сорбінова кислота 0,06%, барвник харчовий «Жовтий» 0,05%, ароматизатор «Ваніль» 0,03%. Може містити сліди АРАХІСУ та ГОРІХІВ. <br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Fine Life",
+        "trademark_slug": "fine-life",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.456123ef521ecf3b764a498c7a259345.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.456123ef521ecf3b764a498c7a259345.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.456123ef521ecf3b764a498c7a259345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/1258b694c25e48d0be7cc063e0731c7d/1718027424-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 40.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820293123004",
+      "sku": "250553",
+      "title": "Йогурт Metro Chef Полуниця-банан 1% 750г",
+      "price": 6850,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6850,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "yogurt-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "MC ЙОГУРТ 1% 750Г — це чудовий вибір для всіх, хто цінує легкість і користь продукції з ніжним смаком. Завдяки низькому вмісту жиру, цей йогурт ідеально підходить для сніданків, легких перекусок на роботі або вдома. Його зручний формат у 750 грамів дозволяє легко транспортувати та зберігати продукт, роблячи його відмінним вибором для родини чи невеликих офісних колективів. Продукт від Metro Chef відзначається гарантією високої якості.\nЗамовити MC ЙОГУРТ 1% 750Г можна легко через zakaz.ua, що забезпечить швидкий і зручний процес доставки прямо до вашого дому. Користуючись послугами онлайн-платформи, ви заощадите час, отримуючи свіжі продукти без зайвих клопотів. Зробіть своє життя комфортнішим разом з Metro, купуючи товари просто і зручно, не виходячи з дому.",
+      "nutrition_facts": {
+        "ingredient_energy": "68.20ккал",
+        "ingredient_protein": "1.70г",
+        "ingredient_fat": "1.00г",
+        "ingredient_carbohydrates": "13.10г"
+      },
+      "slug": "iogurt-metro-shef-750g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-metro-shef-750g-ukrayina--04820293123004/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "МОЛОКО нормалізоване; цукор; наповнювач фруктовий пастеризо[1]ваний «Полуниця-банан» (3,0%) (цукор; сік полуничний відновлений (11,16%); полуниця (7,84%); банан (6,0%); вода; пюре яблучне; модифікований крохмаль кукурудзяний; ароматизатор полуниці; стабілізатор камедь рожкового дерева/гуарова камедь; ароматизатор «Ваніль-вершки»; натуральні барвники карміни; ароматизатор банана; регулятори кислотності: лимонна кислота, цитрат натрію; натуральні барвники: β-каротин/екстракт паприки); модифікований крохмаль кукурудзяний; закваска бактеріальна. Кількість молочнокислих бактерій, КУО в 1 ml (мл), не менше 1·10^7.<br>"
+      ],
+      "fat": "1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/fd6f06468f1f428a9e93247e29c9bf4a/1753350052-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 750.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "metro28896500000000",
+      "sku": "393412",
+      "title": "Банан",
+      "price": 5990,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5990,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "kg",
+      "volume": null,
+      "quantity": {
+        "min": 1000,
+        "step": 1000,
+        "is_strict": true
+      },
+      "currency": "uah",
+      "category_id": "bananas-pineapples-kiwi-pomegranate-metro",
+      "parent_category_id": "fruits-and-vegetables-metro",
+      "category_filters": [],
+      "description": "Банани - це смачний і поживний фрукт, багатий на калій, магній, вітаміни групи B та клітковину. Вони підтримують енергію, сприяють гарному настрою й роботі серця.\nКолір і ступінь достиглості бананів можуть відрізнятися -  від зеленуватих до насичено-жовтих із плямами. Це природно й не впливає на їхню якість чи користь.",
+      "nutrition_facts": {
+        "ingredient_energy": "96.00ккал",
+        "ingredient_protein": "1.50г",
+        "ingredient_fat": "0.50г",
+        "ingredient_carbohydrates": "21.00г"
+      },
+      "slug": "frukt-banan",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/frukt-banan--metro28896500000000/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [],
+      "fat": null,
+      "shelf_life": "10 діб",
+      "temperature_range": "12...15",
+      "pack_amount": null,
+      "country": "Колумбія",
+      "producer": {
+        "trademark": "без тм",
+        "trademark_slug": "without-brand",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9145c481e2b14605a6ffd3c3dfbc4edc/1747639401-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/bd0fa23263fa40dcb5228dfce81a68a5/1716197428-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/bd0fa23263fa40dcb5228dfce81a68a5/1716197428-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/bd0fa23263fa40dcb5228dfce81a68a5/1716197428-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/bd0fa23263fa40dcb5228dfce81a68a5/1716197428-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "running_out",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 0,
+      "has_similar_products": null,
+      "hits": 10,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "metro28161400000000",
+      "sku": "322855",
+      "title": "Банан Бебі",
+      "price": 18710,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 18710,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "kg",
+      "volume": null,
+      "quantity": {
+        "min": 1000,
+        "step": 1000,
+        "is_strict": true
+      },
+      "currency": "uah",
+      "category_id": "bananas-pineapples-kiwi-pomegranate-metro",
+      "parent_category_id": "fruits-and-vegetables-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "90.00ккал",
+        "ingredient_protein": "1.30г",
+        "ingredient_fat": "0.60г",
+        "ingredient_carbohydrates": "20.00г"
+      },
+      "slug": "frukt-banan",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/frukt-banan--metro28161400000000/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Банани свіжі.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "14 діб",
+      "temperature_range": "12...16",
+      "pack_amount": null,
+      "country": "Еквадор",
+      "producer": {
+        "trademark": "без тм",
+        "trademark_slug": "without-brand",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/2599dd327fdf4d9abb7c3b4fd49c7c29/1717559669-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "running_out",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820195681978",
+      "sku": "256914",
+      "title": "Банан Panfruit сублімований скибками 50г",
+      "price": 21094,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 21094,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "freeze-dried-products-metro",
+      "parent_category_id": "packets-cereals-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "373.00ккал",
+        "ingredient_protein": "5.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "82.00г"
+      },
+      "slug": "frukt-panfruts-50g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/frukt-panfruts-50g-ukrayina--04820195681978/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Банан сублімований скибками.<br><br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "2 роки",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Panfruit",
+        "trademark_slug": "panfruit",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "тов \"панфрут україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/8a13536e7cf5428b9e394dd6d7c8e055/1763658503-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 50.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08851011124269",
+      "sku": "258405",
+      "title": "Банани Elephants цілі в сиропі 565г",
+      "price": 20412,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 20412,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "canned-fruits-metro",
+      "parent_category_id": "canned-food-oil-vinegar-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "95.00ккал",
+        "ingredient_protein": "0.40г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "22.40г"
+      },
+      "slug": "frukt-elefant-565g-tailand",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/frukt-elefant-565g-tailand--08851011124269/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta"
+        ]
+      },
+      "ingredients": [
+        "Банан, вода, цукор.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "36 місяців",
+      "temperature_range": "зберігати у сухому прохолодному місці",
+      "pack_amount": null,
+      "country": "Тайланд",
+      "producer": {
+        "trademark": "Elephants;Twin Elephants & Earth",
+        "trademark_slug": "elephants-twin-elephants-earth",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b96b78c5bb5d46f48972feb6ed21d096/1778173681-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 565.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08445291497627",
+      "sku": "246147",
+      "title": "Снеки-гризунці Gerber Банан 28г",
+      "price": 7900,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 20,
+        "old_price": 9900,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cookies-and-rusks-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "428.00ккал",
+        "ingredient_protein": "6.20г",
+        "ingredient_fat": "9.90г",
+        "ingredient_carbohydrates": "77.00г"
+      },
+      "slug": "snek-gerber-28g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/snek-gerber-28g--08445291497627/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Борошно пшеничне (містить глютен) 46,4%, крупа кукурудзяна 41,7%, олія соняшникова з високим вмістом олеїнової кислоти, банани в порошку 5%, кальцію карбонат, антиоксидант (альфа-токоферол), вітамін В1.<br><br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Португалія",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": "Nestle S.A."
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/696aec9d957b4bc8b4271b6688f7a40e/1784524807-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 28.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "05449000152367",
+      "sku": "246151",
+      "title": "Нектар Cappy Банан-полуниця 1л",
+      "price": 10335,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 10335,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "nectar-metro",
+      "parent_category_id": "drinks-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "12.80г"
+      },
+      "slug": "nektar-kappi-1000ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/nektar-kappi-1000ml-ukrayina--05449000152367/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна, фруктові соки та пюре з концентрату (бананове пюре 19.7%, полуничне пюре 4.5%, яблучний сік 4.4%, сік чорноплідної горобини 1.4%), цукор, кислота (лимонна кислота), натуральний ароматизатор.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "6 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Cappy ",
+        "trademark_slug": "cappy",
+        "website": "coca-colaukraine.com",
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "іп \"кока-кола беверіджиз україна лімітед\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/0a355eae7f004674b5eb03b00b211322/1751433929-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/bfcef3d44d544219974e445c1466dac2/1740057282-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7bece25cbaac4edaa921a6556aa99500/1740057282-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/8a96a424b8344f53be02b2e55c827920/1759216933-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1080.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04333465984964",
+      "sku": "374526",
+      "title": "Сироп Rioba зелений банан 0,7л",
+      "price": 25900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 25900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 700.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "syrup-metro",
+      "parent_category_id": "packets-cereals-metro",
+      "category_filters": [],
+      "description": "Сироп Rioba зелений банан 0,7л - це ідеальний вибір для поціновувачів насичених та екзотичних ароматів. Він надає неповторного смаку вашим напоям та десертам, перетворюючи їх на справжнє гастрономічне задоволення. Витончений сироп Rioba від бренду METRO підійде як для домашнього використання, так і для створення коктейлів у професійних закладах. Купити цей продукт можна в декілька кліків завдяки зручному сервісу замовлення онлайн.\nЗамовляйте сироп Rioba зелений банан 0,7л на zakaz.ua та насолоджуйтесь швидкою доставкою. Надійний сервіс Zakaz.ua забезпечить вам швидку доставку до вашого дому, дозволяючи зекономити час та насолодитися продуктом вже через декілька годин. Це зручний та простий спосіб ознайомитися з чимось новим і вражаючим, не виходячи з дому!",
+      "nutrition_facts": {
+        "ingredient_energy": "337.00ккал",
+        "ingredient_protein": "0.50г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "83.30г"
+      },
+      "slug": "sirop-rioba-700ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/sirop-rioba-700ml--04333465984964/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Цукор, вода, регулятор кислотності лимонна кислота, концентрат соку банана 10%, емульгатор, гліцеринові ефіри деревної смоли, гуміарабік, ароматизатор, барвники: колер синій патентований V.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "2 роки",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Франція",
+      "producer": {
+        "trademark": "Rioba",
+        "trademark_slug": "rioba",
+        "website": "metro.ua/public/ua_ua/svit-tovariv/tilky_v_metro",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/4e73b828e9964361aff0620bd4879682/1712131740-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1200.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226167990",
+      "sku": "225461",
+      "title": "Йогурт Ростишка Банан 2% 115г",
+      "price": 1849,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 1849,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "81.00ккал",
+        "ingredient_protein": "3.30г",
+        "ingredient_fat": "2.00г",
+        "ingredient_fats_saturated": "1.30г",
+        "ingredient_carbohydrates": "12.40г",
+        "ingredient_sugars": "10.00г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "iogurt-rastishka-115g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-rastishka-115g-ukrayina--04820226167990/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко нормалізоване, наповнювач \"Банан\" 7% (вода питна, пюре бананове 35%, пектини, цукор, ароматизатори натуральні, сік лимонний концентрований, вітамін D3), цукор, загущувач крохмаль, молоко сухе знежирене, ензим харчовий лактаза, закваски бактеріальні.<br>"
+      ],
+      "fat": "2%",
+      "shelf_life": null,
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Ростишка",
+        "trademark_slug": "rostishka",
+        "website": "danone.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.3e5ad8014df72c80a2c52b71e2c56835.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.3e5ad8014df72c80a2c52b71e2c56835.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.3e5ad8014df72c80a2c52b71e2c56835.64x64.png"
+        },
+        "name": "Danone"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e56181f5b62a47b785a6a53ef5e4ed7b/1772443889-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 115.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04850001110132",
+      "sku": "266025",
+      "title": "Нектар SIS Банан-полуниця 1,6л",
+      "price": 24910,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 24910,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1600.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "nectar-metro",
+      "parent_category_id": "drinks-metro",
+      "category_filters": [],
+      "description": "Ми виробляємо сік СІС з банана і полуниці c застосуванням передової технології, завдяки якій він зберіг в собі всі корисні властивості цих смачних плодів - калій, магній, кальцій, натрій, фосфор, марганець, цинк, селен, залізо, фтор, а також вітаміни C , B, Е, РР і К. \nНасичений смак соку СІС з банана і полуниці зробить його улюбленим для веселої компанії!",
+      "nutrition_facts": {
+        "ingredient_energy": "48.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "12.00г"
+      },
+      "slug": "nektar-sis-1600ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/nektar-sis-1600ml--04850001110132/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре полуниці (27%), пюре банана (24%), цукор, вода.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "24 місяці",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Вірменія",
+      "producer": {
+        "trademark": "SIS",
+        "trademark_slug": "sis",
+        "website": "https://sisnatural.am/ru/",
+        "logo": {
+          "s32x32": null,
+          "s16x16": null,
+          "s64x64": null
+        },
+        "name": "Sis natural CJSC"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9de2481e31c34a2a8a28f3d7fa0f63ff/1767697979-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1720.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823065713342",
+      "sku": "366747",
+      "title": "Йогурт Фанні полуниця-банан 1% 400г",
+      "price": 3290,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3290,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "yogurt-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Йогурт питний з наповнювачем Полуниця-Банан 1% жирності.",
+      "nutrition_facts": {
+        "ingredient_energy": "69.40ккал",
+        "ingredient_protein": "1.70г",
+        "ingredient_fat": "1.00г",
+        "ingredient_fats_saturated": "0.65г",
+        "ingredient_carbohydrates": "13.40г",
+        "ingredient_sugars": "11.80г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "iogurt-fanni-400g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-fanni-400g--04823065713342/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко нормалізоване, цукор, наповнювач фруктовий пастеризований \"Полуниця-банан\" (3%) (цукор, сік полуничний відновлений (11,16%), полуниця (7,84%), банан (6%), вода, пюре яблучне, модифікований крохмаль кукурудзяний, ароматизатор полуниці, стабілізатор камедь ріжкового дерева/гуарова камедь, ароматизатор \"Ваніль-вершки\", натуральні барвники карміни, ароматизатор банана, регулятори кислотності: лимонна кислота, цитрат натрію, натуральні барвники β-каротин/екстракт паприки), модифікований крохмаль кукурудзяний, закваска бактеріальна.<br><br>"
+      ],
+      "fat": "1%",
+      "shelf_life": "1 місяць",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Фанні",
+        "trademark_slug": "fanni",
+        "website": "lactalis.com.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.a32a0d55fba4ee9edafa6d47a3ff6c8c.64x64.png"
+        },
+        "name": "дп \"лакталіс-україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/09be7e01de384b5eab02b2aee883e485/1751956579-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 400.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "07613036345880",
+      "sku": "405713",
+      "title": "Пюре Gerber Яблуко чорниця банан 90г",
+      "price": 4980,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4980,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "Ідеальною їжею для немовляти є молоко матері. Продовжуйте грудне вигодовування якомога довше після введення прикорму. Перед введенням  прикорму проконсультуйтеся з педіатром.\nФруктове пюре Gerber  «ЯБЛУКО, ЧОРНИЦЯ, БАНАН» у зручній м’якій упаковці – це 100% натуральних фруктів та овочів + вітамін С! М'яку упаковку \"пауч\" легко брати на прогулянку, в подорож чи в гості. До того ж, вона сприяє розвитку навичок самостійності у малюка.   Фруктове пюре «ЯБЛУКО, ЧОРНИЦЯ, БАНАН» - це корисний перекус для прогулянок та подорожей. Пюре приготовано з натуральних фруктів, багатих корисними речовинами. Без додавання крохмалю та цукру.",
+      "nutrition_facts": {
+        "ingredient_energy": "192.00ккал",
+        "ingredient_protein": "0.20г",
+        "ingredient_fat": "0.10г",
+        "ingredient_carbohydrates": "11.40г"
+      },
+      "slug": "piure-gerber-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-gerber-90g--07613036345880/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 86%, пюре з чорниці 9%, пюре з банан 5%, вітамін С.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/d26873c8aae44212886edea9c4f7f5f3/1724835133-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/7db1c0f9b563442190ba8a24a71a9b94/1724835133-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 105.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226168676",
+      "sku": "235662",
+      "title": "Йогурт Milupa Полуниця-Банан 2,1% 207г",
+      "price": 2490,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2490,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "69.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.10г",
+        "ingredient_fats_saturated": "1.30г",
+        "ingredient_carbohydrates": "9.40г",
+        "ingredient_sugars": "9.40г",
+        "ingredient_salt": "0.12г"
+      },
+      "slug": "iogurt-milupa-207g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-milupa-207g--04820226168676/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче, наповнювач \"Полуниця-Банан\" 6% (цукор, вода питна, пюре полуничне 15%, пюре бананове 15%, крохмаль, ароматизатори натуральні: \"Полуниця\", \"Банан\", сік червоного буряка концентрований, сік лимонний концентрований), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "2.1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Milupa",
+        "trademark_slug": "milupa",
+        "website": "https://www.nutricia.com/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.64x64.png"
+        },
+        "name": "Nutricia"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/b8d5aaf33a53462384046c8aa38fe40c/1752242147-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/f8b59cbca606452a8cab5ec2d1042897/1752242147-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.150x150.jpeg",
+          "s200x200": "https://img2.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.200x200.jpeg",
+          "s350x350": "https://img3.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.350x350.jpeg",
+          "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.7da1c9cf0c5f784b17e4aa78e4935595.1350x1350.jpeg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/900b05f7e6d644b49a63ed0e4dfe107b/1747047087-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820293250809",
+      "sku": "264503",
+      "title": "Сирок Milupa Полуниця-банан 3,1% 90г",
+      "price": 2413,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2413,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "92.00ккал",
+        "ingredient_protein": "7.10г",
+        "ingredient_fat": "3.10г",
+        "ingredient_fats_saturated": "2.00г",
+        "ingredient_carbohydrates": "9.00г",
+        "ingredient_sugars": "7.50г",
+        "ingredient_salt": "0.13г"
+      },
+      "slug": "sir-kislomolochnii-milupa-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/sir-kislomolochnii-milupa-90g--04820293250809/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Сирок з біфідобактеріями для дитячого харчування, наповнювач \"Полуниця-банан\" 25% (вода питна, сік яблучний концентрований, пюре бананове 15%, пюре полуничне концентроване 14%, загущувач крохмаль, натуральні ароматизатори: \"Полуниця\", \"Банан\").<br>"
+      ],
+      "fat": "3.1%",
+      "shelf_life": null,
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Milupa",
+        "trademark_slug": "milupa",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.64x64.png"
+        },
+        "name": "прат \"данон кремез\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/6fce4428071345d5876e968fe2daea71/1777556449-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 90.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04025500269166",
+      "sku": "221619",
+      "title": "Шейк молочний Muller Банан 3,5% 400г",
+      "price": 5720,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 31,
+        "old_price": 8268,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "milkshake-and-cocoa-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "84.00ккал",
+        "ingredient_protein": "3.20г",
+        "ingredient_fat": "3.30г",
+        "ingredient_fats_saturated": "2.20г",
+        "ingredient_carbohydrates": "10.10г",
+        "ingredient_sugars": "9.80г",
+        "ingredient_salt": "0.14г"
+      },
+      "slug": "napii-miuler-400g-nimechchina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/napii-miuler-400g-nimechchina--04025500269166/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко незбиране, маслянка, цукор, модифікований крохмаль, бананове пюре 0,2%, концентрат бананового пюре 0,03%, загущувач: камідь ксантанова; стабілізатор: карагенан; вершки, ароматизатор (містить молоко), тіамін, рибофлавін, вітамін B6, вітамін B12.<br>"
+      ],
+      "fat": "3.5%",
+      "shelf_life": "35 діб",
+      "temperature_range": "1...8",
+      "pack_amount": null,
+      "country": "Німеччина",
+      "producer": {
+        "trademark": "Muller",
+        "trademark_slug": "muller",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "Molkerei Alois Muller GmbH & Co. KG"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/df159a016c024496a46819cfc78e3abd/1784010375-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 400.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219343028",
+      "sku": "210223",
+      "title": "Пюре Snail Bob Яблуко-банан 90г",
+      "price": 3540,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3540,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "Пюре дитяче Bob Snail Яблуко-Банан створене для першого\n знайомства малюка з дивовижним фруктовим світом. \nОсобливості:\n- натуральне, пастеризоване, густе пюре;\n- це якісне дитяче харчування пюре, адже у складі — тільки\n відбірні українські фрукти та вітамін C;\n- не містить доданого цукру, консервантів, барвників та\n ароматизаторів;\n- зручна та безпечна пауч-упаковка із закруткою;\n- можна використовувати в кулінарії як соус до млинців та\n сирників, інгредієнт для випічки та смузі.",
+      "nutrition_facts": {
+        "ingredient_energy": "75.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "16.50г"
+      },
+      "slug": "piure-bob-sneil-90g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-bob-sneil-90g--04820219343028/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 70%, пюре з бананів 30%, вітамін С.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/6133e2edeb074541b609d7264a48a91d/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 105.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226168737",
+      "sku": "235660",
+      "title": "Йогурт Milupa Банан-Абрикос 2,1% 207г",
+      "price": 2490,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2490,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "74.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.10г",
+        "ingredient_carbohydrates": "10.90г"
+      },
+      "slug": "milupa-207g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/milupa-207g--04820226168737/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче, наповнювач \"Банан-Абрикос\" 6% (цукор, пюре бананове 17%, сироп цукровий (цукор, вода питна), крохмаль, пюре абрикосове концентроване 5%, вода питна, сік морквяний концентрований, ароматизатори натуральні: \"Банан\", \"Абрикос\", сік лимонний концентрований), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "2.1%",
+      "shelf_life": "30 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Milupa",
+        "trademark_slug": "milupa",
+        "website": "https://www.nutricia.com/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.c5a4920bcc2d52cb6637b2f49a510a5e.64x64.png"
+        },
+        "name": "Nutricia"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b9875758320349cc904918f0ab501d3c/1747047087-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.150x150.jpeg",
+          "s200x200": "https://img3.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.200x200.jpeg",
+          "s350x350": "https://img2.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.350x350.jpeg",
+          "s1350x1350": "https://img3.zakaz.ua/upload.version_1.0.1df39c824300ca81487b3674e83ecac9.1350x1350.jpeg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/8e90ff2c85b14855ba9c62ea979d4469/1747047087-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "08445290223319",
+      "sku": "221285",
+      "title": "Пюре Gerber яблуко-банан-морква 150г",
+      "price": 5400,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 21,
+        "old_price": 6800,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "0.40г",
+        "ingredient_fat": "0.10г",
+        "ingredient_carbohydrates": "13.50г"
+      },
+      "slug": "piure-gerber-150g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-gerber-150g--08445290223319/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 80%, пюре з бананів 14%, пюре з моркви 6%, концентрат лимонного соку.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "6...30",
+      "pack_amount": null,
+      "country": "Польща",
+      "producer": {
+        "trademark": "Gerber",
+        "trademark_slug": "gerber",
+        "website": "gerber.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.32x32.jpg",
+          "s16x16": "https://img2.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.16x16.jpg",
+          "s64x64": "https://img3.zakaz.ua/upload.5e5c2f075729aad7196f08634ea1c4fd.64x64.jpg"
+        },
+        "name": null
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/730ee76a6dde4654a94c1f8831e4ddb0/1781062314-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 150.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226169772",
+      "sku": "249416",
+      "title": "Йогурт Ростишка Малина-банан 1,5% 207г",
+      "price": 2970,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2970,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "64.00ккал",
+        "ingredient_protein": "2.60г",
+        "ingredient_fat": "1.50г",
+        "ingredient_carbohydrates": "10.10г"
+      },
+      "slug": "iogurt-rostishka-207g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-rostishka-207g-ukrayina--04820226169772/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко нормалізоване, наповнювач \"Малина- банан\" 6% (вода питна, цукор, пюре: малинове 10%, бананове 5%, загущувач крохмаль, цитрат кальцію, соки концентровані: чорної моркви, морквяний, лимонний, ароматизатори натуральні: \"Банан\", \"Малина\", \"Ваніль\", вітамін D3), цукор, закваски бактеріальні.<br>"
+      ],
+      "fat": "1.5%",
+      "shelf_life": "35 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Danone",
+        "trademark_slug": "rostishka",
+        "website": null,
+        "logo": {
+          "s32x32": null,
+          "s16x16": null,
+          "s64x64": null
+        },
+        "name": "прат \"данон кремез\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e2696c761e334dcfae7f79b8a445143b/1772443889-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/3ff0fe02e11b4c9393d7eda21a92ca55/1761717683-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 207.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820202533788",
+      "sku": "260678",
+      "title": "Йогурт Злагода банан-полуниця 2,8% 170г",
+      "price": 2560,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2560,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "dairy-foods-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "80.40ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.80г",
+        "ingredient_carbohydrates": "11.00г"
+      },
+      "slug": "iogurt-zlagoda-170g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/iogurt-zlagoda-170g--04820202533788/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко знежирене, наповнювач фруктовий \"Банан-полуниця\" - 15% (цукор, пюре полуничне - 20%, вода, пюре бананове - 12%, загущувачі пектини, ароматизатори натуральні (“Полуниця\", \"Банан\"), фарбуюча речовина - сік чорної моркви концентрований, сік лимонний концентрований, регулятор кислотності цитрат кальцію), заквасочна культура для йогурту.<br>"
+      ],
+      "fat": "2.8%",
+      "shelf_life": "21 доба",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Злагода",
+        "trademark_slug": "zlagoda",
+        "website": "zlagoda.dp.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.64x64.png"
+        },
+        "name": "прат \"комбінат \"придніпровський\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/067ac52b2b4c44b0bde443f67ab0f364/1722254442-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 170.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "00809939073648",
+      "sku": "265519",
+      "title": "Напій газований Lotte Milkis банан 250мл",
+      "price": 5512,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5512,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 250.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "soft-drinks-metro",
+      "parent_category_id": "drinks-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "52.00ккал",
+        "ingredient_protein": "0.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "12.40г"
+      },
+      "slug": "250ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/250ml--00809939073648/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода, цукор, сухе знежирене молоко 0,8%, регулятор кислотності лимонна і фосфорна кислота, порошок гори жовтий, вітамін А, С, D3, ароматизатори йогурт, банан.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "24 місяці",
+      "temperature_range": "0...20",
+      "pack_amount": null,
+      "country": "Корея",
+      "producer": {
+        "trademark": "Lotte",
+        "trademark_slug": "lotte",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.3e116afcc802b5132a72f7db187133a2.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.3e116afcc802b5132a72f7db187133a2.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.3e116afcc802b5132a72f7db187133a2.64x64.png"
+        },
+        "name": "Lotte Guandao Food Co Ltd"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/e31f87ba4fe1411eb90383007af22220/1769173770-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 250.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820266361105",
+      "sku": "260833",
+      "title": "Пюре Elfik Magic яблуко-банан 100г",
+      "price": 2770,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 2770,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "Пюре ТМ ELFIK MAGIC Pouch Яблуко-банан - смачний та корисний фруктовий перекус у зручній упаковці, яка зберігає вітаміни та корисні властивості стиглих фруктів.\nЧому варто купити:\n-ідеально підійде для першого прикорму\n-містить необхідні поживні компоненти та харчові волокна\n-насичує зростаючий організм вітамінами та корисними речовинами\n-сприяє зміцненню імунітету\n-виготовлено тільки із натуральних фруктів\n-без консервантів, барвників, цукру та ГМО\n-зручна м'яка упаковка.",
+      "nutrition_facts": {
+        "ingredient_energy": "63.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.40г",
+        "ingredient_carbohydrates": "12.20г"
+      },
+      "slug": "piure-elfik-medzhik-100g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-elfik-medzhik-100g-ukrayina--04820266361105/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "78,4% пюре яблучне, 21,6% пюре бананове.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Elfik Magic",
+        "trademark_slug": "elfik-magic",
+        "website": null,
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "тов \"тд \"фреш маркет\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/0da572893bf146599ec9cb1a9690a9b5/1780312076-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 100.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219346364",
+      "sku": "225219",
+      "title": "Смузі Bob Snail банан-малина 120г",
+      "price": 4230,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4230,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "79.00ккал",
+        "ingredient_protein": "1.20г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "17.00г"
+      },
+      "slug": "smuzi-bob-sneil-120ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/smuzi-bob-sneil-120ml-ukrayina--04820219346364/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з банану 80%, пюре з малини 20%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/f861f11b23744b779734fc2f635b00fc/1689572639-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 120.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820264290384",
+      "sku": "247074",
+      "title": "Напій соковий Джусік банан-полуниця 200мл",
+      "price": 1950,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 1950,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 200.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "juice-drinks-metro",
+      "parent_category_id": "drinks-metro",
+      "category_filters": [],
+      "description": "Соковитий ягідний мікс банана, полуниці та червоних ягід. \"Банан-Полуниця\" – це солодкий кайф для всіх, хто живе на повну! Збираєшся на тусу або просто в активному режимі? Цей мікс ягід і банана – твій топовий вибір! Пий \"Джусік\", бо цей смак реально краш для яскравих моментів твого дня.",
+      "nutrition_facts": {
+        "ingredient_energy": "31.00ккал",
+        "ingredient_protein": "0.03г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "7.70г",
+        "ingredient_sugars": "7.10г",
+        "ingredient_salt": "0.01г"
+      },
+      "slug": "napii-sokovmisnii-dzhusik-200ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/napii-sokovmisnii-dzhusik-200ml-ukrayina--04820264290384/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Вода питна артезіанська, пюре бананове (7%), глюкозно-фрутовий сироп, цукор, пюре полуничне (3%), регулятор кислотності - лимонна кислота, натуральний ароматизатор, екстракт червоних ягід.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Джусік",
+        "trademark_slug": "dzhusik",
+        "website": "vitmark.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.b5cff1369bd53bb63824ad49ea08fd9c.64x64.png"
+        },
+        "name": "тов сп \"вітмарк-україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/a4ef47cd74c447e2b90f0da816a32a34/1778655797-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 220.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219343974",
+      "sku": "210238",
+      "title": "Пюре Bob Snail банан-полуниця 250г",
+      "price": 9650,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 9650,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "Пастеризоване фруктове шеф-пюре Bob Snail Банан-Полуниця\n підкорює насиченим смаком та густою текстурою. На виробництво 1 кг пюре йде аж\n 3 кг свіжих фруктів! Воно сподобається і професійним кондитерам, і домашнім\n кулінарам, які люблять готувати солодощі без цукру.\nОсобливості:\n- не містить доданого цукру, консервантів та барвників;\n- зручна пауч-упаковка із закруткою;\n- незамінний інгредієнт, щоб готувати дієтичні десерти,\n желе, корисні коктейлі та випічку.",
+      "nutrition_facts": {
+        "ingredient_energy": "73.00ккал",
+        "ingredient_protein": "1.00г",
+        "ingredient_fat": "0.30г",
+        "ingredient_carbohydrates": "16.00г"
+      },
+      "slug": "piure-bob-sneil-250g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-bob-sneil-250g--04820219343974/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Банан 70%, полуниця 30%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/7385e0b4681442e688d1b771a94d0928/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 250.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04018852029175",
+      "sku": "240935",
+      "title": "Батончик фруктовий Bebivita яблуко-банан 25г",
+      "price": 3480,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 3480,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cookies-and-rusks-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "341.00ккал",
+        "ingredient_protein": "3.90г",
+        "ingredient_fat": "4.80г",
+        "ingredient_carbohydrates": "68.00г"
+      },
+      "slug": "batonchik-bebivita",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/batonchik-bebivita--04018852029175/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Бананові пластівці 38%, концентрат яблучного соку з солодких сортів яблук 25%, цільнозернове пшеничне борошно, концентрат виноградного соку, кукурудзяні хрусткі пластівці, соняшникова олія, вафлі (пшеничне борошно, картопляний крохмаль), сульфат заліза. Може містити сліди молока, сої, арахісу та горіхів. Містить глютен, без додавання цукру, без барвників та консервантів, без ароматизаторів.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "14 місяців",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Німеччина",
+      "producer": {
+        "trademark": "Bebivita",
+        "trademark_slug": "bebivita",
+        "website": "bebivita.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.f8a35d0d19501bb2393b5e50c69cf32a.64x64.png"
+        },
+        "name": "viba sweets gmbh"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/e5b30cc607634420851343f288a420a5/1762253409-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/a3c4428068ca48418789585d34b281a0/1726215664-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 25.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219345176",
+      "sku": "221338",
+      "title": "Пюре Bob Snail Яблуко-банан 250г",
+      "price": 7800,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7800,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "Пастеризоване фруктове шеф-пюре Bob Snail Яблуко-Банан\n підкорює насиченим смаком та густою текстурою. На виробництво 1 кг пюре йде аж\n 3 кг свіжих фруктів! Воно сподобається і професійним кондитерам, і домашнім\n кулінарам, які люблять готувати солодощі без цукру.\nОсобливості:\n- не містить доданого цукру, консервантів та барвників;\n- зручна пауч-упаковка із закруткою;\n- незамінний інгредієнт, щоб готувати дієтичні десерти,\n желе, корисні коктейлі та випічку.",
+      "nutrition_facts": {
+        "ingredient_energy": "76.00ккал",
+        "ingredient_protein": "0.60г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "16.50г"
+      },
+      "slug": "piure-bob-sneil-250g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/piure-bob-sneil-250g--04820219345176/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з яблук 70%, пюре з бананів 30%, вітамін С.<br><br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "2...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/ca25ce2beaef4504adf8080f6f74758b/1753456333-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 250.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820219346371",
+      "sku": "225220",
+      "title": "Смузі Bob Snail банан-чорна смородина 120г",
+      "price": 4230,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4230,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 120.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "puree-for-babies-metro",
+      "parent_category_id": "babies-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "83.00ккал",
+        "ingredient_protein": "1.20г",
+        "ingredient_fat": "0.20г",
+        "ingredient_carbohydrates": "18.00г"
+      },
+      "slug": "smuzi-bob-sneil-120ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/smuzi-bob-sneil-120ml-ukrayina--04820219346371/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Пюре з банану 83%, пюре з чорної смородини 17%.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "365 діб",
+      "temperature_range": "5...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Bob Snail",
+        "trademark_slug": "bob-snail",
+        "website": "www.bob-snail.com",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.dccfbc24606513594d874631b0389818.64x64.png"
+        },
+        "name": "тов \"еко-снек\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/96b89d8e9855478fa2bd2e364e1d7cb5/1689572639-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 120.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823086107137",
+      "sku": "220076",
+      "title": "Морозиво Три Ведмеді Monaco Luxury банан 2,5кг",
+      "price": 87372,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 87372,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "icecream-metro",
+      "parent_category_id": "frozen-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "190.84ккал",
+        "ingredient_protein": "3.50г",
+        "ingredient_fat": "10.00г",
+        "ingredient_carbohydrates": "21.50г"
+      },
+      "slug": "morozivo-tri-vedmedi-2500g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/morozivo-tri-vedmedi-2500g-ukrayina--04823086107137/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Морозиво, 10,0 % жиру: молоко знежирене відновлене, цукор, замінник молочного жиру (жири та олії рослинні рафіновані дезодоровані: олія пальмова та її фракції у частково гідрогенізованому та натуральному вигляді, олія соняшникова), патока крохмальна, молоко знежирене сухе, вода питна, основа «Банан» – 1,8 % (пюре бананове – 84,0 %, вода питна, регулятор кислотності лимонна кислота, ароматизатор, барвник бета-каротин), загущувач гліцерин, емульгатор-стабілізатор (моно- та дигліцериди жирних кислот, камідь рожкового дерева, гуарова камідь), регулятор кислотності лимонна кислота, барвник бета-каротин. Може містити сліди глютену, яєць, сої, арахісу, горіхів, кунжуту.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "12 місяців",
+      "temperature_range": "-18...-18",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Три Ведмеді",
+        "trademark_slug": "tri-vedmedi",
+        "website": "3bears.com.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.659ae75b9e45f225e6ddc1454ddd8e1a.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.659ae75b9e45f225e6ddc1454ddd8e1a.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.659ae75b9e45f225e6ddc1454ddd8e1a.64x64.png"
+        },
+        "name": "тов \"три ведмеді\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/c4606fb164fe499fbb43d26fce20a9b1/1698740774-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 2500.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    }
+  ],
+  "categories": [],
+  "filters": [
+    {
+      "key": "own_brands",
+      "name": "Власні торгові марки",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Власні торгові марки",
+          "value": "1",
+          "count": 6
+        }
+      ]
+    },
+    {
+      "key": "promotion",
+      "name": "Акційні товари",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Акційні товари",
+          "value": "1",
+          "count": 12
+        }
+      ]
+    },
+    {
+      "key": "available",
+      "name": "Тільки в наявності",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Тільки в наявності",
+          "value": "1",
+          "count": 93
+        }
+      ]
+    },
+    {
+      "key": "category_id",
+      "name": "Категорії",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Алкоголь",
+          "value": "eighteen-plus-metro",
+          "count": 1
+        },
+        {
+          "name": "Бакалія",
+          "value": "packets-cereals-metro",
+          "count": 10
+        },
+        {
+          "name": "Гігієна та догляд",
+          "value": "personal-hygiene-metro",
+          "count": 2
+        },
+        {
+          "name": "Заморозка",
+          "value": "frozen-metro",
+          "count": 2
+        },
+        {
+          "name": "Здорове харчування та спосіб життя ",
+          "value": "health-and-lifestyle-metro",
+          "count": 52
+        },
+        {
+          "name": "Знижко-Звичка",
+          "value": "special-offerings-metro",
+          "count": 9
+        },
+        {
+          "name": "Каталог Вигідних пропозицій",
+          "value": "special-offers-metro",
+          "count": 3
+        },
+        {
+          "name": "Консерви",
+          "value": "canned-food-oil-vinegar-metro",
+          "count": 1
+        },
+        {
+          "name": "Напої",
+          "value": "drinks-metro",
+          "count": 9
+        },
+        {
+          "name": "Солодощі",
+          "value": "snacks-and-sweets-metro",
+          "count": 6
+        },
+        {
+          "name": "Соуси та спеції",
+          "value": "sauces-and-spices-metro",
+          "count": 2
+        },
+        {
+          "name": "Товари для дітей",
+          "value": "babies-metro",
+          "count": 54
+        },
+        {
+          "name": "Фрукти та овочі",
+          "value": "fruits-and-vegetables-metro",
+          "count": 17
+        },
+        {
+          "name": "Яйця та молочні продукти",
+          "value": "dairy-and-eggs-metro",
+          "count": 22
+        }
+      ]
+    },
+    {
+      "key": "price",
+      "name": "Ціна",
+      "type": "range",
+      "is_standart": true,
+      "min": 1849.0,
+      "max": 87372.0
+    },
+    {
+      "key": "tm",
+      "name": "Торгова марка",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Actimel",
+          "value": "actimel",
+          "count": 1
+        },
+        {
+          "name": "Alpro",
+          "value": "alpro",
+          "count": 2
+        },
+        {
+          "name": "AXA",
+          "value": "axa",
+          "count": 3
+        },
+        {
+          "name": "Bebivita",
+          "value": "bebivita",
+          "count": 1
+        },
+        {
+          "name": "Bee Granola",
+          "value": "bee-granola",
+          "count": 1
+        },
+        {
+          "name": "Bob Snail",
+          "value": "bob-snail",
+          "count": 8
+        },
+        {
+          "name": "Cappy ",
+          "value": "cappy",
+          "count": 2
+        },
+        {
+          "name": "Danone",
+          "value": "danone",
+          "count": 2
+        },
+        {
+          "name": "De Kuyper",
+          "value": "de-kuyper",
+          "count": 1
+        },
+        {
+          "name": "Doctor Benner",
+          "value": "doctor-benner",
+          "count": 1
+        },
+        {
+          "name": "Elephants;Twin Elephants & Earth",
+          "value": "elephants-twin-elephants-earth",
+          "count": 1
+        },
+        {
+          "name": "Elfik Magic",
+          "value": "elfik-magic",
+          "count": 2
+        },
+        {
+          "name": "Fine Life",
+          "value": "fine-life",
+          "count": 2
+        },
+        {
+          "name": "Flora Organic",
+          "value": "flora-organic",
+          "count": 1
+        },
+        {
+          "name": "Galicia",
+          "value": "galicia",
+          "count": 3
+        },
+        {
+          "name": "Garnier",
+          "value": "garnier",
+          "count": 2
+        },
+        {
+          "name": "Gerber",
+          "value": "gerber",
+          "count": 10
+        },
+        {
+          "name": "HiPP",
+          "value": "hipp",
+          "count": 5
+        },
+        {
+          "name": "Jaffa",
+          "value": "jaffa",
+          "count": 2
+        },
+        {
+          "name": "Lotte",
+          "value": "lotte",
+          "count": 1
+        },
+        {
+          "name": "Metro Chef",
+          "value": "metro-chef",
+          "count": 5
+        },
+        {
+          "name": "Milupa",
+          "value": "milupa",
+          "count": 10
+        },
+        {
+          "name": "Muller",
+          "value": "muller",
+          "count": 2
+        },
+        {
+          "name": "Nestle",
+          "value": "nestle",
+          "count": 1
+        },
+        {
+          "name": "Panfruit",
+          "value": "panfruit",
+          "count": 1
+        },
+        {
+          "name": "Pripravka",
+          "value": "pripravka",
+          "count": 2
+        },
+        {
+          "name": "Rioba",
+          "value": "rioba",
+          "count": 1
+        },
+        {
+          "name": "Sandora",
+          "value": "sandora",
+          "count": 1
+        },
+        {
+          "name": "SIS",
+          "value": "sis",
+          "count": 1
+        },
+        {
+          "name": "Start!",
+          "value": "start",
+          "count": 2
+        },
+        {
+          "name": "Vega Milk",
+          "value": "vega-milk",
+          "count": 1
+        },
+        {
+          "name": "Агуня",
+          "value": "agunia",
+          "count": 2
+        },
+        {
+          "name": "Активіа",
+          "value": "aktivia",
+          "count": 3
+        },
+        {
+          "name": "Барні",
+          "value": "barni",
+          "count": 2
+        },
+        {
+          "name": "Без тм",
+          "value": "without-brand",
+          "count": 14
+        },
+        {
+          "name": "Волошкове Поле",
+          "value": "voloshkove-pole",
+          "count": 1
+        },
+        {
+          "name": "Джусік",
+          "value": "dzhusik",
+          "count": 1
+        },
+        {
+          "name": "Дольче",
+          "value": "dolche",
+          "count": 1
+        },
+        {
+          "name": "Злагода",
+          "value": "zlagoda",
+          "count": 2
+        },
+        {
+          "name": "Ласунка",
+          "value": "lasunka",
+          "count": 1
+        },
+        {
+          "name": "Мамако",
+          "value": "mamako",
+          "count": 1
+        },
+        {
+          "name": "Ростишка",
+          "value": "rostishka",
+          "count": 2
+        },
+        {
+          "name": "Садочок",
+          "value": "sadochok",
+          "count": 1
+        },
+        {
+          "name": "Топпинг",
+          "value": "topping",
+          "count": 1
+        },
+        {
+          "name": "Три Ведмеді",
+          "value": "tri-vedmedi",
+          "count": 1
+        },
+        {
+          "name": "Фанні",
+          "value": "fanni",
+          "count": 1
+        },
+        {
+          "name": "Чудо-Чадо",
+          "value": "chudo-chado",
+          "count": 7
+        },
+        {
+          "name": "Яготинське",
+          "value": "iagotinske",
+          "count": 1
+        },
+        {
+          "name": "Яготинське для дітей",
+          "value": "iagotinske-dlia-ditei",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "country",
+      "name": "Країна-виробник",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Австрія",
+          "value": "austria",
+          "count": 3
+        },
+        {
+          "name": "Бельгія",
+          "value": "belgium",
+          "count": 3
+        },
+        {
+          "name": "Вірменія",
+          "value": "armenia",
+          "count": 1
+        },
+        {
+          "name": "Греція",
+          "value": "greece",
+          "count": 2
+        },
+        {
+          "name": "Еквадор",
+          "value": "ecuador",
+          "count": 1
+        },
+        {
+          "name": "Колумбія",
+          "value": "columbia",
+          "count": 1
+        },
+        {
+          "name": "Корея",
+          "value": "korea",
+          "count": 1
+        },
+        {
+          "name": "Коста-Ріка",
+          "value": "costa-rica",
+          "count": 4
+        },
+        {
+          "name": "Нідерланди",
+          "value": "netherlands",
+          "count": 1
+        },
+        {
+          "name": "Німеччина",
+          "value": "germany",
+          "count": 8
+        },
+        {
+          "name": "Польща",
+          "value": "poland",
+          "count": 12
+        },
+        {
+          "name": "Португалія",
+          "value": "portugal",
+          "count": 5
+        },
+        {
+          "name": "Сербія",
+          "value": "serbia",
+          "count": 1
+        },
+        {
+          "name": "Тайланд",
+          "value": "thailand",
+          "count": 1
+        },
+        {
+          "name": "Туреччина",
+          "value": "turkey",
+          "count": 1
+        },
+        {
+          "name": "Україна",
+          "value": "ukraine",
+          "count": 67
+        },
+        {
+          "name": "Франція",
+          "value": "france",
+          "count": 1
+        },
+        {
+          "name": "Чилі",
+          "value": "chili",
+          "count": 2
+        },
+        {
+          "name": "Індія",
+          "value": "india",
+          "count": 1
+        },
+        {
+          "name": "Іспанія",
+          "value": "spain",
+          "count": 1
+        },
+        {
+          "name": "Італія",
+          "value": "italy",
+          "count": 2
+        }
+      ]
+    }
+  ],
+  "category_results": [
+    "bananas-pineapples-kiwi-pomegranate-metro"
+  ],
+  "is_fuzzy": false,
+  "stats": null
+}

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /*sort=*
+Disallow: /*wishlist*
+Disallow: /*per-page=*
+Disallow: /*search*
+Disallow: /cabinet*
+Disallow: /ru/cabinet*
+Disallow: /login*
+Disallow: /ru/login*
+Disallow: /shop/cart*
+Disallow: /ru/shop/cart*
+Disallow: /sch*
+Disallow: *trademark*
+Disallow: *novetly*
+Disallow: /oidcauth*
+Disallow: /ru/oidcauth*
+Disallow: /auth*
+Disallow: /all-goods*
+Disallow: /feed*
+Disallow: /feedback/*
+Allow: /catalog/*
+Allow: /product/*
+Allow: /ru/catalog/*
+Allow: /ru/product/*
+
+Sitemap: https://www.atbmarket.com/sitemap.xml
+

@@ -1,0 +1,3742 @@
+{
+  "count": 224,
+  "count_available": 191,
+  "results": [
+    {
+      "ean": "04820086633727",
+      "sku": "210931",
+      "title": "Молоко Rioba ультрапастеризоване 2,5% 950г",
+      "price": 5600,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5600,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Rioba ультрапастеризоване 2,5% 950г — це коров’ячий продукт із помірною жирністю, що пройшов спеціальну термічну обробку для збереження якості протягом тривалого періоду. Його виготовлено виробником METRO Cash&Carry із дотриманням стандартів харчової безпеки. Підходить для щоденного використання, зокрема в гарячих напоях, кашах та соусах.\n \nКупити можна онлайн з доставкою від zakaz.ua прямо з магазину Metro.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-rioba-950g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-rioba-950g-ukrayina--04820086633727/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коровяче незбиране, молоко знежирене.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Rioba",
+        "trademark_slug": "rioba",
+        "website": "metro.ua/public/ua_ua/svit-tovariv/tilky_v_metro",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/37eac4ca58bd44359648d192b7802e45/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/8744506fef8a4be99612d8a819ef3fa4/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/8744506fef8a4be99612d8a819ef3fa4/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8744506fef8a4be99612d8a819ef3fa4/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/8744506fef8a4be99612d8a819ef3fa4/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/25483ae9e9cc476484bd3d1023de93a6/1712131740-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/25483ae9e9cc476484bd3d1023de93a6/1712131740-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/25483ae9e9cc476484bd3d1023de93a6/1712131740-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/25483ae9e9cc476484bd3d1023de93a6/1712131740-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 950.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820261570021",
+      "sku": "183838",
+      "title": "Молоко згущене Metro Chef незбиране з цукром 8,5% 440г",
+      "price": 7950,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7950,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "condensed-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко згущене Metro Chef незбиране з цукром 8,5% 440г — це продукт з насиченим солодким смаком, виготовлений на основі коровʼячого молока та цукру. Випускається у зручній м’якій упаковці дой-пак, що полегшує застосування та зберігання. Виробник — METRO Cash&Carry, країна походження — Україна. \nКупити можна для використання у випічці, приготуванні десертів або напоїв. Доставка від zakaz.ua дозволяє отримати товар швидко і зручно без необхідності відвідувати магазин особисто.",
+      "nutrition_facts": {
+        "ingredient_energy": "338.50ккал",
+        "ingredient_protein": "7.20г",
+        "ingredient_fat": "8.50г",
+        "ingredient_carbohydrates": "58.30г"
+      },
+      "slug": "440g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/440g--04820261570021/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче незбиране, цукор (не менше 43,5%), цукор молочний (лактоза).​<br>"
+      ],
+      "fat": "8.5%",
+      "shelf_life": "9 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/2853ace5f5324d74bc5091ff4aa88cfe/1743004301-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 440.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04333465985886",
+      "sku": "406061",
+      "title": "Какао Rioba розчинне в молоці 1кг",
+      "price": 42900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 42900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "cocoa-drinks-metro",
+      "parent_category_id": "hot-drinks-metro",
+      "category_filters": [],
+      "description": "Какао Rioba розчинне в молоці 1кг — ароматний напій угорського виробництва, який легко готується та має насичений смак. Формат підходить для швидкого приготування без додаткової обробки.\n \nПродукт виготовлено для METRO Cash&Carry, придатний до споживання протягом 24 місяців. Купити зручно онлайн — доставка від zakaz.ua з магазину Metro забезпечує швидке отримання.",
+      "nutrition_facts": {
+        "ingredient_energy": "366.00ккал",
+        "ingredient_protein": "5.90г",
+        "ingredient_fat": "3.10г",
+        "ingredient_carbohydrates": "75.00г"
+      },
+      "slug": "napii-rioba-1000g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/napii-rioba-1000g--04333465985886/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Цукор, знежирений какао-порошок 25% (знежирений какао-порошок, емульгатор соєвий лецитин), декстроза, сіль, ванілін. Може містити сліди глютену, молока і лісових горіхів.<br>"
+      ],
+      "fat": null,
+      "shelf_life": "24 місяці",
+      "temperature_range": "5...20",
+      "pack_amount": null,
+      "country": "Угорщина",
+      "producer": {
+        "trademark": "Rioba",
+        "trademark_slug": "rioba",
+        "website": "metro.ua/public/ua_ua/svit-tovariv/tilky_v_metro",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/a34c4b9dcb784d8d8babdc10811e853d/1741202912-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/fffabafeece7410faa2c28de0bde2d4e/1741202912-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/fffabafeece7410faa2c28de0bde2d4e/1741202912-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/fffabafeece7410faa2c28de0bde2d4e/1741202912-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/fffabafeece7410faa2c28de0bde2d4e/1741202912-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/a8ce642ed7e94dbdbb8b884cfcd60275/1741202912-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/a8ce642ed7e94dbdbb8b884cfcd60275/1741202912-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/a8ce642ed7e94dbdbb8b884cfcd60275/1741202912-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/a8ce642ed7e94dbdbb8b884cfcd60275/1741202912-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1000.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820293121871",
+      "sku": "250252",
+      "title": "Молоко згущене Metro Chef Іриска варене нежирне 470г",
+      "price": 9100,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 9100,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "condensed-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "MC МОЛ.ЗГУЩ ІРИС Н/Ж 470Г — це невід'ємна складова для справжніх гурманів і любителів солодкого. Відомий бренд Metro Chef пропонує цей згущений ірис, що здатний збагатити ваші десерти насиченим смаком і ніжною текстурою. Ідеальний формат у 470 г дозволяє легко зберігати продукт вдома, щоб мати його під рукою для приємних моментів з близькими. Цей смаколик стане вашим надійним партнером у приготуванні як традиційних, так і авторських рецептів.\nЗамовте MC МОЛ.ЗГУЩ ІРИС Н/Ж 470Г онлайн на zakaz.ua і відчуйте переваги зручної доставки. Додайте вашій улюбленій каві чи випічці особливого шарму, скориставшись простотою замовлення та швидким отриманням товару без зайвих турбот. З Metro Chef ваші гастрономічні мрії стають реальністю — замовляйте з комфортом прямо додому і насолоджуйтеся смаком без жодних зусиль!",
+      "nutrition_facts": {
+        "ingredient_energy": "257.60ккал",
+        "ingredient_protein": "9.00г",
+        "ingredient_fat": "0.00г",
+        "ingredient_carbohydrates": "59.10г"
+      },
+      "slug": "zgushchene-moloko-metro-shef-470g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/zgushchene-moloko-metro-shef-470g-ukrayina--04820293121871/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче знежире, цукор, цукор молочний (лактоза).<br>"
+      ],
+      "fat": "0%",
+      "shelf_life": "12 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/af8fc09c1ee548408ef4df844cada22a/1751430284-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 570.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820293121918",
+      "sku": "250254",
+      "title": "Молоко згущене Metro Chef незбиране з цукром 8,5% 1000г",
+      "price": 23900,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 23900,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "condensed-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко згущене Metro Chef незбиране з цукром 8,5% 1000г - це вибір для справжніх поціновувачів якісних молочних продуктів. Ідеальне для створення ніжних десертів, випічки чи збагачення смаку вашої ранкової кави. Завдяки зручному формату та збалансованому вмісту цукру, цей продукт стане чудовим доповненням до будь-якого столу, даруючи насолоду від кожного ковтка. Насолоджуйтесь природнім смаком, який оцінять ваші близькі.\nЗамовляючи згущене молоко Metro Chef через zakaz.ua, ви отримаєте можливість швидкої доставки прямо до вашого порогу. Це рішення звільнить вас від зайвих клопотів, дозволяючи насолоджуватися улюбленими продуктами без зайвого часу на покупки. Вигідно, просто та зручно - все для вашого комфорту!",
+      "nutrition_facts": {
+        "ingredient_energy": "338.50ккал",
+        "ingredient_protein": "7.20г",
+        "ingredient_fat": "8.50г",
+        "ingredient_carbohydrates": "58.30г"
+      },
+      "slug": "zgushchene-moloko-metro-shef-1000g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/zgushchene-moloko-metro-shef-1000g-ukrayina--04820293121918/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче незбиране, цукор (13,5%), цукор молочний (лактоза).<br>"
+      ],
+      "fat": "8.5%",
+      "shelf_life": "9 місяців",
+      "temperature_range": "0...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/f8bc916c67fd40d0b97b2458c06b67ec/1755173171-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1000.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820222760249",
+      "sku": "419547",
+      "title": "Молоко Галичина ультрапастеризоване 2,5% 950г",
+      "price": 6864,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6864,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко ультрапастеризоване 2,5% ТМ «Галичина» добре доповнить будь-яку страву або напій. Завдяки особливій технології ультрапастеризації, молоко зберігає усі смакові та корисні якості тривалий час. Молоко готове до споживання без додаткової термічної обробки та підходить як для щоденного вживання, так і для приготування інших страв.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-galichina-950ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-galichina-950ml-ukrayina--04820222760249/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко коров'яче знежирене.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Галичина",
+        "trademark_slug": "galichina",
+        "website": "galychyna.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.64x64.png"
+        },
+        "name": "прат \"галичина \""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/aa004a7689c241db9af22e36614f07f1/1759332972-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/7954255a144f4b9fa0cc0391a182da08/1759332972-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/7954255a144f4b9fa0cc0391a182da08/1759332972-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/7954255a144f4b9fa0cc0391a182da08/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/7954255a144f4b9fa0cc0391a182da08/1759332972-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "running_out",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 978.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820222760225",
+      "sku": "419548",
+      "title": "Молоко Галичина ультрапастеризоване 3,2% 950г",
+      "price": 7228,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7228,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Галичина - це високоякісне питне молоко, яке не вимагає додаткової термічної обробки перед вживанням. Прекрасно поєднується з гарячими напоями і доповнює смак кави. Молоко відмінно підходить для приготування сухих готових сніданків, десертів, молочних напоїв.",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_fats_saturated": "2.10г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-galichina-950ml-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-galichina-950ml-ukrayina--04820222760225/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко коров'яче знежирене.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Галичина",
+        "trademark_slug": "galichina",
+        "website": "galychyna.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.64x64.png"
+        },
+        "name": "прат \"галичина \""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/2880d943317a461d8a5aa8a5ca0f2b82/1759332972-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/cef016cca02e4250a46c04db25b55ef2/1759332972-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/cef016cca02e4250a46c04db25b55ef2/1759332972-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/cef016cca02e4250a46c04db25b55ef2/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/cef016cca02e4250a46c04db25b55ef2/1759332972-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 986.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820138576460",
+      "sku": "346797",
+      "title": "Молоко Ферма ультрапастеризоване 3,2% 900г",
+      "price": 4670,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 35,
+        "old_price": 7228,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Високоякісне молоко, виготовлене згідно ДСТУ з фермерського молока сортів екстра та вищого, без додавання сухого молока та консервантів. Спеціальна  п’ятишарова асептична упаковка TetraFino забезпечує тривале зберігання молока ТМ «ФЕРМА», але після відкривання упаковки – молоко потрібно зберігати тільки в холодильнику і не більше 3 діб.\nМолоко з жирністю 3,2% найбільш наближено за вмістом вітамінів, мінералів і поживних речовин до домашнього коров'ячого молока, саме тому його рекомендують давати дітям.\nЗа рахунок високої жирності відрізняється своїм насиченим молочним смаком. Тому це молоко особливо сподобається тим, хто любить смак справжнього сільського молока.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-ferma-900g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-ferma-900g--04820138576460/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче нормалізоване.<br><br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "45 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Ферма",
+        "trademark_slug": "ferma",
+        "website": "https://terrafood.ua/ru/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.64x64.png"
+        },
+        "name": "тов \"фуд девелопмент\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/4c9837cddacc470bb411b81e2b3a0d43/1772461996-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 920.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226167716",
+      "sku": "224015",
+      "title": "Молоко Простонаше пастеризоване 2,5% 870г",
+      "price": 6344,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6344,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "pasteurized-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко \"ПРОСТОНАШЕ\" 2,5% виготовляється на заводі в самому серці України - місті Кременчук, Полтавської області. Саме туди фермери з різних регіонів України постачають свіже молоко, дбайливо охолоджене, аби зберегти його користь та якість. Для виробництва ми використовуємо лише 100% фермерське молоко екстра та вищого ґатунку. А щоб воно потрапляло до вас свіжим та якісним, ми використовуємо \"холодний ланцюг\" - технологію, за якої молоко на всіх без виключення етапах виробництва транспортується та зберігається за оптимальної холодної температури (не вище 6ºС).",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "3.00г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.60г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.12г"
+      },
+      "slug": "moloko-prostonashe-870g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-prostonashe-870g--04820226167716/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче нормалізоване.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "14 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "ПростоНаше",
+        "trademark_slug": "prostonashe",
+        "website": "danone.ua",
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "Danone"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9950c45d80e944029711e939ecef4b77/1772019120-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "running_out",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 870.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820226167754",
+      "sku": "224031",
+      "title": "Молоко Простонаше пряжене 2,5% 870г",
+      "price": 7020,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7020,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "baked-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Пряжене молоко «ПРОСТОНАШЕ» - виготовляється шляхом спеціального процесу пряження, який триває кілька годин і надає молоку насичений вершковий смак та ніжну кремову текстуру. Воно ідеально підходить для підсилення смаку та аромату вашої улюбленої кави або чаю. Крім того, використання пряженого молока у приготуванні каш може значно покращити їхні смакові якості та текстуру. Також рекомендуємо наше пряжене молоко для створення найсмачніших десертів, соусів, пюре та крем-супів. Як і всі продукти «ПРОСТОНАШЕ», пряжене молоко має високу якість та неповторний смак, адже воно виготовлене з українського відбірного фермерського молока: для своїх, як для себе.",
+      "nutrition_facts": {
+        "ingredient_energy": "54.00ккал",
+        "ingredient_protein": "3.20г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.60г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.12г"
+      },
+      "slug": "ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/ukrayina--04820226167754/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче нормалізоване.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "14 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "ПростоНаше",
+        "trademark_slug": "prostonashe",
+        "website": "danone.ua",
+        "logo": {
+          "s16x16": null,
+          "s32x32": null,
+          "s64x64": null
+        },
+        "name": "Danone"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s150x150.jpeg",
+        "s200x200": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s200x200.jpeg",
+        "s350x350": "https://img3.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s350x350.jpeg",
+        "s1350x1350": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s1350x1350.jpeg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s150x150.jpeg",
+          "s200x200": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s200x200.jpeg",
+          "s350x350": "https://img3.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s350x350.jpeg",
+          "s1350x1350": "https://img2.zakaz.ua/8bb16325973e4ed081574d76eb10626e/1757668177-s1350x1350.jpeg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 870.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820001471922",
+      "sku": "10827",
+      "title": "Молоко Aro ультрапастеризоване 3,2% 1000г",
+      "price": 4890,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4890,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Aro ультрапастеризоване 3,2% 1000г — це молочний продукт на основі коров’ячого молока, виготовлений виробником МЕTRO Cash&Carry. Має збалансовану жирність, легку консистенцію та добре збивається в пінку. Ідеально підходить для приготування млинців, тіста, кавових напоїв і молочних коктейлів. Завдяки ультрапастеризації зберігається до 180 діб при кімнатній температурі.\n \nКупити зручно в Metro із швидкою доставкою від zakaz.ua.",
+      "nutrition_facts": {
+        "ingredient_energy": "58.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-aro-1027g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-aro-1027g--04820001471922/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче незбиране, молоко коров`яче знежирене. <br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Aro",
+        "trademark_slug": "aro",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/05f78fb1c71c40a5aa9f3f0fc6d4610a/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/bf9152f6a06544af971d2aaba41ce960/1755507955-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/bf9152f6a06544af971d2aaba41ce960/1755507955-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/bf9152f6a06544af971d2aaba41ce960/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/bf9152f6a06544af971d2aaba41ce960/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/247c37d690ea41ab9733eb7e32ca361c/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/247c37d690ea41ab9733eb7e32ca361c/1755507955-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/247c37d690ea41ab9733eb7e32ca361c/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/247c37d690ea41ab9733eb7e32ca361c/1755507955-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1000.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820001472219",
+      "sku": "385409",
+      "title": "Молоко Aro ультрапастеризоване 1,5% 1000г",
+      "price": 4490,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4490,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Aro ультрапастеризоване 1,5% 1000г — це легкий молочний продукт на основі знежиреного і цільного молока. Завдяки м’якому смаку й ніжній текстурі чудово підходить для приготування тіста, молочних напоїв, кави, десертів і соусів. Тетра-пак упаковка зберігає якість продукту до 90 днів без охолодження, що робить його зручним у щоденному використанні.\n \nТовар виробника МЕTRO Cash&Carry відповідає високим стандартам якості. Купити зручно в Metro, доступна швидка доставка від zakaz.ua.",
+      "nutrition_facts": {
+        "ingredient_energy": "44.00ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "1.50г",
+        "ingredient_carbohydrates": "4.78г"
+      },
+      "slug": "moloko-aro-1028g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-aro-1028g--04820001472219/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче знежирене, молоко коров`яче незбиране.<br>"
+      ],
+      "fat": "1.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Aro",
+        "trademark_slug": "aro",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.e809d751380a67ed5c5d47717afb4a01.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/86e0bf03666b4bf9b2a17cca9e4c6367/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/339266db53df4886b97a7117a8c9a0a6/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/339266db53df4886b97a7117a8c9a0a6/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/339266db53df4886b97a7117a8c9a0a6/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/339266db53df4886b97a7117a8c9a0a6/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/e988defbc75445f59a8dd6b2b2083584/1755507955-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/e988defbc75445f59a8dd6b2b2083584/1755507955-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/e988defbc75445f59a8dd6b2b2083584/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/e988defbc75445f59a8dd6b2b2083584/1755507955-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1000.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820234020805",
+      "sku": "422590",
+      "title": "Молоко Ферма пастеризоване 2,5% 840г",
+      "price": 6448,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6448,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "pasteurized-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-ferma-840g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-ferma-840g-ukrayina--04820234020805/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко коров'яче знежирене.<br><br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "14 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Ферма",
+        "trademark_slug": "ferma",
+        "website": "https://terrafood.ua/ru/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.64x64.png"
+        },
+        "name": "тов \"фуд девелопмент\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/00affd83a3634d6fa87f3164844e91ac/1783693471-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 866.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820239243544",
+      "sku": "346798",
+      "title": "Молоко Ферма ультрапастеризоване 2,5% 900г",
+      "price": 6604,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6604,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-ferma-900g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-ferma-900g-ukrayina--04820239243544/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров`яче нормалізоване.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Ферма",
+        "trademark_slug": "ferma",
+        "website": "https://terrafood.ua/ru/",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.5df14aad8ed79d4ad59fcd2cdf0314b7.64x64.png"
+        },
+        "name": "тов \"фуд девелопмент\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/a2634133a69c41a196a1d100e3aab8c2/1779726859-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/dc583ee40bbc4c46b0e4007beccb8920/1754319813-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/dc583ee40bbc4c46b0e4007beccb8920/1754319813-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/dc583ee40bbc4c46b0e4007beccb8920/1754319813-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/dc583ee40bbc4c46b0e4007beccb8920/1754319813-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/5efd606c8d2c47248a16bad9ad677aad/1779265244-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/5efd606c8d2c47248a16bad9ad677aad/1779265244-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/5efd606c8d2c47248a16bad9ad677aad/1779265244-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/5efd606c8d2c47248a16bad9ad677aad/1779265244-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 900.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003480717",
+      "sku": "299172",
+      "title": "Молоко Бурьонка ультрапастеризоване 2,5% 1л",
+      "price": 5876,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5876,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко тм \"Бурьонка\" - смачне і якісне молоко на кожен день.",
+      "nutrition_facts": {
+        "ingredient_energy": "52.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.70г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-burenka-1000g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-burenka-1000g-ukrayina--04820003480717/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче нормалізоване (100%).<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Бурьонка",
+        "trademark_slug": "buronka",
+        "website": "loostdorf.com",
+        "logo": {
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.16x16.jpeg",
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.32x32.jpeg",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.64x64.jpeg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/17b3afb4b4c34f2c898a7ec644e26116/1772461996-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/f11dce10e9504bbc87815e2284c06065/1772461996-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/f11dce10e9504bbc87815e2284c06065/1772461996-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/f11dce10e9504bbc87815e2284c06065/1772461996-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/f11dce10e9504bbc87815e2284c06065/1772461996-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1031.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003481349",
+      "sku": "418200",
+      "title": "Молоко Бурьонка ультрапастеризоване 2,5% 1,5л",
+      "price": 6552,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 25,
+        "old_price": 8736,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1500.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко тм \"Бурьонка\" - смачне і якісне молоко на кожен день.",
+      "nutrition_facts": {
+        "ingredient_energy": "52.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-burenka-1500ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-burenka-1500ml--04820003481349/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче нормалізоване 100%.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Бурьонка",
+        "trademark_slug": "buronka",
+        "website": "loostdorf.com",
+        "logo": {
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.16x16.jpeg",
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.32x32.jpeg",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.64x64.jpeg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/6394f31aa76a420b99fdf52209404846/1784010375-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/6e25bd046ca6422ba5d987e2ced3dc0e/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6e25bd046ca6422ba5d987e2ced3dc0e/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/6e25bd046ca6422ba5d987e2ced3dc0e/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/6e25bd046ca6422ba5d987e2ced3dc0e/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/65c68590ce6a4f24844ae90858ac5c67/1784010375-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/65c68590ce6a4f24844ae90858ac5c67/1784010375-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/65c68590ce6a4f24844ae90858ac5c67/1784010375-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/65c68590ce6a4f24844ae90858ac5c67/1784010375-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1544.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003481332",
+      "sku": "418201",
+      "title": "Молоко Бурьонка ультрапастеризоване 3,2% 1,5кг",
+      "price": 6968,
+      "price_wholesale": [],
+      "discount": {
+        "status": true,
+        "value": 23,
+        "old_price": 9100,
+        "due_date": "2026-07-28",
+        "display_value": true
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко тм \"Бурьонка\" - смачне і якісне молоко на кожен день.",
+      "nutrition_facts": {
+        "ingredient_energy": "58.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-burenka-1500g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-burenka-1500g--04820003481332/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Бурьонка",
+        "trademark_slug": "buronka",
+        "website": "loostdorf.com",
+        "logo": {
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.16x16.jpeg",
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.32x32.jpeg",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.64x64.jpeg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/3e6d997ea8374a4599cf1dfb1f662cdd/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/121771bc2f6444d7935c09cef3879bf4/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/121771bc2f6444d7935c09cef3879bf4/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/121771bc2f6444d7935c09cef3879bf4/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/121771bc2f6444d7935c09cef3879bf4/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/c3157b913549442294cdcc6dafad6e31/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/c3157b913549442294cdcc6dafad6e31/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/c3157b913549442294cdcc6dafad6e31/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/c3157b913549442294cdcc6dafad6e31/1779203771-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1544.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003481783",
+      "sku": "300482",
+      "title": "Молоко Бурьонка ультрапастеризоване 3,2% 1л",
+      "price": 6188,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6188,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Продукція ТМ Буренка - це дуже смачне молоко та найніжніші вершки, які відмінно доповнять Ваш раціон і просто піднімуть настрій на цілий день!",
+      "nutrition_facts": {
+        "ingredient_energy": "58.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_fats_saturated": "2.20г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-burenka-1000g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-burenka-1000g--04820003481783/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коровье нормализованное (100%).<br><br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Бурьонка",
+        "trademark_slug": "buronka",
+        "website": "loostdorf.com",
+        "logo": {
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.16x16.jpeg",
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.32x32.jpeg",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.29148787e06727da6f9a0c9da98c7cea.64x64.jpeg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/599e6f38e32e46cc921c50e74764b885/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/ef6da303801942baaa473dcaeb9ab7c1/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/ef6da303801942baaa473dcaeb9ab7c1/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/ef6da303801942baaa473dcaeb9ab7c1/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/ef6da303801942baaa473dcaeb9ab7c1/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/263293428ef043a3b2b7e46e0566b78b/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/263293428ef043a3b2b7e46e0566b78b/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/263293428ef043a3b2b7e46e0566b78b/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/263293428ef043a3b2b7e46e0566b78b/1779203771-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1031.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820086633710",
+      "sku": "210934",
+      "title": "Молоко Rioba ультрапастеризоване 3,2% 950г",
+      "price": 6100,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6100,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Rioba ультрапастеризоване 3,2% 950г - це найкращий вибір для тих, хто віддає перевагу натуральності та якості. Завдяки своїй практичній упаковці, воно зручно для щоденного використання як вдома, так і в офісі. Цей продукт, створений для цінителів здорового способу життя, забезпечує ваш організм необхідними вітамінами та елементами. Його середня жирність у 3,2% робить його ідеальним для приготування усіляких страв, від кави до випічки. Замовити продукт можна вже зараз і переконатися, наскільки просто купувати улюблені продукти онлайн.\nКупити молоко Rioba ультрапастеризоване 3,2% 950г ви можете з доставкою від zakaz.ua, що робить процес купівлі простим і зручним. Сервіс zakaz.ua гарантує свіжість товару та вигідні ціни, що допоможе зекономити час і сили. Обирайте зручний для вас час та місце доставки - ми потурбуємося про комфортне та вчасне отримання вашого замовлення. Зробіть свій шопінг легшим і приємнішим разом із zakaz.ua!",
+      "nutrition_facts": {
+        "ingredient_energy": "59.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-rioba-950g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-rioba-950g--04820086633710/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коровяче незбиране, молоко знежирене.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Rioba",
+        "trademark_slug": "rioba",
+        "website": "metro.ua/public/ua_ua/svit-tovariv/tilky_v_metro",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/67da6dfb4c4c4228bae44add84ecad7f/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/ce2fdc3194db4e90b47224ba89f3a117/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/ce2fdc3194db4e90b47224ba89f3a117/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/ce2fdc3194db4e90b47224ba89f3a117/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/ce2fdc3194db4e90b47224ba89f3a117/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/cf3fbd9676f64597a9a6f5a64ba37ed9/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/cf3fbd9676f64597a9a6f5a64ba37ed9/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/cf3fbd9676f64597a9a6f5a64ba37ed9/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/cf3fbd9676f64597a9a6f5a64ba37ed9/1779203771-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 950.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820222760577",
+      "sku": "103834",
+      "title": "Молоко Галичина безлактозне ультрапастеризоване 2,5% 950г",
+      "price": 7852,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 7852,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "lactose-free-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко ультрапастеризоване безлактозне 2,5% ТМ «Галичина» створене для людей, які мають чутливість до лактози та шукають комфортну альтернативу звичайному молоку.Це натуральне коров’яче молоко зі звичним м’яким смаком і збалансованою жирністю 2,5%. Завдяки процесу ультрапастеризації та сучасному пакуванню продукт зберігає свої властивості протягом тривалого терміну без додавання консервантів.Молоко готове до споживання без додаткової термічної обробки та підходить як для щоденного вживання, так і для приготування інших страв.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.60г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-galichina-950g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-galichina-950g--04820222760577/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров’яче незбиране, молоко знежирене, фермент лактаза. Масова частка лактози не більше 0,01%.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Галичина",
+        "trademark_slug": "galichina",
+        "website": "galychyna.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.252656fa7d4ef873142e53a45ca94cab.64x64.png"
+        },
+        "name": "прат \"галичина \""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/9e19558d6d5b40a4a0b5c04faca4e2bc/1759332972-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/1e4fa99be8234fc59aba9bc7d57f6c3c/1759332972-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/1e4fa99be8234fc59aba9bc7d57f6c3c/1759332972-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/1e4fa99be8234fc59aba9bc7d57f6c3c/1759332972-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/1e4fa99be8234fc59aba9bc7d57f6c3c/1759332972-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "low_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 980.0,
+      "has_similar_products": null,
+      "hits": 4,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820202532255",
+      "sku": "186254",
+      "title": "Молоко Злагода Домашне стерилізоване 3,2% 2кг",
+      "price": 17500,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 17500,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "sterilized-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "61.00ккал",
+        "ingredient_protein": "3.20г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-zlagoda-2000g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-zlagoda-2000g-ukrayina--04820202532255/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко знежирене.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "21 доба",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Злагода",
+        "trademark_slug": "zlagoda",
+        "website": "zlagoda.dp.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.64x64.png"
+        },
+        "name": "прат \"комбінат \"придніпровський\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/1f961acb8ba1418c968da872832bcbc4/1694070340-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 2068.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04823065723655",
+      "sku": "262439",
+      "title": "Молоко Lactel безлактозне ультрапастеризоване 2,5% 1кг",
+      "price": 8112,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 8112,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "lactose-free-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Безлактозне молоко “Комфорт” від ТМ «Lactel» легко\n засвоюється організмом людини, зберігаючи комфортні відчуття. Тому підходить\n навіть для тих, хто має складнощі з перетравленням молочного цукру – лактози,\n яка міститься в звичайних молочних продуктах, адже в молоці “Комфорт” від ТМ «Lactel»\n менше 0,01 % лактози.\nЛактель “ Lactel ”\n має всі переваги звичайного молока і підходить для всієї родини.",
+      "nutrition_facts": {
+        "ingredient_energy": "52.90ккал",
+        "ingredient_protein": "3.00г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.62г",
+        "ingredient_carbohydrates": "4.60г",
+        "ingredient_sugars": "4.60г",
+        "ingredient_salt": "0.13г"
+      },
+      "slug": "moloko-laktel-1000g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-laktel-1000g-ukrayina--04823065723655/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко нормалізоване, фермент лактаза.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Lactel",
+        "trademark_slug": "lactel",
+        "website": "lactalis.com.ua",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.530740f415d06b47c418722974e5146c.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.530740f415d06b47c418722974e5146c.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.530740f415d06b47c418722974e5146c.64x64.png"
+        },
+        "name": "тов \"молочний дім\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/d4f409a2c63749fb820603f3861bcd4d/1750998397-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/9f770875591d4ea1b5fb507b8848991c/1750998397-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/9f770875591d4ea1b5fb507b8848991c/1750998397-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/9f770875591d4ea1b5fb507b8848991c/1750998397-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/9f770875591d4ea1b5fb507b8848991c/1750998397-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/cca81ef2b8df46bea583d994adb62e0e/1750998397-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/cca81ef2b8df46bea583d994adb62e0e/1750998397-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/cca81ef2b8df46bea583d994adb62e0e/1750998397-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/cca81ef2b8df46bea583d994adb62e0e/1750998397-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 1000.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820202530763",
+      "sku": "408757",
+      "title": "Молоко Злагода Відбірне стерилізоване 2,5% 2кг",
+      "price": 13832,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 13832,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "sterilized-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "",
+      "nutrition_facts": {
+        "ingredient_energy": "53.30ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "2.50г",
+        "ingredient_fats_saturated": "1.70г",
+        "ingredient_carbohydrates": "4.80г",
+        "ingredient_sugars": "4.80г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-zlagoda-2000g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-zlagoda-2000g-ukrayina--04820202530763/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране, молоко знежирене.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "21 доба",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Злагода",
+        "trademark_slug": "zlagoda",
+        "website": "zlagoda.dp.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.16x16.png",
+          "s64x64": "https://img3.zakaz.ua/upload.version_1.0.1bce02eb5023a8fc1c4888abc0d76687.64x64.png"
+        },
+        "name": "прат \"комбінат \"придніпровський\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/9afa99ee94fd4f2abd9a0c0af28518ff/1756105063-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 2070.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820001472363",
+      "sku": "412407",
+      "title": "Молоко Metro Chef 2,5% 1л",
+      "price": 4890,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4890,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Metro Chef ультрапастеризоване 2,5% 1л — це якісний продукт на основі коров’ячого молока, виготовлений виробником МЕTRO Cash&Carry за сучасною технологією збереження смакових і поживних властивостей. Має м’який смак, легко збивається в пінку, ідеально підходить для кавових напоїв, кулінарії, випічки, приготування млинців, соусів і десертів.\n \nКупити зручно із швидкою доставкою від zakaz.ua.",
+      "nutrition_facts": {
+        "ingredient_energy": "52.70ккал",
+        "ingredient_protein": "2.82г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.73г"
+      },
+      "slug": "moloko-metro-shef-1000ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-metro-shef-1000ml--04820001472363/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче незбиране і молоко коров'яче знежирене.​<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": "voloshkovepole.com.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "прат \"юрія\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/3016dfdb49ca44cb97a409f24077b85f/1737470502-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/172b944abfe448d6a449804fa9a6e6ef/1737470502-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/172b944abfe448d6a449804fa9a6e6ef/1737470502-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/172b944abfe448d6a449804fa9a6e6ef/1737470502-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/172b944abfe448d6a449804fa9a6e6ef/1737470502-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/d5cd866d0e55456683f51f9f6b8f31a1/1737470502-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/d5cd866d0e55456683f51f9f6b8f31a1/1737470502-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/d5cd866d0e55456683f51f9f6b8f31a1/1737470502-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/d5cd866d0e55456683f51f9f6b8f31a1/1737470502-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1100.0,
+      "has_similar_products": null,
+      "hits": 2,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003481547",
+      "sku": "302132",
+      "title": "Молоко Селянське ультрапастеризоване 2.5% 900г",
+      "price": 5824,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5824,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко тм «Селянське» - улюблена торгова марка споживачів",
+      "nutrition_facts": {
+        "ingredient_energy": "52.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-selianske-900g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-selianske-900g-ukrayina--04820003481547/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Селянське",
+        "trademark_slug": "selianske",
+        "website": "loostdorf.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.32x32.jpg",
+          "s16x16": "https://img3.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.16x16.jpg",
+          "s64x64": "https://img2.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.64x64.jpg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s350x350.jpg",
+        "s1350x1350": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/ab4899cbb4644e0f9006e9adf6c398e6/1770036706-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 913.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820001472387",
+      "sku": "412406",
+      "title": "Молоко Metro Chef 1,5% 1кг",
+      "price": 4690,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4690,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Metro Chef питне ультрапастеризоване 1,5% 1л — натуральний продукт на основі коров’ячого молока з м’яким смаком і зниженою жирністю. Виробник МЕTRO Cash&Carry подбав про високу якість та збереження корисних властивостей завдяки ультрапастеризації. Зручна упаковка тетра-пак дозволяє зберігати молоко до 180 діб без втрати свіжості.\n \nКупити вигідно з доставкою від zakaz.ua просто зараз.",
+      "nutrition_facts": {
+        "ingredient_energy": "44.00ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "1.50г",
+        "ingredient_carbohydrates": "4.78г"
+      },
+      "slug": "moloko-metro-shef-1000ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-metro-shef-1000ml--04820001472387/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче знежирене, молоко коров'яче незбиране.<br>"
+      ],
+      "fat": "1.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "пп \"отеко\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/164f09af692d4f1fafe806cd430b02c5/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/10b62329afbb4f6694f9713c516b92c0/1755507955-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/10b62329afbb4f6694f9713c516b92c0/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/10b62329afbb4f6694f9713c516b92c0/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/10b62329afbb4f6694f9713c516b92c0/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/3d177c86961c4d8487b8c3e33ed58710/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/3d177c86961c4d8487b8c3e33ed58710/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/3d177c86961c4d8487b8c3e33ed58710/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/3d177c86961c4d8487b8c3e33ed58710/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/b374157aacde41ae8690a34d77d368cc/1752656760-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/b374157aacde41ae8690a34d77d368cc/1752656760-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/b374157aacde41ae8690a34d77d368cc/1752656760-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/b374157aacde41ae8690a34d77d368cc/1752656760-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1028.0,
+      "has_similar_products": null,
+      "hits": 0,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820001472370",
+      "sku": "412408",
+      "title": "Молоко Metro Chef 3,2% 1л",
+      "price": 5200,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 5200,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": 1000.0,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Metro Chef ультрапастеризоване 3,2% 1л — це якісний молочний продукт на основі коров’ячого молока з приємним смаком та збалансованим вмістом жиру. Завдяки ультрапастеризації зберігає корисні властивості, тривалий час залишається свіжим без додаткових консервантів. Упаковане в зручний тетра-пак, виготовлене компанією МЕTRO Cash&Carry в Україні.\n \nКупити легко з доставкою від zakaz.ua.",
+      "nutrition_facts": {
+        "ingredient_energy": "59.20ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "3.20г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-metro-shef-1000ml",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-metro-shef-1000ml--04820001472370/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров’яче незбиране та молоко коров’яче знежирене.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": "voloshkovepole.com.ua",
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "прат \"юрія\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b24955da6ba149ab919aeff44236c86b/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/6a872c6468a94677aa0a646d4bca1ff8/1755507955-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6a872c6468a94677aa0a646d4bca1ff8/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/6a872c6468a94677aa0a646d4bca1ff8/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/6a872c6468a94677aa0a646d4bca1ff8/1755507955-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/5e03c914f5dc4893861f1914d6343492/1755507955-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/5e03c914f5dc4893861f1914d6343492/1755507955-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/5e03c914f5dc4893861f1914d6343492/1755507955-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/5e03c914f5dc4893861f1914d6343492/1755507955-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 1100.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820284560979",
+      "sku": "240310",
+      "title": "Молоко Metro Chef 2,5% 870г",
+      "price": 4490,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 4490,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "pasteurized-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Metro Chef 2,5% 870г — пастеризований продукт на основі коров’ячого молока з натуральним складом і збалансованою жирністю. Виготовлене в Україні спеціально для METRO Cash&Carry, зберігає свіжість до 12 діб при температурі 2–6°C.\n \nУпаковане в зручну пластикову пляшку, підходить для щоденного вживання або кулінарних потреб. Купити легко з доставкою від zakaz.ua.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.90г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "14.70г"
+      },
+      "slug": "moloko-metro-shef-870g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-metro-shef-870g--04820284560979/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": []
+      },
+      "ingredients": [
+        "Молоко коров`яче нормалізоване.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "12 діб",
+      "temperature_range": "2...6",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Metro Chef",
+        "trademark_slug": "metro-chef",
+        "website": null,
+        "logo": {
+          "s32x32": "https://img3.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.32x32.png",
+          "s16x16": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.9820004826699dccf2d00261852e172f.64x64.png"
+        },
+        "name": "ПрАТ Тернопільський молокозавод"
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/8ed167debc734914a5220e093a037f9d/1737987107-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 870.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820003481554",
+      "sku": "300463",
+      "title": "Молоко Селянське ультрапастеризоване 3.2% 900г",
+      "price": 6344,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6344,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "uht-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко тм «Селянське» - улюблена торгова марка споживачів",
+      "nutrition_facts": {
+        "ingredient_energy": "58.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "3.20г",
+        "ingredient_fats_saturated": "2.20г",
+        "ingredient_carbohydrates": "4.70г",
+        "ingredient_sugars": "4.70г",
+        "ingredient_salt": "0.10г"
+      },
+      "slug": "moloko-selianske-900g-ukrayina",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-selianske-900g-ukrayina--04820003481554/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коров'яче (100%), нормалізоване.<br>"
+      ],
+      "fat": "3.2%",
+      "shelf_life": "90 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Селянське",
+        "trademark_slug": "selianske",
+        "website": "loostdorf.com",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.32x32.jpg",
+          "s16x16": "https://img3.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.16x16.jpg",
+          "s64x64": "https://img2.zakaz.ua/upload.dabfe715d62a871a53a0809b56628647.64x64.jpg"
+        },
+        "name": "тов \"люстдорф\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s150x150.jpg",
+        "s200x200": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s200x200.jpg",
+        "s350x350": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/bff1b6401e3a4a84883afd83b412ccc2/1770036706-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": false,
+      "available_for_cart": true,
+      "own_brand_data": {},
+      "taxons": [],
+      "weight": 913.0,
+      "has_similar_products": null,
+      "hits": 3,
+      "shopping_list_count": null
+    },
+    {
+      "ean": "04820086633734",
+      "sku": "210968",
+      "title": "Молоко Rioba Безлактозне ультрапастеризоване 2,5% 950г",
+      "price": 6300,
+      "price_wholesale": [],
+      "discount": {
+        "status": false,
+        "value": 0,
+        "old_price": 6300,
+        "due_date": null,
+        "display_value": false
+      },
+      "bundle": 1,
+      "unit": "pcs",
+      "volume": null,
+      "quantity": {
+        "min": 1,
+        "step": 1,
+        "is_strict": false
+      },
+      "currency": "uah",
+      "category_id": "lactose-free-milk-metro",
+      "parent_category_id": "dairy-and-eggs-metro",
+      "category_filters": [],
+      "description": "Молоко Rioba Безлактозне ультрапастеризоване 2,5% 950г — коров’ячий продукт, який проходить термічну обробку, зберігаючи поживну цінність. Підходить для щоденного вживання людьми з непереносністю лактози. Завдяки м’якому смаку використовується в напоях, десертах та гарячих стравах. Виробник METRO Cash&Carry гарантує якість та відповідність сучасним вимогам до безпечності харчових продуктів.\n \nКупити зручно з доставкою від zakaz.ua до дверей у зручний час.",
+      "nutrition_facts": {
+        "ingredient_energy": "53.00ккал",
+        "ingredient_protein": "2.80г",
+        "ingredient_fat": "2.50г",
+        "ingredient_carbohydrates": "4.70г"
+      },
+      "slug": "moloko-rioba-950g",
+      "in_stock": true,
+      "is_hit": false,
+      "is_alcohol": false,
+      "is_nicotine": false,
+      "is_ready_meal": false,
+      "is_new_product": false,
+      "horeca_only": false,
+      "excisable": false,
+      "web_url": "https://metro.zakaz.ua/uk/products/moloko-rioba-950g--04820086633734/",
+      "restrictions": {
+        "in_sell_from": "00:00",
+        "prohibited_payment_methods": [],
+        "available_for_delivery_services": [
+          "nova_poshta",
+          "ukrposhta"
+        ]
+      },
+      "ingredients": [
+        "Молоко коровяче незбиране, молоко знежирене, фермент лактаза.<br>"
+      ],
+      "fat": "2.5%",
+      "shelf_life": "180 діб",
+      "temperature_range": "1...25",
+      "pack_amount": null,
+      "country": "Україна",
+      "producer": {
+        "trademark": "Rioba",
+        "trademark_slug": "rioba",
+        "website": "metro.ua/public/ua_ua/svit-tovariv/tilky_v_metro",
+        "logo": {
+          "s32x32": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.32x32.png",
+          "s16x16": "https://img3.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.16x16.png",
+          "s64x64": "https://img2.zakaz.ua/upload.version_1.0.a155c465e91d11d21506b13cb5ceb345.64x64.png"
+        },
+        "name": "тов \"метро кеш енд кері україна\""
+      },
+      "custom_ribbons": [],
+      "img": {
+        "s150x150": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s150x150.jpg",
+        "s200x200": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s200x200.jpg",
+        "s350x350": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s350x350.jpg",
+        "s1350x1350": "https://img3.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s1350x1350.jpg"
+      },
+      "gallery": [
+        {
+          "s150x150": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/c2ef301fad17409b89ea92393dda2024/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/m.1674648435.ad72436478c_2023-01-25_Svetlana/m.1674648435.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.150nowm.jpg.150x.jpg",
+          "s200x200": "https://img3.zakaz.ua/m.1674648435.ad72436478c_2023-01-25_Svetlana/m.1674648435.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.200nowm.jpg.200x.jpg",
+          "s350x350": "https://img3.zakaz.ua/m.1674648435.ad72436478c_2023-01-25_Svetlana/m.1674648435.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.350nowm.jpg.350x.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/m.1674648435.ad72436478c_2023-01-25_Svetlana/m.1674648435.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg"
+        },
+        {
+          "s150x150": "https://img2.zakaz.ua/c5e4970d4dfd4a3fa5d43410357b989d/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/c5e4970d4dfd4a3fa5d43410357b989d/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/c5e4970d4dfd4a3fa5d43410357b989d/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/c5e4970d4dfd4a3fa5d43410357b989d/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/b2b15e5b26ec4315aabec3fc7721cabd/1779203771-s150x150.jpg",
+          "s200x200": "https://img3.zakaz.ua/b2b15e5b26ec4315aabec3fc7721cabd/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/b2b15e5b26ec4315aabec3fc7721cabd/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/b2b15e5b26ec4315aabec3fc7721cabd/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/01b2ade8660a4d4faaf909f51c3c417c/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/01b2ade8660a4d4faaf909f51c3c417c/1779203771-s200x200.jpg",
+          "s350x350": "https://img3.zakaz.ua/01b2ade8660a4d4faaf909f51c3c417c/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img2.zakaz.ua/01b2ade8660a4d4faaf909f51c3c417c/1779203771-s1350x1350.jpg"
+        },
+        {
+          "s150x150": "https://img3.zakaz.ua/6ff28a7c91344c86b591f3ce75772052/1779203771-s150x150.jpg",
+          "s200x200": "https://img2.zakaz.ua/6ff28a7c91344c86b591f3ce75772052/1779203771-s200x200.jpg",
+          "s350x350": "https://img2.zakaz.ua/6ff28a7c91344c86b591f3ce75772052/1779203771-s350x350.jpg",
+          "s1350x1350": "https://img3.zakaz.ua/6ff28a7c91344c86b591f3ce75772052/1779203771-s1350x1350.jpg"
+        }
+      ],
+      "is_uber_item": false,
+      "verbose_stock": "in_stock",
+      "take_more": false,
+      "is_own_brand": true,
+      "available_for_cart": true,
+      "own_brand_data": {
+        "image": "https://img4.zakaz.ua/store_logos/own_metro.svg"
+      },
+      "taxons": [],
+      "weight": 950.0,
+      "has_similar_products": null,
+      "hits": 1,
+      "shopping_list_count": null
+    }
+  ],
+  "categories": [],
+  "filters": [
+    {
+      "key": "own_brands",
+      "name": "Власні торгові марки",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Власні торгові марки",
+          "value": "1",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "key": "new",
+      "name": "Новинки",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Новинки",
+          "value": "1",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "key": "promotion",
+      "name": "Акційні товари",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Акційні товари",
+          "value": "1",
+          "count": 13
+        }
+      ]
+    },
+    {
+      "key": "available",
+      "name": "Тільки в наявності",
+      "type": "single",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Тільки в наявності",
+          "value": "1",
+          "count": 191
+        }
+      ]
+    },
+    {
+      "key": "category_id",
+      "name": "Категорії",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Бакалія",
+          "value": "packets-cereals-metro",
+          "count": 8
+        },
+        {
+          "name": "Гарячі напої",
+          "value": "hot-drinks-metro",
+          "count": 3
+        },
+        {
+          "name": "Гігієна та догляд",
+          "value": "personal-hygiene-metro",
+          "count": 2
+        },
+        {
+          "name": "Заморозка",
+          "value": "frozen-metro",
+          "count": 1
+        },
+        {
+          "name": "Здорове харчування та спосіб життя ",
+          "value": "health-and-lifestyle-metro",
+          "count": 47
+        },
+        {
+          "name": "Знижко-Звичка",
+          "value": "special-offerings-metro",
+          "count": 13
+        },
+        {
+          "name": "Каталог Вигідних пропозицій",
+          "value": "special-offers-metro",
+          "count": 1
+        },
+        {
+          "name": "М'ясо та ковбасні вироби",
+          "value": "meat-fish-poultry-metro",
+          "count": 5
+        },
+        {
+          "name": "Напої",
+          "value": "drinks-metro",
+          "count": 5
+        },
+        {
+          "name": "Пекарня",
+          "value": "bakery-metro",
+          "count": 1
+        },
+        {
+          "name": "Солодощі",
+          "value": "snacks-and-sweets-metro",
+          "count": 33
+        },
+        {
+          "name": "Соуси та спеції",
+          "value": "sauces-and-spices-metro",
+          "count": 1
+        },
+        {
+          "name": "Товари для дому",
+          "value": "household-goods-metro",
+          "count": 1
+        },
+        {
+          "name": "Товари для дітей",
+          "value": "babies-metro",
+          "count": 14
+        },
+        {
+          "name": "Товари для тварин",
+          "value": "for-animals-metro",
+          "count": 1
+        },
+        {
+          "name": "Яйця та молочні продукти",
+          "value": "dairy-and-eggs-metro",
+          "count": 156
+        }
+      ]
+    },
+    {
+      "key": "price",
+      "name": "Ціна",
+      "type": "range",
+      "is_standart": true,
+      "min": 187.0,
+      "max": 199900.0
+    },
+    {
+      "key": "tm",
+      "name": "Торгова марка",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Alpro",
+          "value": "alpro",
+          "count": 13
+        },
+        {
+          "name": "Aro",
+          "value": "aro",
+          "count": 9
+        },
+        {
+          "name": "Balconi",
+          "value": "balconi",
+          "count": 1
+        },
+        {
+          "name": "Bee Granola",
+          "value": "bee-granola",
+          "count": 1
+        },
+        {
+          "name": "Coco Organic",
+          "value": "coco-organic",
+          "count": 2
+        },
+        {
+          "name": "Delicia",
+          "value": "delicia",
+          "count": 1
+        },
+        {
+          "name": "Delickcious",
+          "value": "delickcious",
+          "count": 1
+        },
+        {
+          "name": "El Pastor",
+          "value": "el-pastor",
+          "count": 1
+        },
+        {
+          "name": "Fine Life",
+          "value": "fine-life",
+          "count": 4
+        },
+        {
+          "name": "Green Smile",
+          "value": "green-smile",
+          "count": 6
+        },
+        {
+          "name": "HiPP",
+          "value": "hipp",
+          "count": 2
+        },
+        {
+          "name": "Hotos",
+          "value": "hotos",
+          "count": 1
+        },
+        {
+          "name": "Ile de France",
+          "value": "ile-de-france",
+          "count": 1
+        },
+        {
+          "name": "Jaffa",
+          "value": "jaffa",
+          "count": 3
+        },
+        {
+          "name": "Johnson’s baby",
+          "value": "johnsons-baby",
+          "count": 1
+        },
+        {
+          "name": "Lactel",
+          "value": "lactel",
+          "count": 4
+        },
+        {
+          "name": "Lambertz",
+          "value": "lambertz",
+          "count": 1
+        },
+        {
+          "name": "Lotte",
+          "value": "lotte",
+          "count": 1
+        },
+        {
+          "name": "MacCoffee",
+          "value": "maccoffee",
+          "count": 1
+        },
+        {
+          "name": "Metro Chef",
+          "value": "metro-chef",
+          "count": 23
+        },
+        {
+          "name": "Millennium",
+          "value": "millennium",
+          "count": 1
+        },
+        {
+          "name": "Mlekovita",
+          "value": "mlekovita",
+          "count": 2
+        },
+        {
+          "name": "Oatly!",
+          "value": "oatly",
+          "count": 4
+        },
+        {
+          "name": "Organic Milk",
+          "value": "organic-milk",
+          "count": 4
+        },
+        {
+          "name": "Orient Taste ",
+          "value": "orient-taste",
+          "count": 1
+        },
+        {
+          "name": "Palancares ",
+          "value": "palancares",
+          "count": 1
+        },
+        {
+          "name": "Palmolive",
+          "value": "palmolive",
+          "count": 1
+        },
+        {
+          "name": "President",
+          "value": "president",
+          "count": 1
+        },
+        {
+          "name": "Pripravka",
+          "value": "pripravka",
+          "count": 1
+        },
+        {
+          "name": "Pro Service",
+          "value": "pro-service",
+          "count": 1
+        },
+        {
+          "name": "Rioba",
+          "value": "rioba",
+          "count": 10
+        },
+        {
+          "name": "Ritter Sport",
+          "value": "ritter-sport",
+          "count": 1
+        },
+        {
+          "name": "Roshen",
+          "value": "roshen",
+          "count": 13
+        },
+        {
+          "name": "Sproud ",
+          "value": "sproud",
+          "count": 4
+        },
+        {
+          "name": "Tarrington House",
+          "value": "tarrington-house",
+          "count": 1
+        },
+        {
+          "name": "Tarta",
+          "value": "tarta",
+          "count": 4
+        },
+        {
+          "name": "Trier",
+          "value": "trier",
+          "count": 1
+        },
+        {
+          "name": "Vega Milk",
+          "value": "vega-milk",
+          "count": 3
+        },
+        {
+          "name": "Yarych",
+          "value": "yarych",
+          "count": 1
+        },
+        {
+          "name": "Zinka",
+          "value": "zinka",
+          "count": 2
+        },
+        {
+          "name": "Банка Спецій",
+          "value": "banka-spetsii",
+          "count": 1
+        },
+        {
+          "name": "БКК",
+          "value": "bkk",
+          "count": 2
+        },
+        {
+          "name": "Бурьонка",
+          "value": "buronka",
+          "count": 4
+        },
+        {
+          "name": "Весела Бурьонка",
+          "value": "vesela-buronka",
+          "count": 1
+        },
+        {
+          "name": "Галичина",
+          "value": "galichina",
+          "count": 5
+        },
+        {
+          "name": "Жако",
+          "value": "zhako",
+          "count": 2
+        },
+        {
+          "name": "Злагода",
+          "value": "zlagoda",
+          "count": 4
+        },
+        {
+          "name": "КиївХліб",
+          "value": "kiyivkhlib",
+          "count": 1
+        },
+        {
+          "name": "Мамако",
+          "value": "mamako",
+          "count": 4
+        },
+        {
+          "name": "Молокія",
+          "value": "molokiia",
+          "count": 8
+        },
+        {
+          "name": "Молочний Світ",
+          "value": "molochnii-svit",
+          "count": 1
+        },
+        {
+          "name": "Мукко",
+          "value": "mukko",
+          "count": 1
+        },
+        {
+          "name": "На Здоров'я",
+          "value": "na-zdorovia",
+          "count": 4
+        },
+        {
+          "name": "Пирятин",
+          "value": "piriatin",
+          "count": 6
+        },
+        {
+          "name": "ПМКК",
+          "value": "pmkk",
+          "count": 9
+        },
+        {
+          "name": "ПростоНаше",
+          "value": "prostonashe",
+          "count": 3
+        },
+        {
+          "name": "Ранчо",
+          "value": "rancho",
+          "count": 1
+        },
+        {
+          "name": "Світоч",
+          "value": "svitoch",
+          "count": 1
+        },
+        {
+          "name": "Селянське",
+          "value": "selianske",
+          "count": 14
+        },
+        {
+          "name": "Сто Пудів",
+          "value": "sto-pudiv",
+          "count": 2
+        },
+        {
+          "name": "Тульчинка",
+          "value": "tulchinka",
+          "count": 1
+        },
+        {
+          "name": "Фаворит",
+          "value": "favorit",
+          "count": 2
+        },
+        {
+          "name": "Ферма",
+          "value": "ferma",
+          "count": 4
+        },
+        {
+          "name": "Яготинське",
+          "value": "iagotinske",
+          "count": 1
+        },
+        {
+          "name": "Яготинське для дітей",
+          "value": "iagotinske-dlia-ditei",
+          "count": 5
+        },
+        {
+          "name": "Ятрань",
+          "value": "iatran",
+          "count": 2
+        },
+        {
+          "name": "ЇжНаше",
+          "value": "yizhnashe",
+          "count": 1
+        }
+      ]
+    },
+    {
+      "key": "country",
+      "name": "Країна-виробник",
+      "type": "multiselect",
+      "is_standart": true,
+      "options": [
+        {
+          "name": "Бельгія",
+          "value": "belgium",
+          "count": 12
+        },
+        {
+          "name": "Греція",
+          "value": "greece",
+          "count": 1
+        },
+        {
+          "name": "Китай",
+          "value": "china",
+          "count": 1
+        },
+        {
+          "name": "Корея",
+          "value": "korea",
+          "count": 1
+        },
+        {
+          "name": "Нідерланди",
+          "value": "netherlands",
+          "count": 4
+        },
+        {
+          "name": "Німеччина",
+          "value": "germany",
+          "count": 5
+        },
+        {
+          "name": "Польща",
+          "value": "poland",
+          "count": 3
+        },
+        {
+          "name": "Сербія",
+          "value": "serbia",
+          "count": 3
+        },
+        {
+          "name": "Тайланд",
+          "value": "thailand",
+          "count": 5
+        },
+        {
+          "name": "Туреччина",
+          "value": "turkey",
+          "count": 1
+        },
+        {
+          "name": "Угорщина",
+          "value": "hungary",
+          "count": 1
+        },
+        {
+          "name": "Україна",
+          "value": "ukraine",
+          "count": 169
+        },
+        {
+          "name": "Франція",
+          "value": "france",
+          "count": 2
+        },
+        {
+          "name": "Чехія",
+          "value": "czech-republic",
+          "count": 1
+        },
+        {
+          "name": "Швеція",
+          "value": "sweden",
+          "count": 4
+        },
+        {
+          "name": "Шрі-Ланка",
+          "value": "sri-lanka",
+          "count": 2
+        },
+        {
+          "name": "Іспанія",
+          "value": "spain",
+          "count": 3
+        },
+        {
+          "name": "Італія",
+          "value": "italy",
+          "count": 7
+        }
+      ]
+    }
+  ],
+  "category_results": [
+    "powder-milk-metro",
+    "condensed-milk-metro",
+    "baked-milk-metro",
+    "vegetable-milk-metro",
+    "lactose-free-milk-metro",
+    "sterilized-milk-metro",
+    "pasteurized-milk-metro",
+    "coconut-milk-and-cream-metro",
+    "uht-milk-metro"
+  ],
+  "is_fuzzy": false,
+  "stats": null
+}
